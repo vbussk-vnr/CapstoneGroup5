@@ -1,0 +1,16 @@
+{
+  "name": "legal_baseline_dense_minilm",
+  "domain": "pubmedqa",
+  "subset": "cuad",
+  "description": "Baseline: Dense with general embeddings",
+  "chunking_strategy": "sentence_based",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+  "retrieval_type": "dense",
+  "top_k_final": 5,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.0,
+  "expected_improvement": "0%",
+  "rationale": "Standard baseline"
+}

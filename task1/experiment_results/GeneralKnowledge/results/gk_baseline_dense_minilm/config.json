@@ -1,0 +1,16 @@
+{
+  "name": "gk_baseline_dense_minilm",
+  "domain": "general_knowledge",
+  "subset": "cuad",
+  "description": "Baseline: Dense with general embeddings",
+  "chunking_strategy": "sentence_based",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "retrieval_type": "dense",
+  "top_k_final": 5,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.0,
+  "expected_improvement": "0%",
+  "rationale": "Standard baseline"
+}

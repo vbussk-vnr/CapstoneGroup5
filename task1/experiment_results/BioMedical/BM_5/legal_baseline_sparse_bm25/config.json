@@ -1,0 +1,16 @@
+{
+  "name": "legal_baseline_sparse_bm25",
+  "domain": "pubmedqa",
+  "subset": "cuad",
+  "description": "Baseline: Sparse - captures legal terms",
+  "chunking_strategy": "sentence_based",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+  "retrieval_type": "sparse",
+  "top_k_final": 5,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.0,
+  "expected_improvement": "0%",
+  "rationale": "BM25 good for legal terminology"
+}

@@ -1,0 +1,58 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT__Volume Restriction,"Is there a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold?",0.5772357723577236,0.5609756097560976,1.0,0.0,"Based on the provided context documents, there is a provision related to a possible fee increase or consent requirement if one party's use of the product/services exceeds certain thresholds.
+
+In Document 10, Section 5.1.4, subsection (iii), it mentions that if a party exceeds its respective Overhead MIPS for any year, it shall bear the full cost and expense of upgrading the CPU-Based Software licenses. However, if the other party exceeds its Overhead MIPS, it shall pay the CPU Triggering Party an amount equal to the total cost to the CPU Triggering Party of purchasing the upgrade multiplied by a fraction.
+
+This suggests that there is a cost associated with exceeding the specified threshold, and it appears to be a mechanism for cost allocation rather than a fee increase or consent requirement per se. However, without more information, it is difficult to determine the specifics of the allocation.
+
+Document 3 also mentions that any termination of this Agreement will be without prejudice to the settlement of the rights created and obligations incurred hereunder prior to the time of such termination. However, this does not appear to be directly related to a fee increase or consent requirement.
+
+Document 9, Section 10.4, limits the liability of the parties and states that neither party's aggregate liability to the other"
+EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.__Rofr/Rofo/Rofn,"Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",0.7697841726618705,0.03597122302158273,0.04672897196261682,1.0,"Based on the provided context documents, there are instances of clauses granting one party a right of first refusal, right of first offer, or right of first negotiation, but they are not exactly as the question describes.
+
+Document 1 has a ""RIGHT OF FIRST REFUSAL"" clause, where Affiliate is required to notify Network 1 of any Bona Fide Offer to purchase or acquire Affiliate, and Network 1 has the exclusive right of first refusal to purchase or acquire on the same terms and conditions.
+
+Document 2 has a ""right of first offer"" clause, where Hyatt's affiliate or Playa's affiliate has the right of first offer to acquire a Development Property, but this right expires if they fail to acquire the property within a specified period.
+
+There are no clauses specifically granting a right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products, or services.
+
+However, there are several instances where one party has the right to approve or consent to the actions of the other party, which can be seen as a form of right of first refusal or right of first offer.
+
+Document 3 has a clause stating that the transfer of assets is subject to the consent of the other party, but this is not exactly a right of"
+"MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT__Warranty Duration","What is the duration of any  warranty against defects or errors in technology, products, or services  provided under the contract?",0.12396694214876033,0.06611570247933884,0.5333333333333333,0.0,"Based on the provided context documents, the duration of any warranty against defects or errors in technology, products, or services varies depending on the specific agreement.
+
+Document 1 does not specify a duration for the warranty against defects. However, it does state that the manufacturer acknowledges it is solely responsible for any warranty costs associated with its products.
+
+Document 2 mentions that D2 shall provide maintenance and support services to Licensee for a period of twelve months (the ""Contract Year"") after the expiry of the warranty period. The warranty period is not explicitly stated in this document. However, in Document 6, it is mentioned that upon successful completion of the acceptance testing, Licensee shall make the final ""Development License Fee"" payment, and D2 shall provide maintenance and support services for a minimum of five years after Acceptance of Licensed Technology.
+
+Document 3 does not provide any information about the duration of the warranty.
+
+Document 4 mentions that upon delivery of the Licensed Technology to Licensee, D2 shall test and verify that such Licensed Technology shall perform in accordance with an acceptance specification agreed to by D2 and Licensee. The duration of the warranty is not explicitly stated in this document.
+
+Document 5 does not provide any information about the duration of the warranty.
+
+Document 6 mentions"
+AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT__Joint Ip Ownership,Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?,0.0,0.0,0.0,0.0,"Yes, there are several clauses that provide for joint or shared ownership of intellectual property between the parties to the contract.
+
+In Document 4, Section 4.2.3.2.3, it is stated that if the intellectual property rights comprise analysis prepared for or on behalf of the parties, or any intellectual property right co-developed by the parties, or any Support Information, or any data as specifically provided to Skype or the Online Group by Company-Skype Branded Customers, then such rights shall be jointly owned by the parties.
+
+In Document 6, Section 5.2, it is stated that if the licensor is not the sole and exclusive owner of all of the intellectual property rights to the content, then the licensor has been granted by the owner or rightful sub-licensee of the intellectual property the right to grant the rights provided by the licensor to plan_b under this Agreement.
+
+In Document 8, Article II, Section 2.4, it is stated that the parties acknowledge and agree that the shared library materials represent a collection of shared historical and foundational information related to and derived from more than fifty (50) years of research and development focused on technology and design criteria applicable to the businesses of RemainCo and SpinCo. The Shared Library"
+"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.__Non-Compete",Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector? ,0.08661417322834646,0.023622047244094488,0.2727272727272727,0.0,"Based on the provided context documents, there are several restrictions on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector.
+
+From Document 1:
+
+* Section 9.2 restricts the ability of Company and its Affiliates to market, promote, sell, distribute, or otherwise commercialize competing products in the Territory without the prior written consent of Janssen.
+* Section 9.3 restricts the ability of Company and its Affiliates to compare their products with the Product in any aspect or disparage the Product in any manner.
+* Section 9.4 restricts the ability of Janssen to directly or indirectly solicit for employment any Sales Representative who is an employee of Company, and Company to directly or indirectly solicit for employment any employee of Janssen.
+
+From Document 3:
+
+* There is no specific restriction on competition or geography, but there is a provision that allows Hyatt to introduce Playa to a third party for the opportunity to manage a Hyatt All-Inclusive Resort in the Market Area.
+
+From Document 8:
+
+* There is no specific restriction on competition or geography, but there is a provision that allows the Parties to negotiate regarding the allocation of Shared Library Materials.
+
+From Document"

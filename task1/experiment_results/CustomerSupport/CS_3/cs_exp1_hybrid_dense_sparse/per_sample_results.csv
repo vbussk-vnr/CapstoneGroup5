@@ -1,0 +1,15 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+techqa_DEV_Q243,"Using cobol copybooks Sometimes, there will be errors/fields missing in typetree, while importing cobol copybooks. Is there any format for copybooks(specifically to be used in wtx), that we need to follow? ",0.1111111111111111,0.1111111111111111,1.0,0.0,"Based on the provided context, there is no direct information that addresses the specific question about the format for copybooks to be used in WTX. 
+
+However, Document 5 provides some related information. It mentions that, when installing WTX Design Studio 8.4.1.1 on the Windows platform, the COBOL Copybook importer may be missing after the upgrade. It suggests that this issue can be resolved by installing WTX Design Studio 8.4.1.1 in an empty directory and then performing any installation customization.
+
+It also mentions that some files are not correctly overwritten/modified during the upgrade. This implies that there may be specific requirements or formats for copybooks, but it does not explicitly state what those requirements are.
+
+Therefore, I would recommend consulting the official documentation or contacting IBM support for more information on the specific requirements for copybooks in WTX."
+techqa_DEV_Q280,Is WebSphere Transformation Extender (WTX) supported for IBM Integration Bus V10? When will WebSphere Transformation Extender (WTX) be supported for IBM Integration Bus V10?,0.76,0.32,0.42105263157894735,0.0,"Unfortunately, based on the provided context documents, I am unable to find any information on when WebSphere Transformation Extender (WTX) will be supported for IBM Integration Bus V10. 
+
+However, I can answer a part of the question based on the information in Document 4:
+WTX TX IIB DTXplugin cannot be located TECHNOTE (TROUBLESHOOTING).
+
+In this document, it is mentioned that the error 'DTXPlugin cannot be located' is encountered when using two installations of IBM Transformation Extender (ITX) installed on the same system with IBM Integration Bus (IIB) Toolkit. Specifically, it is mentioned that the issue is encountered when using ITX V9.0.0.x with IIB10.0.0.x and two versions of ITX are installed on the same system."
+techqa_DEV_Q253,Want to find out if Microsoft Edge is supported with ICC? Want to find out Microsoft Edge is supported with ICC? ,0.014705882352941176,0.004901960784313725,0.3333333333333333,1.0,Microsoft Edge is supported starting with IBM Content Collector 4.0.1 Fix Pack 2.

@@ -1,0 +1,16 @@
+{
+  "name": "cs_exp1_hybrid_dense_sparse",
+  "domain": "customer_support",
+  "subset": "techqa",
+  "description": "Hybrid: Combine dense (semantic) + sparse (lexical)",
+  "chunking_strategy": "sentence_based",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "retrieval_type": "hybrid",
+  "top_k_final": 5,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.5,
+  "expected_improvement": "+15-25%",
+  "rationale": "Customer support queries have specific keywords + semantic meaning"
+}

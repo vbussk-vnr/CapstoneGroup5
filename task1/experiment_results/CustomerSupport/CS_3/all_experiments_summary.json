@@ -1,0 +1,379 @@
+{
+  "timestamp": "2026-01-24T02:18:39.395305",
+  "total_experiments": 7,
+  "experiments": [
+    {
+      "experiment": "cs_baseline_dense_minilm",
+      "config": {
+        "name": "cs_baseline_dense_minilm",
+        "domain": "customer_support",
+        "subset": "techqa",
+        "description": "Baseline: Dense retrieval with MiniLM embeddings",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "retrieval_type": "dense",
+        "top_k_final": 5,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.0,
+        "expected_improvement": "0% (Baseline)",
+        "rationale": "Standard dense retrieval baseline"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.18561390783806778,
+          "aucroc": null,
+          "mean_predicted": 0.15371102327624067,
+          "mean_ground_truth": 0.013801783831704044,
+          "std_predicted": 0.11401121822113482,
+          "std_ground_truth": 0.010056422773898913
+        },
+        "utilization_score": {
+          "rmse": 0.10599295353038303,
+          "aucroc": null,
+          "mean_predicted": 0.08069828722002635,
+          "mean_ground_truth": 0.013358521420356527,
+          "std_predicted": 0.07154920531054686,
+          "std_ground_truth": 0.010554735776822324
+        },
+        "completeness_score": {
+          "rmse": 0.761904211573484,
+          "aucroc": null,
+          "mean_predicted": 0.391025641025641,
+          "mean_ground_truth": 0.8333333333333334,
+          "std_predicted": 0.3898152768079685,
+          "std_ground_truth": 0.23570226039551584
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.75,
+          "mean_predicted": 0.3333333333333333,
+          "mean_ground_truth": 0.6666666666666666,
+          "std_predicted": 0.4714045207910317,
+          "std_ground_truth": 0.4714045207910317
+        }
+      }
+    },
+    {
+      "experiment": "cs_baseline_sparse_bm25",
+      "config": {
+        "name": "cs_baseline_sparse_bm25",
+        "domain": "customer_support",
+        "subset": "techqa",
+        "description": "Baseline: Sparse (BM25) - captures keywords in FAQ",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "retrieval_type": "sparse",
+        "top_k_final": 5,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.0,
+        "expected_improvement": "0% (Keyword baseline)",
+        "rationale": "BM25 good for matching FAQ keywords"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.3064840578259957,
+          "aucroc": null,
+          "mean_predicted": 0.28214747675683755,
+          "mean_ground_truth": 0.013801783831704044,
+          "std_predicted": 0.13828648668470708,
+          "std_ground_truth": 0.010056422773898913
+        },
+        "utilization_score": {
+          "rmse": 0.08743767269400707,
+          "aucroc": null,
+          "mean_predicted": 0.08006481468510242,
+          "mean_ground_truth": 0.013358521420356527,
+          "std_predicted": 0.057496770463641204,
+          "std_ground_truth": 0.010554735776822324
+        },
+        "completeness_score": {
+          "rmse": 0.45347634305838636,
+          "aucroc": null,
+          "mean_predicted": 0.38170426065162905,
+          "mean_ground_truth": 0.8333333333333334,
+          "std_predicted": 0.24148204577627772,
+          "std_ground_truth": 0.23570226039551584
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.75,
+          "mean_predicted": 0.3333333333333333,
+          "mean_ground_truth": 0.6666666666666666,
+          "std_predicted": 0.4714045207910317,
+          "std_ground_truth": 0.4714045207910317
+        }
+      }
+    },
+    {
+      "experiment": "cs_exp1_hybrid_dense_sparse",
+      "config": {
+        "name": "cs_exp1_hybrid_dense_sparse",
+        "domain": "customer_support",
+        "subset": "techqa",
+        "description": "Hybrid: Combine dense (semantic) + sparse (lexical)",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+15-25%",
+        "rationale": "Customer support queries have specific keywords + semantic meaning"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.42711174731746604,
+          "aucroc": null,
+          "mean_predicted": 0.2952723311546841,
+          "mean_ground_truth": 0.013801783831704044,
+          "std_predicted": 0.3309605683217463,
+          "std_ground_truth": 0.010056422773898913
+        },
+        "utilization_score": {
+          "rmse": 0.1786288188430011,
+          "aucroc": null,
+          "mean_predicted": 0.14533769063180826,
+          "mean_ground_truth": 0.013358521420356527,
+          "std_predicted": 0.13089509193410703,
+          "std_ground_truth": 0.010554735776822324
+        },
+        "completeness_score": {
+          "rmse": 0.34783033851742523,
+          "aucroc": null,
+          "mean_predicted": 0.5847953216374269,
+          "mean_ground_truth": 0.8333333333333334,
+          "std_predicted": 0.2957700261146618,
+          "std_ground_truth": 0.23570226039551584
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.75,
+          "mean_predicted": 0.3333333333333333,
+          "mean_ground_truth": 0.6666666666666666,
+          "std_predicted": 0.4714045207910317,
+          "std_ground_truth": 0.4714045207910317
+        }
+      }
+    },
+    {
+      "experiment": "cs_exp2_hybrid_rerank",
+      "config": {
+        "name": "cs_exp2_hybrid_rerank",
+        "domain": "customer_support",
+        "subset": "techqa",
+        "description": "Hybrid + Cross-encoder reranking",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+25-35%",
+        "rationale": "Reranking improves relevance of top results"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.524857636829253,
+          "aucroc": null,
+          "mean_predicted": 0.43231663035584605,
+          "mean_ground_truth": 0.013801783831704044,
+          "std_predicted": 0.32678704090784266,
+          "std_ground_truth": 0.010056422773898913
+        },
+        "utilization_score": {
+          "rmse": 0.2060142754466734,
+          "aucroc": null,
+          "mean_predicted": 0.1682643427741467,
+          "mean_ground_truth": 0.013358521420356527,
+          "std_predicted": 0.13786866189022542,
+          "std_ground_truth": 0.010554735776822324
+        },
+        "completeness_score": {
+          "rmse": 0.5094036812329186,
+          "aucroc": null,
+          "mean_predicted": 0.4679487179487179,
+          "mean_ground_truth": 0.8333333333333334,
+          "std_predicted": 0.3782594485110752,
+          "std_ground_truth": 0.23570226039551584
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.75,
+          "mean_predicted": 0.3333333333333333,
+          "mean_ground_truth": 0.6666666666666666,
+          "std_predicted": 0.4714045207910317,
+          "std_ground_truth": 0.4714045207910317
+        }
+      }
+    },
+    {
+      "experiment": "cs_exp3_hybrid_mpnet",
+      "config": {
+        "name": "cs_exp3_hybrid_mpnet",
+        "domain": "customer_support",
+        "subset": "techqa",
+        "description": "Hybrid with stronger embeddings (MPNet-base)",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+10-20%",
+        "rationale": "MPNet > MiniLM for semantic understanding"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.21672448559621907,
+          "aucroc": null,
+          "mean_predicted": 0.20647225298388086,
+          "mean_ground_truth": 0.013801783831704044,
+          "std_predicted": 0.10778762290618643,
+          "std_ground_truth": 0.010056422773898913
+        },
+        "utilization_score": {
+          "rmse": 0.2120354432986711,
+          "aucroc": null,
+          "mean_predicted": 0.19872031499938478,
+          "mean_ground_truth": 0.013358521420356527,
+          "std_predicted": 0.11223131372301669,
+          "std_ground_truth": 0.010554735776822324
+        },
+        "completeness_score": {
+          "rmse": 0.19985201625794738,
+          "aucroc": null,
+          "mean_predicted": 0.9487179487179488,
+          "mean_ground_truth": 0.8333333333333334,
+          "std_predicted": 0.0725237724293895,
+          "std_ground_truth": 0.23570226039551584
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.5,
+          "mean_predicted": 0.0,
+          "mean_ground_truth": 0.6666666666666666,
+          "std_predicted": 0.0,
+          "std_ground_truth": 0.4714045207910317
+        }
+      }
+    },
+    {
+      "experiment": "cs_exp4_semantic_chunking_mpnet",
+      "config": {
+        "name": "cs_exp4_semantic_chunking_mpnet",
+        "domain": "customer_support",
+        "subset": "techqa",
+        "description": "Semantic-aware chunking (groups similar sentences)",
+        "chunking_strategy": "semantic",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+20-30%",
+        "rationale": "Semantic chunking preserves FAQ answer structure"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.7215456893352727,
+          "aucroc": null,
+          "mean_predicted": 0.6444409632329094,
+          "mean_ground_truth": 0.013801783831704044,
+          "std_predicted": 0.35920317932888063,
+          "std_ground_truth": 0.010056422773898913
+        },
+        "utilization_score": {
+          "rmse": 0.4866040136161129,
+          "aucroc": null,
+          "mean_predicted": 0.367239417574988,
+          "mean_ground_truth": 0.013358521420356527,
+          "std_predicted": 0.33278293384610164,
+          "std_ground_truth": 0.010554735776822324
+        },
+        "completeness_score": {
+          "rmse": 0.5472738732717243,
+          "aucroc": null,
+          "mean_predicted": 0.6825396825396824,
+          "mean_ground_truth": 0.8333333333333334,
+          "std_predicted": 0.38358876106649437,
+          "std_ground_truth": 0.23570226039551584
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.5,
+          "mean_predicted": 0.0,
+          "mean_ground_truth": 0.6666666666666666,
+          "std_predicted": 0.0,
+          "std_ground_truth": 0.4714045207910317
+        }
+      }
+    },
+    {
+      "experiment": "cs_exp5_full_pipeline_optimized",
+      "config": {
+        "name": "cs_exp5_full_pipeline_optimized",
+        "domain": "customer_support",
+        "subset": "techqa",
+        "description": "BEST: Semantic + MPNet + Hybrid + Reranking",
+        "chunking_strategy": "semantic",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+40-50%",
+        "rationale": "Best-of-all-worlds approach"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.34322994992775774,
+          "aucroc": null,
+          "mean_predicted": 0.306980056980057,
+          "mean_ground_truth": 0.013801783831704044,
+          "std_predicted": 0.18842498024953022,
+          "std_ground_truth": 0.010056422773898913
+        },
+        "utilization_score": {
+          "rmse": 0.17752373507067795,
+          "aucroc": null,
+          "mean_predicted": 0.15313390313390315,
+          "mean_ground_truth": 0.013358521420356527,
+          "std_predicted": 0.10777838402700939,
+          "std_ground_truth": 0.010554735776822324
+        },
+        "completeness_score": {
+          "rmse": 0.5729147340721888,
+          "aucroc": null,
+          "mean_predicted": 0.7142857142857143,
+          "mean_ground_truth": 0.8333333333333334,
+          "std_predicted": 0.40406101782088427,
+          "std_ground_truth": 0.23570226039551584
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.75,
+          "mean_predicted": 0.3333333333333333,
+          "mean_ground_truth": 0.6666666666666666,
+          "std_predicted": 0.4714045207910317,
+          "std_ground_truth": 0.4714045207910317
+        }
+      }
+    }
+  ]
+}

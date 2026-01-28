@@ -1,0 +1,28 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+techqa_DEV_Q243,"Using cobol copybooks Sometimes, there will be errors/fields missing in typetree, while importing cobol copybooks. Is there any format for copybooks(specifically to be used in wtx), that we need to follow? ",0.3055555555555556,0.3055555555555556,1.0,0.0,"Based on the provided context, there is no specific format mentioned for cobol copybooks to follow when using them in WTX Design Studio. However, Document 1 mentions an error where the resulting cobol copybooks contain level 88 fields with names that are longer than 30 characters, resulting in errors at compile time. It is recommended to ensure that field names are 30 characters or less.
+
+Additionally, Document 4 mentions that DFHWS2LS has been changed to generate valid COBOL level 88 field names. However, there is no mention of any specific format that should be followed for cobol copybooks.
+
+It's worth noting that Document 2 and Document 3 mention a problem with the COBOL Copybook importer missing after an upgrade, but this is not related to the format of the cobol copybooks themselves.
+
+Therefore, the answer is that there is no specific format mentioned for cobol copybooks to follow when using them in WTX Design Studio, but it is recommended to ensure that field names are 30 characters or less."
+techqa_DEV_Q280,Is WebSphere Transformation Extender (WTX) supported for IBM Integration Bus V10? When will WebSphere Transformation Extender (WTX) be supported for IBM Integration Bus V10?,0.5384615384615384,0.07692307692307693,0.14285714285714285,0.0,"Unfortunately, the provided context documents do not contain enough information to answer the question about WebSphere Transformation Extender (WTX) support for IBM Integration Bus V10, including when it will be supported.
+
+However, I can note that there is a general support notification process mentioned in Document 4. If you want to know about the support status of WTX for IBM Integration Bus V10, you would need to contact IBM support or check the official IBM documentation for more information."
+techqa_DEV_Q253,Want to find out if Microsoft Edge is supported with ICC? Want to find out Microsoft Edge is supported with ICC? ,0.07692307692307693,0.07692307692307693,1.0,1.0,"Based on the provided context documents, I found information related to Microsoft Edge in Document 1 and Document 4.
+
+Document 1 states:
+
+* Supported browsers 
+  * Microsoft Edge on Windows 
+
+This suggests that Microsoft Edge is supported on Windows platforms.
+
+Document 4 states:
+
+Document 4:
+You only need to apply this if you use the Edge Caching Proxy.
+
+This statement suggests that the document relates to Edge Caching Proxy, but does not provide information about the general support of Microsoft Edge.
+
+However, since Document 1 provides information about Microsoft Edge being supported, we can conclude that Microsoft Edge is supported with ICC, specifically on Windows platforms."

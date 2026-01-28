@@ -1,0 +1,16 @@
+{
+  "name": "cs_exp3_hybrid_mpnet",
+  "domain": "customer_support",
+  "subset": "techqa",
+  "description": "Hybrid with stronger embeddings (MPNet-base)",
+  "chunking_strategy": "sentence_based",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "retrieval_type": "hybrid",
+  "top_k_final": 5,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.5,
+  "expected_improvement": "+10-20%",
+  "rationale": "MPNet > MiniLM for semantic understanding"
+}

@@ -1,0 +1,16 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+techqa_DEV_Q243,"Using cobol copybooks Sometimes, there will be errors/fields missing in typetree, while importing cobol copybooks. Is there any format for copybooks(specifically to be used in wtx), that we need to follow? ",0.1111111111111111,0.1111111111111111,1.0,0.0,"Unfortunately, the provided context documents do not directly address the specific issue of errors or missing fields in the typetree when importing COBOL copybooks. However, Document 5 mentions a similar issue with the COBOL Copybook importer in IBM WebSphere Transformation Extender (WTX) Design Studio 8.4.1.1, where the importer option is missing after an upgrade.
+
+Document 5 does not provide a specific format for COBOL copybooks, but it does suggest performing the installation in an empty directory and customizing any settings after the installation to resolve the problem.
+
+To find a solution to the specific question, additional context or documentation might be necessary."
+techqa_DEV_Q280,Is WebSphere Transformation Extender (WTX) supported for IBM Integration Bus V10? When will WebSphere Transformation Extender (WTX) be supported for IBM Integration Bus V10?,0.35714285714285715,0.35714285714285715,1.0,0.0,"Based on the provided context documents, I am unable to find any information that directly answers your question about the support for WebSphere Transformation Extender (WTX) in IBM Integration Bus V10 or when it will be supported.
+
+However, considering that the most recent version of WebSphere Transformation Extender mentioned in the context documents is 8.4.2 (from Document 4), and the latest version of IBM Integration Bus mentioned is IIB10.0.0.x (from Document 3), it's likely that the support for WTX in IIB V10 has not been explicitly mentioned in the provided documents."
+techqa_DEV_Q253,Want to find out if Microsoft Edge is supported with ICC? Want to find out Microsoft Edge is supported with ICC? ,0.1511627906976744,0.12790697674418605,0.8461538461538461,0.0,"I can only answer based on the provided context, and it does not contain enough information to directly answer the question about whether Microsoft Edge is supported with IBM Content Collector (ICC). However, I can guide you through the process of finding the information.
+
+Document 5 mentions that the issue was with a specific version of Windows Server 2008 R2 and a Microsoft hotfix, but it does not explicitly mention Microsoft Edge. Document 4 lists the software prerequisites for IBM Content Collector (ICC), but Microsoft Edge is not mentioned.
+
+To find the answer to your question, I recommend checking the latest documentation or knowledge base articles from IBM regarding ICC and Microsoft Edge.
+
+However, I can say that Document 4 mentions that ICC is supported on Windows Server 2012 R2 and Windows Server 2016, and Document 5 mentions that ICC requires a specific hotfix on Windows Server 2008 R2."

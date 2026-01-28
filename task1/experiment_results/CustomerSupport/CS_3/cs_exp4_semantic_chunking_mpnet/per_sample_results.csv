@@ -1,0 +1,24 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+techqa_DEV_Q243,"Using cobol copybooks Sometimes, there will be errors/fields missing in typetree, while importing cobol copybooks. Is there any format for copybooks(specifically to be used in wtx), that we need to follow? ",0.8378378378378378,0.8378378378378378,1.0,0.0,"Based on the provided context, I couldn't find any specific information about a format for copybooks to be used in WTX (WebSphere Transformation Extender) that needs to be followed. However, there are some issues mentioned in the context documents that might be related to your question.
+
+Document 1 mentions an issue where DFHWS2LS generates Level88 cobol fields with names over 30 characters in length, resulting in errors at compile time. This issue has been fixed in CICS TS Z/OS V4.
+
+Document 2 and Document 3 mention an issue where the COBOL versions of copybooks DFHTCTTE and DFHJCADS are coded with PL/1 style comments for the COPYRIGHT header statements, resulting in compiler errors. This issue has been fixed in CICS/VSE and CICS TS Z/OS V4.
+
+Document 5 mentions an issue where COBOL copybooks fail to download when BIDI options are enabled and the Property Group contains a COBOL SYSLIB with two or more PDSEs. This issue has been fixed in EXP FOR Z/OS CL.
+
+Unfortunately, none of these issues seem to be directly related to the format of copybooks in WTX. However, it's possible that the"
+techqa_DEV_Q280,Is WebSphere Transformation Extender (WTX) supported for IBM Integration Bus V10? When will WebSphere Transformation Extender (WTX) be supported for IBM Integration Bus V10?,0.9545454545454546,0.13636363636363635,0.14285714285714285,0.0,"Based on the provided context documents, I can only provide a partial answer because specific information about the support of WebSphere Transformation Extender (WTX) for IBM Integration Bus V10 is not available in the given documents.
+
+However, Document 2 mentions the product alias/synonym for WTX Integration Server, which includes Ascential DataStage TX. Document 5 mentions a SupportPac for a V9 version of WebSphere Transformation Extender, which is related to IBM MQ V9."
+techqa_DEV_Q253,Want to find out if Microsoft Edge is supported with ICC? Want to find out Microsoft Edge is supported with ICC? ,0.14093959731543623,0.12751677852348994,0.9047619047619048,0.0,"Microsoft Edge is supported with IBM Content Collector 4.0.1 Fix Pack 2 for the following components:
+
+- Outlook Web App (OWA) client
+- IBM Content Collector Outlook Web App Extension
+- IBM Content Collector OWA Service 
+- IBM Content Collector Search
+- IBM Content Collector Search in Notes
+- IBM Content Navigator
+- IBM Content Navigator Search
+
+In addition to the components mentioned above, Microsoft Edge is also supported with IBM Connections starting with IBM Content Collector 4.0.1."

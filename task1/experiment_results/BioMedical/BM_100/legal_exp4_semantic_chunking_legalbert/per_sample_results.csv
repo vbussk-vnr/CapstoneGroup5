@@ -1,0 +1,750 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT__Volume Restriction,"Is there a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold?",1.0,0.21052631578947367,0.21052631578947367,0.0,"Based on the provided context documents, there is no direct information about a fee increase or consent requirement if one party's use of the product/services exceeds a certain threshold. 
+
+However, Document 3 (Section 3.4) mentions that if the aggregate Price calculated by the accounting firm is less than 95% of the Price established by the Manufacturer, the Manufacturer shall refund the overpayment to the Customer. On the other hand, if the Price is more than 105% of the established Price, the Customer shall promptly pay the Manufacturer for the underpayment.
+
+Document 5 mentions that if a product becomes the subject of a claim or suit for infringement or misappropriation, the Supplier shall take certain actions, but it does not mention any threshold for use.
+
+Document 4 mentions a discussion between the Parties for an additional equipment or capacity request, but it does not specify any threshold for use or a consent requirement.
+
+Document 1 mentions obtaining Required Consents for the third-party agreements, but it does not specify any threshold for use.
+
+Therefore, based on the provided information, there is no clear answer to the question of whether there is a fee increase or consent requirement if one party's use of the product/services exceeds a certain threshold."
+EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.__Rofr/Rofo/Rofn,"Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",0.4444444444444444,0.2777777777777778,0.5,0.0,"Based on the provided context documents, there are the following clauses related to rights of first refusal, right of first offer, or right of first negotiation:
+
+1. Document 1: This document contains a ""right of first offer"" clause, which grants each party the right to be offered a proposed development opportunity before the other party can acquire it.
+2. Document 2: This document contains a ""right of first refusal"" clause, which grants Pretzel Time the right to purchase a property from the Franchisee before the Franchisee can sell it to another party.
+3. Document 3: This document does not contain a clause granting a right of first refusal, right of first offer, or right of first negotiation.
+4. Document 4: This document does not contain a clause granting a right of first refusal, right of first offer, or right of first negotiation.
+5. Document 5: This document contains a clause allowing Licensee to sublicense its rights, which could be related to a right of first negotiation, but it is not a traditional right of first negotiation.
+
+Therefore, there are two clauses that grant one party a right of first refusal or right of first offer:
+
+- Document 1: Right of first offer
+- Document 2: Right of"
+"MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT__Warranty Duration","What is the duration of any  warranty against defects or errors in technology, products, or services  provided under the contract?",0.4666666666666667,0.4666666666666667,1.0,0.0,"Based on the provided context documents, the duration of any warranty against defects or errors in technology, products, or services varies depending on the specific contract or agreement.
+
+- Document 1 mentions a warranty period of one year (12 months) for the Licensed Technology.
+- Document 2 also refers to a 12-month warranty period for errors or discrepancies in the Licensed Products.
+- Document 3 mentions a warranty of 90 days for repaired or replaced equipment or software from the date of shipment or until the end of the Initial Warranty Period, whichever is longer.
+- Document 5 also refers to a 12-month warranty period for material loss of performance in the Licensed Products.
+
+Therefore, the duration of any warranty against defects or errors in technology, products, or services provided under the contract is at least 12 months, but could be shorter in some cases as mentioned in Document 3."
+AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT__Joint Ip Ownership,Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?,0.1643059490084986,0.0,0.0,0.0,"No, there is no clause providing for joint or shared ownership of intellectual property between the parties to the contract."
+"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.__Non-Compete",Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector? ,0.2631578947368421,0.10526315789473684,0.4,1.0,"Based on the provided context documents, there is no explicit restriction on the ability of a party to compete with the counterparty. 
+
+Document 1 states that each party understands and acknowledges that the other party's Group may now market or have under development products that are competitive with products or services now offered or that may be offered by it and/or members of its Group. This suggests that competition is allowed.
+
+Document 1 also states that the parties' communications will not serve to impair the right of either party, or any member of its respective Group, to independently develop, make, use, procure, or market products or services now or in the future that may be competitive with those offered by the other party's Group.
+
+There is no mention of restrictions on operating in a certain geography or business or technology sector. The parties are treated as independent contractors (Document 5), which implies that they are free to operate independently in any geography or business or technology sector that they choose."
+PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement__Ip Ownership Assignment,"Does intellectual property created  by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",0.7105263157894737,0.4473684210526316,0.6296296296296297,0.0,"Based on the provided context documents, here's the analysis:
+
+- Document 1: Improvements, enhancements, modifications, or developments to a Party's intellectual property automatically vest in that Party, irrespective of who generates the relevant improvement. Each Party grants the other a non-exclusive, non-transferable, royalty-free licence to use the other Party's Intellectual Property Rights for marketing and promotional obligations. This licence expires at the end of the Agreement's term. There is no indication that the intellectual property created by one party automatically becomes the property of the counterparty.
+
+- Document 2: Exhibit A (Intellectual Property Rights Confidentiality and Non-Use Obligations Agreement) states that the Recipient (Kathy Whitworth) will not be prevented from using or disclosing Information in certain circumstances, but in most cases, the Information (including intellectual property) remains the property of the Company (Square Two Golf, Inc.). Clause (f) specifically states that new discoveries, inventions, improvements, processes, formulae, designs, drawings, etc., developed by the Recipient during work for the Company shall be the exclusive property of the Company and shall be deemed a work for hire. The Recipient assigns all rights in Intellectual Property to the Company.
+
+- Document 3: In this document,"
+SMITHELECTRICVEHICLESCORP_04_04_2012-EX-10.26-FLEET MAINTENANCE AGREEMENT__Exclusivity,"Is there an exclusive dealing  commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on  collaborating or working with other parties), whether during the contract or  after the contract ends (or both).",0.8666666666666667,0.06666666666666667,0.07692307692307693,1.0,"Based on the provided context documents, the answer is no, there is not an exclusive dealing commitment with the counterparty.
+
+Document 3 explicitly states that ""The Parties agree that the relationship contemplated by this Agreement is a nonexclusive engagement/venture..."" This indicates that each party is allowed to engage with other companies and provide similar services or products.
+
+Additionally, Document 3 mentions that ""each Party now renders and may continue to render consulting services and/or sell or provide products to other companies that may or may not conduct activities similar to those of each other Party."" This further reinforces the non-exclusive nature of the agreement.
+
+There is also no language in any of the documents that prohibits a party from procuring all their requirements from one party, prohibits licensing or selling technology, goods, or services to third parties, or prohibits collaborating or working with other parties."
+IMAGEWARESYSTEMSINC_12_20_1999-EX-10.22-MAINTENANCE AGREEMENT__Affiliate License-Licensor,Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor? ,0.6666666666666666,0.2222222222222222,0.3333333333333333,0.0,"Based on the context documents provided, the answer is that the contract allows for affiliates of the Licensor to be involved in the assignment of the Agreement (Document 1) and the use of the intellectual property of the Licensor (Document 4), but it does not explicitly mention a license grant by affiliates of the Licensor or that includes intellectual property of affiliates of the Licensor.
+
+However, Document 5 does mention that the Licensor will provide a list of all Marks held by Licensor that relate to the Licensed Products. This implies that the Marks could be owned by subsidiaries or affiliates of the Licensor."
+"BABCOCK_WILCOXENTERPRISES,INC_08_04_2015-EX-10.17-INTELLECTUAL PROPERTY AGREEMENT between THE BABCOCK _ WILCOX COMPANY and BABCOCK _ WILCOX ENTERPRISES, INC.__Competitive Restriction Exception","This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",0.35714285714285715,0.35714285714285715,1.0,0.0,"Based on the provided context documents, the category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers as follows:
+
+From Document 2 (Section 7.2), there is no explicit carveout mentioned.
+
+From Document 3, there is no explicit carveout mentioned.
+
+From Document 4:
+- Exceptions to marketing exclusivity include signage, advertising and promotional arrangements made by the Office of the Commissioner of Baseball.
+- Licensing arrangements made by Major League Baseball Properties, Inc. are also exempt.
+- Advertising in game programs, yearbooks, scorecards, and similar publications are exempt.
+- Display of temporary, in nature, erected by an event sponsor, promoter, broadcaster, or participant is exempt.
+- Promotional messages displayed on a scoreboard or video board are exempt under certain conditions.
+
+From Document 5:
+- There is no information about exceptions to Non-Solicitation, but rather a general non-solicitation clause.
+
+So, the carveouts or exceptions mentioned in the context documents are:
+
+1. Signage, advertising and promotional arrangements made by the Office of the Commissioner of Baseball.
+2. Licensing arrangements made by Major League Baseball Properties, Inc.
+3. Advertising in game programs, yearbooks, scorecards, and"
+BravatekSolutionsInc_20170418_8-K_EX-10.1_10205739_EX-10.1_Reseller Agreement__Governing Law,Which state/country's law governs the interpretation of the contract?,0.5,0.5,1.0,1.0,"Based on the provided context documents, the following states/countries' laws govern the interpretation of the contract:
+
+1. New York (Document 1, Document 2, Document 3, Document 5)
+2. Nevada (Document 4)"
+ALLIANCEBANCORPINCOFPENNSYLVANIA_10_18_2006-EX-1.2-AGENCY AGREEMENT__Minimum Commitment,Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?,0.1111111111111111,0.05555555555555555,0.5,0.0,"Based on the provided context documents, there are a few instances where minimum order sizes or quantities are mentioned.
+
+In Document 1, it is mentioned that ""each Purchase Order that Customer places hereunder for Product that is Finished Product shall be equal to or greater than the Minimum Order Quantity for such applicable Product as set forth in the applicable Facility Addendum."" However, there is no specific value mentioned for the minimum order quantity.
+
+Document 4, however, does not mention a minimum order size or quantity. But Document 3 mentions nothing about minimum order size or quantity in the contract.
+
+Document 1 does, however, mention that each Purchase Order for Product that is either API or Bulk Drug Product shall be equal to, or a whole multiple of, the Batch Size for such applicable Product as set forth in the applicable Facility Addendum, and ""Increments"" means the quantity step change above the applicable Minimum Order Quantity, in each case, as specified in the applicable Facility Addendum."
+EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement__Anti-Assignment,Is consent or notice required of a party if the contract is assigned to a third party?,1.0,0.25,0.25,0.0,"Based on the provided context documents, the answer to the question is as follows:
+
+- In some cases, consent is required: 
+  - Document 1: Consent is required if the Licensee assigns its rights and obligations to a third party (other than an Affiliate or subsidiary).
+  - Document 2: Consent is required if the assigning Party is not an Affiliate and the assignment is not in connection with the sale or transfer of all or substantially all of the assigning Party's business or assets relating to the subject matter of this Agreement.
+  - Document 4: Consent is required, except if the assignment is to a party acquiring all of the business of the assigning party to which this Agreement relates.
+- In other cases, notice is required:
+  - Document 3: Written notice of the assignment must be delivered to the other parties to the Agreement in the event of a merger, reorganization, or sale of assets.
+  - Document 2: The assigning Party must provide notice to the other Party of any assignment to an Affiliate.
+- In some cases, neither consent nor notice is required:
+  - Document 2: Either Party may assign this Agreement to a Third Party in connection with the sale or transfer of all or substantially all of its business or assets relating to the"
+SEASPINEHOLDINGSCORP_10_10_2018-EX-10.1-SUPPLY AGREEMENT__Agreement Date,The date of the contract,0.4375,0.4375,1.0,0.0,"Unfortunately, the context documents don't explicitly mention the date of the contract. They mention the ""Effective Date"" for each agreement, but not the date when the contract was initially signed. 
+
+However, we can infer from Document 3 that the effective date is when the agreement commences, which is the start of the term."
+PREMIERBIOMEDICALINC_05_14_2020-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT__Renewal Term,What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.,1.0,0.08695652173913043,0.08695652173913043,0.0,"Based on the provided context documents, here's the renewal term after the initial term expires:
+
+- Document 2: After the Initial Term (10 years), the Agreement will be automatically renewed for successive additional 3-year periods (""Extension Terms"").
+- Document 3: There is no specific information about the renewal term after the initial term expires.
+- Document 4: There is no specific information about the renewal term after the initial term expires.
+- Document 5: After the Initial Term (5 years), the Agreement may be extended on mutual agreement of the parties for a Renewal Term. However, if only one party wishes to extend the Initial Term, it can provide notice to the other not later than 180 days before the end of the Initial Term. In this case, the renewal term is not specified.
+- Document 1: There is no specific information about the renewal term after the initial term expires.
+
+However, based on the information provided, here are the renewal terms:
+
+- Document 2: The Agreement will be automatically renewed for successive additional 3-year periods.
+- Document 5: The Agreement may be extended on mutual agreement of the parties for a Renewal Term, but the duration of this term is not specified."
+"FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT__Non-Transferable License",Does the contract limit the ability of a party to transfer the license being granted to a third party?,0.7333333333333333,0.2,0.2727272727272727,0.0,"Based on the context documents, the answer is that the contract does limit the ability of a party to transfer the license being granted to a third party.
+
+Document 1 states that the Licensee may not assign its rights and obligations to any third party without the prior written consent of the Licensor, except in certain circumstances. Document 3 also mentions that Licensee may not sublicense any of its rights under the License Grant without the Licensor's prior written consent.
+
+Document 5 states that neither Party shall assign or transfer this Agreement or any rights granted herein to any third party without the prior written consent of the other Party.
+
+However, Document 1 does allow for certain exceptions, such as the Licensee assigning its rights to its Affiliate or subsidiaries with the prior written consent of the Licensor, and the Licensor assigning its rights to its Affiliates or subsidiaries."
+EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement__Uncapped Liability,Is a party’s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.,1.0,0.5714285714285714,0.5714285714285714,0.0,"Based on the context documents, the answer is no, a party's liability is not always uncapped upon the breach of its obligation in the contract. 
+
+In Document 1, there are certain exemptions where a party's liability is not capped. These include (i) Third Party Claims subject to a Party's indemnification obligations pursuant to Section 10.1, (ii) Third Party Claims subject to a Party's indemnification obligations pursuant to Section 10.2, (iii) gross negligence, fraud or willful misconduct of a Party or its Personnel, (iv) a Party's willful breach of this Agreement, (v) a breach of Section 13, and (vi) customer liabilities pursuant to, and subject to the limitations set forth in, Section 2.5(e).
+
+In Document 2, there are also certain exemptions where a party's liability is not capped, specifically for breach of confidentiality obligations, and to the extent permitted by applicable law.
+
+In Document 3, there are no exemptions mentioned, but it does not provide a specific exemption for a particular type of breach such as IP infringement.
+
+In Document 4, Section 8.7 provides a limitation on liability for certain types of damages, but there is an exemption for fraud and for"
+"ETELOS,INC_03_09_2004-EX-10.8-DISTRIBUTOR AGREEMENT__Liquidated Damages",Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?,0.96,0.4,0.4166666666666667,0.0,"Based on the provided documents, there is no explicit clause that mentions liquidated damages for breach. However, Document 1 mentions that the Master Franchise Agreement contains a liquidated damages clause, but this is not explicitly stated in the provided documents.
+
+Regarding the termination fee, there is no mention of a termination fee in any of the provided documents. However, Document 3 mentions a ""Conversion Fee"" in Section 16 (not provided in the given context), which might be related to the Termination Period mentioned in Section 15.
+
+It appears that the contract limits liability and does not provide for liquidated damages or termination fees, as mentioned in Document 4."
+SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT__Warranty Duration,"What is the duration of any  warranty against defects or errors in technology, products, or services  provided under the contract?",0.7333333333333333,0.5333333333333333,0.7272727272727273,0.0,"Based on the provided context documents, the durations of warranties against defects or errors are as follows:
+
+1. For the Licensed Technology from D2 Technologies, Inc. (as per Document 1 and Document 4):
+   - The warranty period is one year (12 months) commencing on acceptance of the Licensed Technology by LICENSEE.
+   - After acceptance, D2 shall work diligently to promptly correct Defects as per the priority and closure schedule outlined in Document 4.
+
+2. For the repaired and replaced equipment or software from Airspan (as per Document 3):
+   - The warranty period is 90 days from the date of shipment from Airspan to the Distributor or until the end of the Initial Warranty Period, whichever is longer.
+
+3. For the Licensed Products under the contract (as per Document 2 and Document 5):
+   - The warranty period is 12 months from the date of acceptance by LICENSEE.
+
+Note that the warranty durations may vary depending on the specific product or service being referred to in each document."
+StampscomInc_20001114_10-Q_EX-10.47_2631630_EX-10.47_Co-Branding Agreement__Revenue/Profit Sharing,"Is one party required to share revenue or profit with the counterparty for any technology, goods, or services?",1.0,0.08333333333333333,0.08333333333333333,1.0,"Based on the provided context, there is no mention of revenue sharing or profit sharing between the parties for any technology, goods, or services in the provided documents."
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement__License Grant,Does the contract contain a license granted by one party to its counterparty?,0.7,0.8,1.0,0.0,"Based on the provided context documents, it appears that there are multiple instances where a license is granted by one party to its counterparty.
+
+However, Document 4 specifically states that ""No license granted by either party under this IP Agreement includes the right to grant sublicenses."" and also mentions in 3.3 that ""Neither party grants to the other Party, and each Party acknowledges and agrees that the other Party has not granted to it, any other license explicitly or implicitly under any Intellectual Property...""
+
+However, considering the content of Document 1, Document 2, Document 3, and Document 5, we can see a few examples of a license being granted:
+
+- Document 1: The Licensor may grant a license to the Affiliate or subsidiaries.
+- Document 2: All rights not specifically granted or licensed to Company hereunder shall be reserved and retained by North. This doesn't directly tell us that a license is granted to the Company, but it implies that one exists, as North is reserving all other rights.
+- Document 3: The Licensee is granted the right to sublicense any or all of its rights granted under this Agreement.
+
+Document 5 also mentions that the parties cannot assign the contract without consent, which means there might be an implicit license"
+PfHospitalityGroupInc_20150923_10-12G_EX-10.1_9266710_EX-10.1_Franchise Agreement3__Effective Date,The date when the contract is effective ,0.36363636363636365,0.36363636363636365,1.0,0.0,"The date when the contract is effective can be determined from multiple documents:
+
+- Document 1 mentions the effective date as November 01, 2014, but also mentions the agreement is for a specific term ending on October 31, 2017.
+- Document 2 defines ""Effective Date"" as the date of signature of the last Party to execute this Agreement, but does not provide the actual date.
+- Document 3 does not mention the effective date.
+- Document 4 mentions the initial term commencing on the effective date, but does not provide the actual date.
+- Document 5 mentions that the term of the agreement will begin on the Effective Date and will end three years from the Launch Date.
+
+Since Document 2 defines the ""Effective Date"" as the date of signature of the last Party to execute this Agreement, but does not provide the actual date, we cannot determine the exact date from the provided documents."
+PelicanDeliversInc_20200211_S-1_EX-10.3_11975895_EX-10.3_Development Agreement2__Notice Period To Terminate Renewal,What is the notice period required to terminate renewal?,0.8,0.25,0.3125,1.0,"According to the context documents, the notice period required to terminate renewal is as follows:
+
+- Document 2: If the Franchisee does not execute and return the renewal Franchise Agreement within thirty (30) days of receipt, then Franchisee shall be deemed to have withdrawn its notice of renewal.
+- This is not a notice period to terminate the renewal. However, it is a time limit to execute the renewal agreement.
+- Document 2: Pretzel Time may, at its option, with reasonable cause and upon written notice, elect not to renew the Franchise Agreement. Pretzel Time shall notify Franchisee of the nonrenewal not less than six (6) months prior to the expiration of the term of this Agreement.
+- Document 4: Either party may terminate this Agreement without cause at any time effective upon thirty (30) days' written notice.
+- Document 5: This agreement shall renew automatically each year thereafter, unless either party serves written notice of its intention not to renew, on the other at least 90 days prior to the expiration of the then current term of this agreement.
+
+There are multiple notice periods depending on the context.
+
+1. In Document 2, it takes 6 months' notice before the expiration of the term"
+BANGIINC_05_25_2005-EX-10-Premium Managed Hosting Agreement__Insurance,Is there a requirement for insurance that must be maintained by one party for the benefit of the counterparty?,1.0,0.125,0.125,1.0,"Yes, there are requirements for insurance that must be maintained by one party for the benefit of the counterparty. In various documents, it is stated that one party must name the other party as an additional insured. This requirement is mentioned in:
+
+- Document 1, paragraph 9.1 and 9.3
+- Document 3, paragraph 9.1 (a)
+- Document 5, it is mentioned that the Franchisee must procure and maintain such insurance coverage as required by Pretzel Time for their benefit.
+
+This means that one party must purchase and maintain insurance that covers and benefits the other party."
+SMITHELECTRICVEHICLESCORP_04_04_2012-EX-10.26-FLEET MAINTENANCE AGREEMENT__Effective Date,The date when the contract is effective ,0.2727272727272727,0.18181818181818182,0.6666666666666666,1.0,"According to Document 2, the ""Effective Date"" shall mean the date of signature of the last Party to execute this Agreement.
+
+However, to determine the actual effective date, we need more information, but in Document 4, it is mentioned that the ""Initial Term"" shall commence on the Effective Date."
+QBIOMEDINC_04_08_2020-EX-99.1-JOINT FILING AGREEMENT__Renewal Term,What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.,1.0,1.0,1.0,0.0,"Based on the context documents, the renewal term after the initial term expires is as follows:
+
+- Document 1: Does not specify the renewal term.
+- Document 2: After the initial term of 10 years, the agreement will be automatically renewed for successive additional 3-year periods.
+- Document 3: 18.1 specifies that the agreement will be renewed for one year unless either party provides written notification of its intention not to renew at least one month prior to the expiration of the initial or any renewal terms.
+- Document 4: The agreement will automatically renew for successive one-year periods.
+- Document 5: The agreement may be extended for a Renewal Term, which is not specified in the document. However, Section 8.1 mentions that the Initial Term is 5 years, and the parties shall then engage in discussions regarding renewal for a period of 30 days.
+
+Therefore, the renewal term after the initial term expires is:
+
+- 3 years (Document 2)
+- 1 year (Document 3 and Document 4)
+- The document does not specify the renewal term in Document 1, and the parties may agree to a renewal term of their choice in Document 5."
+UpjohnInc_20200121_10-12G_EX-2.6_11948692_EX-2.6_Manufacturing Agreement_ Supply Agreement__Covenant Not To Sue,Is a party restricted from contesting the validity of the counterparty’s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?,0.9333333333333333,0.9333333333333333,1.0,0.0,"Based on the provided context documents, it appears that a party is not restricted from contesting the validity of the counterparty's ownership of intellectual property or bringing a claim against the counterparty for matters unrelated to the contract, as long as they follow certain procedures.
+
+Document 1, section (b) states that the parties shall confer and consult with respect to disputes with Third Parties concerning the infringement, validity, enforceability, or ownership of any Joint IP. However, it also states that neither party shall take any action to enforce or defend any Joint IP without the other party's prior written consent.
+
+Document 5, Section 8.1 states that ""No Party shall have any obligation to institute or maintain any action or suit against any Third Party for infringement or misappropriation of any Intellectual Property licensed hereunder"". This suggests that a party is not obligated to defend against claims related to intellectual property infringement or misappropriation, but it does not restrict them from contesting the validity of the counterparty's ownership of intellectual property or bringing a claim against the counterparty for matters unrelated to the contract.
+
+Document 2 provides a scenario where the Indemnifying Party may take various actions to address intellectual property infringement, but this is limited to situations where a claim is brought against the"
+BOLIVARMININGCORP_05_23_2003-EX-2.1-VISP WEB SITE BUILDING AND HOSTING AGREEMENT__Minimum Commitment,Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?,0.9444444444444444,0.4444444444444444,0.47058823529411764,0.0,"Based on the provided context documents, there are several mentions of minimum order quantities. 
+
+Document 1 mentions that for ""Finished Product,"" each purchase order must be equal to or greater than the ""Minimum Order Quantity"" specified in the applicable Facility Addendum. If the order exceeds the Minimum Order Quantity, the order can be placed in increments above the minimum, as specified in the Addendum.
+
+Document 1 also mentions that for ""API or Bulk Drug Product,"" each purchase order must be equal to, or a whole multiple of, the ""Batch Size"" specified in the applicable Facility Addendum.
+
+Document 4 mentions that there is no obligation to purchase assets, but there is an option to acquire assets of the Unit after termination or expiration of the Agreement. The purchase price is determined based on the book value of the assets, the lesser of the costs and the current wholesale market value of inventory, or the product of the Unit's average cash flow multiplied by two.
+
+Document 3 does not mention any minimum order quantities.
+
+Document 2 mentions the minimum amount of securities that must be sold within the period provided for the Agreement to continue. However, this is not a minimum order quantity in the context of purchasing goods or services.
+
+In summary, the contract requires that for Finished Product,"
+IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement__Effective Date,The date when the contract is effective ,0.2727272727272727,0.18181818181818182,0.6666666666666666,1.0,"Based on the context documents, the effective date of the contract is not explicitly stated in any document. However, we can combine the information from Document 2 and Document 4 to get an idea of when the contract is effective.
+
+Document 2 states that the ""Effective Date"" shall mean the date of signature of the last Party to execute this Agreement. Document 4 mentions that the Initial Term commences on the Effective Date.
+
+Since the documents do not provide the exact date of signature, we cannot determine the exact effective date. However, we can conclude that the effective date is the date of signature of the last Party to execute this Agreement, but the exact date remains unknown."
+ALLIANCEBANCORPINCOFPENNSYLVANIA_10_18_2006-EX-1.2-AGENCY AGREEMENT__Rofr/Rofo/Rofn,"Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",0.3888888888888889,0.8333333333333334,0.8571428571428571,0.0,"Based on the provided context documents, there are clauses granting one party a right of first refusal and a right of first offer, but not a right of first negotiation.
+
+Document 2 mentions a ""right of first refusal"" which is exercised by Pretzel Time to purchase a business on certain terms. If Pretzel Time declines its right of first refusal, the original offer can be completed with the approval of Pretzel Time.
+
+Document 1 mentions a ""right of first offer"" which is exercised by one party (Playa or Hyatt) to acquire the ownership of real property in the Market Area on which a Hyatt All-Inclusive Resort would operate. If the first party declines its right of first offer, the other party may acquire the Development Property.
+
+Document 3 and Document 4 do not mention a right of first offer, right of first refusal, or right of first negotiation. Document 3 discusses the assignment of rights and obligations, while Document 4 discusses the assignment of rights and obligations as well, but with specific conditions and limitations.
+
+Document 5 mentions a right to sublicense, but not a right of first negotiation, right of first refusal, or right of first offer."
+INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT__Most Favored Nation,"Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",0.2,0.26666666666666666,0.6666666666666666,0.0,"Based on the provided context documents, the answer to the question is not explicitly stated. However, some clauses provide similar concepts.
+
+Document 4 contains a clause related to favorable terms for the distribution and exhibition of Licensed Programs. However, it does not directly address better terms for the buyer of technology/goods/services if a third party gets them. 
+
+Document 3 contains a clause about Third Party Infringement Claims, where the costs associated with a license are the responsibility of the party obtaining the license. This is not directly related to the concept of a buyer receiving better terms if a third party gets them.
+
+Document 1 mentions the transfer of licensed technology to a third party, but it does not address the scenario where a third party gets better terms on the licensing of technology/goods/services.
+
+Document 2 is about confidentiality, which does not address the issue of better terms for the buyer.
+
+Document 4 does have a concept of favorable terms for the distribution and exhibition of Licensed Programs. However, it does not address the direct question of whether a buyer would be entitled to better terms if a third party gets them.
+
+In summary, the context documents do not contain an explicit clause addressing the question directly. However, they do contain some related concepts, and it is possible that such"
+"CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT__Joint Ip Ownership",Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?,0.43909348441926344,0.141643059490085,0.7352941176470589,0.0,"No, there is no clause providing for joint or shared ownership of intellectual property between the parties to the contract. In fact, the contract specifically states that each party retains ownership of their respective intellectual property, as set forth in the schedules to the agreement (Schedules 2.4(a) and 2.4(b)). Additionally, the contract provides for a mechanism to resolve any disputes regarding the ownership of intellectual property, but ultimately, each party is responsible for defending their own intellectual property rights."
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Audit Rights,"Does a party have the right to  audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",0.6451612903225806,0.45161290322580644,0.7,1.0,"Based on the provided context documents, yes, a party has the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract.
+
+Document 1 states that each Party shall make such books and records available at its offices for inspection and audit by the other party, its employees and agents.
+
+Document 2 allows Janssen or an authorized representative of Janssen, and any governmental agency that regulates a Party, to inspect and audit the Books and Records of Company with respect to Company's obligations under this Agreement.
+
+Document 3 grants the Parties the right to audit each other's Books and Records, with certain conditions and limitations.
+
+Document 4 allows MediWound (itself or through anyone on its behalf) or any relevant regulatory authority to audit any records and/or the relevant facilities of CBC.
+
+Document 5 grants the LICENSOR the right to use a certified public accountant to inspect and audit all the related records and books of plan_b to ensure plan_b's compliance with the terms of this Agreement.
+
+Therefore, it appears that all the documents support the right of a party to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract."
+ScansourceInc_20190509_10-Q_EX-10.2_11661422_EX-10.2_Distributor Agreement__Renewal Term,What is the renewal term after the initial term expires? This includes automatic extensions and unilateral extensions with prior notice.,0.2608695652173913,0.2608695652173913,1.0,1.0,"Based on the provided context documents, here are the renewal terms after the initial term expires:
+
+- Document 1: The agreement will renew automatically each year.
+- Document 2: After the initial 10-year term, the agreement will be automatically renewed for successive 3-year periods.
+- Document 3: The agreement will be automatically renewed for one year on each anniversary of the effective date.
+- Document 4: The agreement will automatically renew for successive one-year periods.
+- Document 5: The initial term is 5 years. After that, the agreement can be extended on mutual agreement for a ""Renewal Term,"" but the length of the Renewal Term is not specified. However, the agreement mentions that if either party wishes to extend the Initial Term, they must provide notice within a certain timeframe, and the parties will engage in discussions regarding renewal for a period of 30 days.
+
+In summary, the renewal terms after the initial term expires are:
+
+- Document 1: 1 year
+- Document 2: 3 years
+- Document 3: 1 year
+- Document 4: 1 year
+- Document 5: The renewal term is not specified, but it can be extended on mutual agreement.
+
+Note that some agreements have"
+HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT__Source Code Escrow,"Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,  insolvency, etc.)?",0.25,0.25,1.0,0.0,"Based on the provided context documents, it appears that there is no mention of depositing source code into escrow with a third party. However, Document 4 mentions a transfer of rights and obligations in relation to Third Party Agreements, but it does not specifically mention escrow.
+
+However, we can look at the structure of the Documents. If parties are transferring rights and obligations, and acquiring rights on behalf of the other party, it is possible that they may need to protect their counterparties. In such a case, depositing source code into escrow with a third party may be an appropriate mechanism."
+IMMUNOMEDICSINC_08_07_2019-EX-10.1-PROMOTION AGREEMENT__Notice Period To Terminate Renewal,What is the notice period required to terminate renewal?,0.8,0.35,0.4375,0.0,"Based on the context documents, the notice period required to terminate renewal is different in each document.
+
+- Document 2: The notice period is not specified for termination of renewal, but it does mention that if the Franchisee does not execute and return the renewal Franchise Agreement within thirty (30) days of receipt, the Agreement shall terminate at the end of the current term.
+- Document 4: Either party may terminate this Agreement without cause at any time effective upon thirty (30) days' written notice. However, for non-renewal, the notice must be given not less than fifteen (15) days before the end of the respective initial or renewal term.
+- Document 5: The notice period is at least 90 days prior to the expiration of the then current term of this agreement.
+
+Document 1 and Document 3 do not specify the notice period for terminating renewal."
+IMAGEWARESYSTEMSINC_12_20_1999-EX-10.22-MAINTENANCE AGREEMENT__Irrevocable Or Perpetual License,Does the contract contain a  license grant that is irrevocable or perpetual?,0.21428571428571427,0.21428571428571427,1.0,0.0,"Yes, the contract does contain a license grant that is described as ""perpetual."" In Document 1, Section 2(a)(i), it is stated that ""Licensor hereby grants to Licensee a non-exclusive, royalty-free, perpetual and non-perpetual license (subject to the duration and scope, and format limitations for which Licensor has the rights to each Title as specified in Schedule A1-A6 of Schedule A)..."" However, the term ""perpetual"" is used alongside ""non-perpetual"", indicating that the intention is to use ""perpetual"" as a distinct term.
+
+The term ""perpetual"" is used again in the contract without any qualification, indicating that the license grant is indeed perpetual."
+PcquoteComInc_19990721_S-1A_EX-10.11_6377149_EX-10.11_Co-Branding Agreement2__Non-Transferable License,Does the contract limit the ability of a party to transfer the license being granted to a third party?,0.6666666666666666,0.26666666666666666,0.4,0.0,"Based on the provided context documents, the contract limits the ability of a party to transfer the license being granted to a third party as follows:
+
+- Document 1: Yes, without the other party's prior written consent, except for specific exceptions (e.g., assignment to an Affiliate or subsidiary with prior written consent of the Licensor, or assignment to a purchaser of all or substantially all of the party's business or assets).
+- Document 2: Yes, the recipient Party may not issue or release any press release, marketing material, or other communications about the terms of the Agreement or the Product to third parties without the prior written approval of the other Party.
+- Document 3: Yes, Licensee may sublicense any or all of its rights under this Agreement to third parties with prior written notice to Licensor, but subject to certain limitations (if any) in Section 2(a)(i) [License Grant].
+- Document 5: Yes, Neither Party shall assign or transfer to any third party, without the prior written consent of the other Party, this Agreement or any rights granted herein.
+
+However, Document 4 does not mention anything about the transfer of a license to a third party.
+
+Therefore, the answer is yes, the contract limits the ability of a party"
+NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement__Document Name,The name of the contract,0.058823529411764705,0.058823529411764705,1.0,1.0,"Unfortunately, there is no specific name mentioned for the contract in any of the provided documents. However, Document 3 mentions a ""Service Agreement dated November 01, 2015 with Contract Identification FT18150"" which is cancelled and terminated by the current agreement."
+PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Competitive Restriction Exception,"This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",0.9285714285714286,0.35714285714285715,0.38461538461538464,0.0,"Based on the context documents, the exceptions or carveouts to Non-Compete, Exclusivity, and No-Solicit of Customers are as follows:
+
+1. Document 2 (Section 7.2) lists exceptions to the non-solicitation of customers:
+   - Joint marketing purposes
+   - General advertising
+
+2. Document 4 (Section 15) mentions exceptions to the exclusivity clause:
+   - Signage, advertising, and promotional arrangements made by the Office of the Commissioner of Baseball with respect to nationally-televised games, All-Star Games, World Baseball Classic games, playoff games, and World Series games.
+   - Licensing arrangements made by Major League Baseball Properties, Inc. with respect to a specific category.
+   - Advertising in game programs, yearbooks, scorecards, and similar publications sold on the day of an event.
+   - Displays erected by an event sponsor, promoter, broadcaster, or participant.
+   - Promotional messages displayed on scoreboards or video boards recognizing groups in attendance or making incidental references.
+
+3. Document 5 (NON-SOLICITATION) lists exceptions to the non-solicitation of employees or contractors:
+   - Prior written consent of the other Party
+   - General advertising"
+SYKESHEALTHPLANSERVICESINC_04_24_1998-EX-10.14-OUTSOURCING AGREEMENT__Uncapped Liability,Is a party’s liability uncapped upon the breach of its obligation in the contract? This also includes uncap liability for a particular type of breach such as IP infringement or breach of confidentiality obligation.,1.0,0.6428571428571429,0.6428571428571429,0.0,"Based on the provided context documents, a party's liability is not entirely uncapped upon the breach of its obligation in the contract.
+
+However, there are instances where liability is uncap or specifically mentioned as not being limited:
+
+1. In Document 1, section (b), it mentions that there are certain exceptions to the overall limitation on liability. However, it does state that in the event of a breach of Section 13, liability is not limited. Section 13 is not explicitly mentioned in any of the other documents.
+
+2. Document 4, Section 8.7, states that nothing in this section shall operate to limit or exclude any liability under Section 8.5 with respect to a Claim, or for fraud, or for breach by a Party of the provisions of Article 7. However, it does not specify which breaches would result in uncapped liability.
+
+3. Document 4, Section 9.1, mentions that if a third party files an IP Claim, the parties shall collaborate on the defense and the decision on the defense strategy rests with Kitov. However, this does not explicitly state that liability for IP infringement is uncapped.
+
+4. Document 2 specifically mentions an exception for breach of confidentiality obligation, suggesting that liability for such a breach"
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement__Affiliate License-Licensee,Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?,0.3333333333333333,0.1111111111111111,0.3333333333333333,0.0,"Based on the provided context documents, it appears that the contract does contain a license grant to a licensee (including a sublicensor).
+
+Document 1 states that the Licensee ""shall have the right to assign or sublicense any or all of its rights granted under this Agreement"" (Section 2(b) - Sublicensing).
+
+Although the term ""affiliates"" is not explicitly mentioned in the provided documents, the term ""third parties"" is used in Section 2(b) of Document 1, which suggests that sublicensing is allowed to third parties, which may include affiliates."
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Unlimited/All-You-Can-Eat-License,"Is there a clause granting one party an “enterprise,” “all you can eat” or unlimited usage license?",1.0,0.3333333333333333,0.3333333333333333,1.0,"Based on the provided context documents, I do not find any clause granting one party an ""enterprise,"" ""all you can eat,"" or unlimited usage license.
+
+Document 2 mentions a non-exclusive, limited license to use trademarks, service marks, or trade names. Also, Document 5 prohibits assignment of rights or obligations under the agreement without prior written approval, except in specific circumstances.
+
+Document 1 mentions retaining rights not specifically granted or licensed to a company, but this does not imply granting one party an unlimited usage license.
+
+Similarly, Document 3 allows for assignment of rights, obligations, and privileges to a successor in business or an acquirer of all or substantially all of its business or assets, but this is not an unlimited usage license.
+
+Document 4 does not mention licensing or any type of usage license.
+
+No such clause or term is mentioned in any of the provided context documents."
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT__Revenue/Profit Sharing,"Is one party required to share revenue or profit with the counterparty for any technology, goods, or services?",0.6666666666666666,0.6666666666666666,1.0,0.0,"Based on the provided context documents, there is no explicit requirement for one party to share revenue or profit with the counterparty for any technology, goods, or services.
+
+However, Document 4 mentions Section 8.7, which limits liability for indirect losses, including loss of profits, use, opportunity, goodwill, business, or anticipated savings. This implies that the parties are not liable for losses related to profits or revenue, but it does not require them to share revenue or profits either.
+
+There is, however, a mention of ""Revenue Sharing"" in Document 5, but the content of Document 5 is not provided, so I couldn't find any information about revenue sharing in the given context."
+"SOLUTIONSVENDINGINTERNATIONAL,INC_03_31_2020-EX1A-1 UNDR AGMT-SERVICES AGREEMENT__Non-Disparagement",Is there a requirement on a party not to disparage the counterparty?,0.23076923076923078,0.07692307692307693,0.3333333333333333,0.0,"There's no requirement on a party not to disparage the counterparty in the provided context documents. The documents do, however, require a party not to use the counterparty's name, logos, or trademarks in advertising, sales promotion, or other communication without obtaining prior written consent, except in specific circumstances mentioned in Document 5."
+DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate Agreement__Minimum Commitment,Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?,0.1111111111111111,0.05555555555555555,0.5,1.0,"According to Document 1, there is a minimum order quantity for Finished Product, which must be equal to or greater than the Minimum Order Quantity as specified in the applicable Facility Addendum. Additionally, for API or Bulk Drug Product, the purchase order must be equal to, or a whole multiple of, the Batch Size for such applicable Product as set forth in the applicable Facility Addendum.
+
+There is no information about the duration of time for which this minimum order quantity or batch size must be met, only that it must be met for each purchase order.
+
+In Document 5, there is no information about a minimum order size or minimum amount of units per-time period that one party must buy from the counterparty.
+
+In Document 3, there is no information about a minimum order size or minimum amount of units per-time period.
+
+In the other documents, there is no information about a minimum order size or minimum amount of units per-time period."
+INGEVITYCORP_05_16_2016-EX-10.5-INTELLECTUAL PROPERTY AGREEMENT__Competitive Restriction Exception,"This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",0.7142857142857143,0.35714285714285715,0.5,0.0,"Based on the context documents, the exceptions or carveouts to Non-Compete, Exclusivity, and No-Solicit of Customers are:
+
+- For Document 2 (Non-Solicitation of Customers), the exceptions include:
+  - General advertising
+  - Joint marketing purposes (as mentioned in Document 3)
+
+- For Document 3 (Non-Solicitation of Clients), the exceptions include:
+  - Joint marketing purposes
+  - Marketing similar products from competing companies on a Web Site Landing Page for joint marketing purposes (implied by the context)
+  - Signage, advertising, and promotional arrangements made by the Office of the Commissioner of Baseball with respect to nationally-televised games, All-Star Games, World Baseball Classic games, playoff games, and World Series games (as mentioned in Document 4)
+  - Licensing arrangements made by Major League Baseball Properties, Inc. with respect to such category (as mentioned in Document 4)
+  - Advertising with respect to such category in game programs, yearbooks, scorecards, and similar publications which are sold on the day of an event other than Padres home games (as mentioned in Document 4)
+
+- For Document 5 (NON-SOLICITATION), the exceptions include:
+  - General advertising
+
+-"
+AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement__Effective Date,The date when the contract is effective ,0.36363636363636365,0.2727272727272727,0.75,1.0,"Based on the provided context documents, the date when the contract is effective can be determined in different ways depending on the specific agreement or reference.
+
+- Document 2 states that the ""Effective Date"" shall mean the date of signature of the last Party to execute this Agreement.
+- Document 3 does not provide information about the Effective Date.
+- Document 4 states that the initial term commences on the Effective Date.
+- Document 5 states that the term of this Agreement will begin on the Effective Date, which is defined in another context, however not provided here.
+
+However, a clear definition of the Effective Date is in Document 2.
+
+The answer is: The date of signature of the last Party to execute this Agreement."
+MEDIWOUNDLTD_01_15_2014-EX-10.6-SUPPLY AGREEMENT__Affiliate License-Licensor,Does the contract contain a license grant by affiliates of the licensor or that includes intellectual property of affiliates of the licensor? ,0.2222222222222222,0.1111111111111111,0.5,0.0,"Based on the provided context documents, the contract appears to contain a license grant by affiliates of the licensor in Document 1, which states: ""(i) Licensee may assign its rights and obligations to this Agreement to any of its Affiliate or subsidiaries with the prior written consent of the Licensor,"" and also in Document 3, WHEREAS paragraph mentioning the licensing of certain computer software products, including without limitation the computer software products listed in EXHIBIT A to this Agreement."
+PROLONGINTERNATIONALCORP_03_23_1998-EX-10.16-SPONSORSHIP AGREEMENT__Unlimited/All-You-Can-Eat-License,"Is there a clause granting one party an “enterprise,” “all you can eat” or unlimited usage license?",0.5,0.08333333333333333,0.16666666666666666,0.0,"Based on the provided context documents, there is no clear indication of a clause granting one party an enterprise, all you can eat, or unlimited usage license.
+
+However, Document 2 does mention a ""limited license"" granted to each party to use the other's trademarks, service marks, or trade names."
+CardlyticsInc_20180112_S-1_EX-10.16_11002987_EX-10.16_Maintenance Agreement1__Non-Disparagement,Is there a requirement on a party not to disparage the counterparty?,0.23076923076923078,0.07692307692307693,0.3333333333333333,0.0,"There is no explicit requirement on a party not to disparage the counterparty in the provided context documents. However, Document 5 mentions that a party agrees not to use or reference the name of the other party in any advertising, sales promotion, press release or other communication relating to this Agreement without obtaining such party's prior written consent. Although this does not directly relate to disparagement, it implies a level of restraint on how a party is allowed to publicly mention its counterparty."
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__No-Solicit Of Customers,"Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",0.8333333333333334,0.8333333333333334,1.0,0.0,"Based on the provided context documents, a party seems to be restricted from certain activities, but the restrictions are not uniform.
+
+- Document 1 imposes a non-solicitation restriction on both parties for 6 months after the contract ends, preventing either party from soliciting, interfering with, or enticing away employees or contractors of the other party.
+
+- Document 3 imposes a similar restriction on the consultant (but not the company) for 12 months after termination of consultancy, preventing the consultant from soliciting, enticing, or inducing customers for competitive products or services or to terminate business with the company.
+
+- Document 2 does not directly address contracting or soliciting customers or partners, but it does outline the procedure for termination of the contract due to default and specifies that termination is without prejudice to any other rights or claims.
+
+- Document 5 states that in the event of termination, no party shall have any further obligation to the other party by reason of the agreement.
+
+- Document 4 clarifies that the relationship between the parties is that of independent contractors, but it does not directly address restrictions on contracting or soliciting customers or partners.
+
+So, to answer the question: It appears that parties are restricted from certain activities as per Document 1 and Document 3, but the restrictions"
+WOMENSGOLFUNLIMITEDINC_03_29_2000-EX-10.13-ENDORSEMENT AGREEMENT - Intellectual Property Rights                 Confidentiality and Non-Use Obligations Agreement__Ip Ownership Assignment,"Does intellectual property created  by one party become the property of the counterparty, either per the terms of the contract or upon the occurrence of certain events?",0.7631578947368421,0.15789473684210525,0.20689655172413793,0.0,"Based on the provided context documents, the answer is yes and no, depending on the specific circumstances.
+
+Document 1 states that any improvements, enhancements, modifications, or developments to a Party's intellectual property shall automatically vest in that Party, irrespective of who generates the relevant improvement (Clause 10.1). However, it also grants a non-exclusive, non-transferable, royalty-free license to use the other Party's Intellectual Property Rights as far as strictly necessary to comply with its marketing and promotional obligations under the Agreement (Clause 10.2). This license will automatically expire at the end of the Term of this Agreement (Clause 10.3).
+
+Document 2 (Exhibit A) states that the Recipient (Kathy Whitworth) agrees to assign and assigns all her rights in any Intellectual Property to the Company (Square Two Golf, Inc.), and that such Intellectual Property shall be the exclusive property of the Company (Clause (f)).
+
+Document 3 states that each Party will own all of its inventions and other Intellectual Property Rights made under this Agreement, unless otherwise expressly set forth herein. The Parties will jointly own all inventions and other Intellectual Property Rights jointly made under this Agreement (Clause 3.6).
+
+Document 4 states that all inventions, discoveries, and"
+NakedBrandGroupInc_20150731_POS AM (on S-1)_EX-10.75_9196027_EX-10.75_Endorsement Agreement__Anti-Assignment,Is consent or notice required of a party if the contract is assigned to a third party?,1.0,0.16666666666666666,0.16666666666666666,0.0,"Based on the provided context documents, the answer varies depending on the reason for the assignment.
+
+- If the contract is assigned without a change in control (i.e., a merger, sale of all or substantially all assets) and the assignee assumes the obligations of the assigning party, then:
+  - Document 1: No notice is required, but the Licensor's prior written consent is required for the Licensee to assign its rights and obligations to an Affiliate or subsidiary.
+  - Document 3: Written notice must be delivered to the other parties, but their consent is not required if the assignment is due to a merger, reorganization, or sale of assets.
+  - Document 4: Prior written consent is required from the other party for an assignment except to a party acquiring all of the business of the assigning party to which the Agreement relates. However, MediWound may assign its rights and obligations through its Affiliates and Sub-Contractors without prior consent, provided it remains responsible for their performance.
+  - Document 5: The parties are required to obtain Required Consents from Third Party Providers, but this is related to the transfer of Third Party Agreements and not a general assignment of the contract.
+
+- If the contract is assigned due to a change"
+EcoScienceSolutionsInc_20180406_8-K_EX-10.1_11135398_EX-10.1_Sponsorship Agreement__Change Of Control,"Does one party have the right to terminate or is consent or notice required of the counterparty if such party undergoes a change of control, such as a merger, stock sale, transfer of all or substantially all of its assets or business, or assignment by operation of law?",0.5,0.07692307692307693,0.15384615384615385,0.0,"Based on the provided context documents, one party may terminate the Agreement without consent or notice from the counterparty under certain circumstances involving a change of control. 
+
+In Document 3, it is stated that ""Except as otherwise provided herein, a Party shall not have the right to assign any of its rights or obligations under this Agreement (whether through a merger, sale of stock, or otherwise) without the prior written consent of the other Party;""
+
+However, it also states that ""Either Party shall be permitted, without any need for the other Party's consent, to assign this Agreement (a) in whole or in part to an Affiliate (provided, however, that once such Person is no longer an Affiliate of the assigning Party, such former Affiliate shall assign this Agreement back to the assigning Party), provided that the assigning Party provides the other Party notice of any such assignment...""
+
+In addition, it states that either Party may assign the Agreement ""(b) to a Third Party in connection with sale or transfer of all or substantially all of the assigning Party's business or assets relating to the subject matter of this Agreement, whether by Change of Control, merger, sale of assets or otherwise;""
+
+This indicates that a change of control, such as a merger or transfer of assets, may trigger the"
+TcPipelinesLp_20160226_10-K_EX-99.12_9454048_EX-99.12_Transportation Agreement__Anti-Assignment,Is consent or notice required of a party if the contract is assigned to a third party?,0.5416666666666666,0.2916666666666667,0.5384615384615384,1.0,"Based on the provided context documents, the answer to this question varies depending on the circumstances of the assignment. However, here is a general summary:
+
+- If a party assigns its rights and obligations to an Affiliate or subsidiary, prior written consent of the other party may or may not be required, depending on the document (Document 1 and Document 2). 
+- If a party assigns its rights and obligations in whole or in part to a third party, prior written consent of the other party is generally required (Document 2, Document 4, and Document 5).
+- However, there are exceptions to this rule:
+  - If a party assigns its rights and obligations due to a merger, reorganization, or sale of all or substantially all of its assets or voting securities, prior written consent of the other party may not be required (Document 3 and Document 2).
+  - If a party assigns its rights and obligations to a third party in connection with the sale or transfer of all or substantially all of its business or assets, prior written consent of the other party may not be required, but the assignee must assume the obligations of the assigning party in writing (Document 2).
+  - In some cases, notice to the other party may be required (Document"
+RgcResourcesInc_20151216_8-K_EX-10.3_9372751_EX-10.3_Franchise Agreement__Affiliate License-Licensee,Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?,0.4444444444444444,0.2222222222222222,0.5,0.0,"The contract does contain a license grant. 
+
+According to Document 1, Section 2(a) is referred to in the contract as the ""License Grant"". However, the document does not explicitly mention a license grant to affiliates of the licensee or sublicenseor.
+
+But according to document 2, the licensee desires to obtain from the licensor the right to market and sublicense the licensed products, and the licensor desires to grant these rights."
+ALAMOGORDOFINANCIALCORP_12_16_1999-EX-1-AGENCY AGREEMENT__Irrevocable Or Perpetual License,Does the contract contain a  license grant that is irrevocable or perpetual?,0.21428571428571427,0.21428571428571427,1.0,0.0,"The contract does contain a license grant that is perpetual for some of the Titles. According to Document 1, Section 2(a)(i), ""Licensor hereby grants to Licensee a non-exclusive, royalty-free, perpetual and non-perpetual license (subject to the duration and scope, and format limitations for which Licensor has the rights to each Title as specified in Schedule A1-A6 of Schedule A)"".
+
+However, the term ""perpetual"" is used in conjunction with ""non-perpetual"" in the same sentence, indicating that this sentence is describing the license grant's duration, but the word ""non-perpetual"" is likely a typographical error and should be ""non-exclusive"" or ""royalty-free"" instead.
+
+The actual duration of the license grant is specified in Schedule A1-A6, which may be different for each Title."
+AIRSPANNETWORKSINC_04_11_2000-EX-10.5-Distributor Agreement__Document Name,The name of the contract,1.0,0.11764705882352941,0.11764705882352941,1.0,"Based on the provided context documents, I was unable to find a specific name for the contract. However, it can be inferred that the contract is referred to as an ""Agreement"" in multiple documents."
+SoupmanInc_20150814_8-K_EX-10.1_9230148_EX-10.1_Franchise Agreement3__Post-Termination Services,"Is a party subject to obligations after the termination or expiration of a contract, including any post-termination transition, payment, transfer of IP, wind-down, last-buy, or similar commitments?",0.3448275862068966,0.13793103448275862,0.3,0.0,"Based on the provided context documents, the answer is yes. 
+
+Document 1 states that termination or expiration of this Agreement shall not relieve a Party of any liability for any breach that occurred, or of any obligation to make payment that accrued, before or on the effective date of such termination or expiration.
+
+Document 3 also states that (a) Obligations Accruing Prior to Termination. Expiration or termination of this Agreement shall not relieve the Parties of any obligation accruing prior to such expiration or termination.
+
+Document 2 requires each Party to return to the other Party or to the other Party's designee all of such other Party's property, including all proprietary information, in its possession, except to the extent required to be retained by law or to comply with such Party's continuing obligations hereunder.
+
+Document 5 states that in the event of a Terminating Event, involving Reseller, other than for an event involving fraud or dishonesty by Reseller, MediaNet Group Technologies shall be entitled to offset payments due under this Agreement against its costs incurred as a result of the Terminating Event, but shall remain obligated to remit all payments due under this agreement as a direct result of the activities of Reseller prior to the effective date of termination.
+
+Document"
+HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT__Warranty Duration,"What is the duration of any  warranty against defects or errors in technology, products, or services  provided under the contract?",0.4666666666666667,0.26666666666666666,0.5714285714285714,0.0,"Based on the provided documents, the duration of the warranty against defects or errors varies depending on the situation:
+
+- Document 1 mentions a warranty period of one year for the Licensed Technology, commencing on acceptance by the Licensee.
+- Document 2 does not specify a duration of the warranty period, but it mentions the twelve (12) month warranty period as a condition for notifying the Licensor of errors or discrepancies.
+- Document 3 states that the warranty for repaired and replaced equipment or software lasts for 90 days from the date of shipment or until the end of the Initial Warranty Period, whichever is longer. However, it does not explicitly state what the Initial Warranty Period is.
+- Document 4 does not explicitly state a duration of the warranty period, but it does mention a one-year warranty period.
+- Document 5 also mentions a twelve (12) month warranty period for the Licensed Products.
+
+However, the most commonly mentioned duration of the warranty period across the documents is 12 months."
+HPILHOLDING_01_07_2015-EX-99.1-COOPERATION AGREEMENT__Covenant Not To Sue,Is a party restricted from contesting the validity of the counterparty’s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?,0.9333333333333333,0.8,0.8571428571428571,0.0,"Based on the provided context documents, it appears that the parties have varying levels of obligation and restriction regarding disputes and claims related to intellectual property. However, for the specific question of whether a party is restricted from contesting the validity of the counterparty's ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract, there seems to be little direct information in the documents.
+
+However, Document 5, Section 8.1, does indicate that ""No Party shall have any obligation to institute or maintain any action or suit against any Third Party for infringement or misappropriation of any Intellectual Property licensed hereunder."" This section focuses on Third Party infringement and does not explicitly address contesting the validity of the counterparty's ownership or unrelated claims.
+
+The closest relevant information is in Document 2, Section 13.1-13.2 (i), which discusses the obligations of parties upon receiving a claim, action, suit, or proceeding related to intellectual property infringement. However, this section seems to focus on responding to third-party claims rather than contesting the counterparty's ownership or making unrelated claims.
+
+Document 1, Section (b), suggests that parties confer and consult regarding disputes with Third Parties respecting the infringement, validity, enforceability,"
+"Zounds Hearing, Inc. - MANUFACTURING DESIGN MARKETING AGREEMENT__Competitive Restriction Exception","This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",0.42857142857142855,0.2857142857142857,0.6666666666666666,0.0,"Based on the provided context documents, the exceptions or carveouts to Non-Competition, Exclusivity, and No-Solicit of Customers are:
+
+Document 2 (Section 7.2):
+- The exceptions are not explicitly stated in this document, but it mentions ""except for general advertising"".
+
+Document 3:
+- Marketing Affiliate can solicit existing business customers of Equidata for joint marketing purposes.
+- Marketing Affiliate can market similar products from competing companies on a Web Site Landing Page for joint marketing purposes.
+
+Document 4 (Section 15: Compliance with Laws):
+- This section does not provide any direct carveouts but mentions that the Agreement shall be subject to all federal, state and local laws, regulations, and ordinances.
+
+Document 5 (NON-SOLICITATION):
+- The exceptions are not explicitly stated in this document, but it mentions that general advertising is allowed.
+
+Document 1 does not mention any carveouts.
+
+The specific exceptions or carveouts mentioned in the documents are:
+
+- General advertising (Documents 2, 4, and 5)
+- Joint marketing purposes (Document 3)
+- Nationally-televised games, All-Star Games, World Baseball Classic games, playoff games, and World Series games (Document 4)
+- Licensing arrangements (Document"
+SMITHELECTRICVEHICLESCORP_04_04_2012-EX-10.26-FLEET MAINTENANCE AGREEMENT__Revenue/Profit Sharing,"Is one party required to share revenue or profit with the counterparty for any technology, goods, or services?",0.9166666666666666,0.08333333333333333,0.09090909090909091,0.0,"Based on the context documents provided, there is no mention of revenue sharing between the parties for any technology, goods, or services."
+CENTRACKINTERNATIONALINC_10_29_1999-EX-10.3-WEB SITE HOSTING AGREEMENT__Termination For Convenience,Can a party terminate this  contract without cause (solely by giving a notice and allowing a waiting  period to expire)?,0.3181818181818182,0.18181818181818182,0.5714285714285714,0.0,"Yes, based on the documents provided:
+
+- Document 1 allows either party to terminate the Agreement without cause by giving 90 days written notice to the other party.
+- Document 3 states that either party may terminate this Agreement at any time during the term of this Agreement for any reason upon two weeks written notice to the other party.
+- Document 5 allows the non-defaulting party to terminate the Agreement if the other party fails to observe or perform any of the covenants, agreements, or obligations under the Agreement (other than payment of money), but it's not explicitly stated that termination without cause is possible by giving a notice and allowing a waiting period to expire."
+"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.__Affiliate License-Licensee",Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?,0.3333333333333333,0.2222222222222222,0.6666666666666666,0.0,"Based on the provided context documents, the answer is that the contract does contain a license grant to a licensee (including a sublicensor) and the affiliates of such licensee/sublicensor.
+
+Document 1 mentions that the licensee shall have the right to assign or sublicense any or all of its rights granted under this Agreement. 
+
+Additionally, Document 2 implies that the license grant includes the right to market and sublicense the Licensed Products to third parties, which could imply affiliates.
+
+However, the exact relationship between affiliates and the license grant is not explicitly described in the provided documents."
+PerformanceSportsBrandsInc_20110909_S-1_EX-10.10_7220214_EX-10.10_Endorsement Agreement__Rofr/Rofo/Rofn,"Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",0.4444444444444444,0.2222222222222222,0.5,0.0,"Based on the context documents, there are several clauses granting one party a right of first refusal, right of first offer, or right of first negotiation.
+
+In Document 1, Section 1, there is a clause granting the Receiving Party a right of first offer to purchase a Development Opportunity, which is a proposed offer or arrangement to acquire the ownership of real property in the Market Area for a Hyatt All-Inclusive Resort.
+
+In Document 2, Section 1, there is a clause granting Pretzel Time a right of first refusal to purchase the business of Franchisee. If Pretzel Time exercises its right of first refusal, Franchisee must abide by certain restrictions. If Pretzel Time does not exercise its right of first refusal, Franchisee may complete the sale to another party, subject to Pretzel Time's approval.
+
+There are no clauses granting a right of first negotiation.
+
+Additionally, the other documents (Documents 3, 4, and 5) do not contain any clauses granting a right of first refusal, right of first offer, or right of first negotiation. These documents primarily deal with the assignment of rights and obligations under various agreements."
+EuromediaHoldingsCorp_20070215_10SB12G_EX-10.B(01)_525118_EX-10.B(01)_Content License Agreement__Most Favored Nation,"Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",0.06666666666666667,0.06666666666666667,1.0,1.0,"Document 4 has a clause that addresses this question. According to Document 4, if Licensor enters into an agreement with a third party for the distribution and exhibition of Licensed Programs on terms that are more favourable than those contained in the Agreement, then the buyer (Rogers) has the right to incorporate or substitute those terms into the Agreement. This effectively allows the buyer to benefit from better terms if they are negotiated by the Licensor with a third party."
+"Reinsurance Group of America, Incorporated - A_R REMARKETING  AGREEMENT__Competitive Restriction Exception","This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",0.6428571428571429,0.2857142857142857,0.4444444444444444,0.0,"Based on the provided context documents, the following categories include exceptions or carveouts to Non-Compete, Exclusivity, and No-Solicit of Customers:
+
+1. **Section 7.2 of Document 2**: ""As used in this Section 7.2, ""Customer"" means any person or entity to which the Company provided products or services, including any tenants of the Company's properties, (or was invested in real estate owned by the Company), and with which CONSULTANT had contact on behalf of the Company, within the last twelve (12) months of its consultancy with the Company."" This implies that the no-solicit of customers restriction does not apply to customers with which the consultant had contact more than 12 months prior to termination.
+
+2. **Document 3**: The no-solicit of clients restriction does not apply to ""joint marketing purposes"" and does not restrict marketing similar products from competing companies on a web site landing page that contains the Equidata or Marketing Affiliate web link as long as the agreement is in effect.
+
+3. **Document 4 Section 13**: This Agreement shall be subject to all federal, state and local laws, regulations and ordinances.
+
+4. **Document 4 Section 6**: Marketing exclusivity is only explicitly"
+WEBHELPCOMINC_03_22_2000-EX-10.8-HOSTING AGREEMENT__Audit Rights,"Does a party have the right to  audit the books, records, or physical locations of the counterparty to ensure compliance with the contract?",0.967741935483871,0.16129032258064516,0.16666666666666666,0.0,"Yes, a party has the right to audit the books, records, or physical locations of the counterparty to ensure compliance with the contract, according to the provided context documents.
+
+Document 2, Section 7.3, explicitly states that Janssen or an authorized representative of Janssen may inspect and audit the Books and Records of Company to evaluate Company's compliance with certain sections of the Agreement.
+
+Document 3, Section 7.2, provides that upon reasonable notice, each party may permit an independent certified public accounting firm to examine the relevant Books and Records of the other party to verify the accuracy of reports and payments made or invoiced under the Agreement.
+
+Document 4 explicitly states that MediWound (itself or through anyone on its behalf) or any relevant regulatory authority shall have the right to audit any such records and/or the relevant facilities of CBC with reasonable prior notice.
+
+Document 5, Section 3.4, states that LICENSOR shall have the right to use a certified public accountant to inspect and audit all the related records and books of plan_b to ensure plan_b's compliance with the terms of this Agreement.
+
+In each of these documents, the party with the audit right is typically allowed to inspect the books, records, and physical locations of the"
+QBIOMEDINC_04_08_2020-EX-99.1-JOINT FILING AGREEMENT__Most Favored Nation,"Is there a clause that if a third party gets better terms on the licensing or sale of technology/goods/services described in the contract, the buyer of such technology/goods/services under the contract shall be entitled to those better terms?",0.06666666666666667,0.06666666666666667,1.0,0.0,"Based on the provided context documents, there is a relevant clause in Document 4. It states that if the Licensor enters into an agreement with a third party for the distribution and exhibition of Licensed Programs (or similar) on more favorable terms than those contained in the Agreement, Rogers has the right to incorporate or substitute those terms into the Agreement, effective as of the date they were accorded to the third party.
+
+This implies that if a third party gets better terms, Rogers, the buyer under the contract, shall be entitled to those better terms."
+MEDIWOUNDLTD_01_15_2014-EX-10.6-SUPPLY AGREEMENT__No-Solicit Of Customers,"Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",0.8333333333333334,0.4166666666666667,0.4,0.0,"Based on the context documents provided, a party is restricted from certain actions at different stages:
+
+1. During the contract: 
+- Document 1 restricts a party from soliciting employees or contractors of the other party during the contract term and for 6 months thereafter.
+- Document 2 mentions a default clause, but it does not restrict a party from contracting or soliciting customers or partners of the counterparty.
+- Document 5 states that no party has any liability or further obligation to the other party in the event of termination prior to the Effective Time.
+
+2. After the contract ends:
+- Document 1 restricts a party from soliciting employees or contractors of the other party for 6 months after the contract term.
+- Document 3 restricts the Consultant (a party) from soliciting customers (including any person or entity provided products or services by the Company) for 12 months immediately following the termination of its consultancy with the Company.
+
+In general, a party is restricted from soliciting the employees, contractors, or customers of the counterparty for a certain period after the contract ends, but there is no restriction on contracting or soliciting customers or partners of the counterparty during the contract term, based on the provided context documents."
+IMAGEWARESYSTEMSINC_12_20_1999-EX-10.22-MAINTENANCE AGREEMENT__Liquidated Damages,Does the contract contain a clause that would award either party liquidated damages for breach or a fee upon the termination of a contract (termination fee)?,0.16,0.4,1.0,0.0,"Based on the provided context documents, there is no explicit clause that awards either party liquidated damages for breach or a fee upon the termination of a contract (termination fee).
+
+Document 1 mentions a liquidated damages clause, but it is in the context of a Master Franchise Agreement, and it mentions that certain liquidated damages clauses are unenforceable under California Civil Code Section 1671. However, there is no information about liquidated damages being awarded in the current contract.
+
+Document 4 contains a limitation of liability clause that states that neither party shall be liable for indirect, incidental, consequential, special, punitive, exemplary, or extra-contractual damages, including lost profits, lost revenues, or loss of business. This clause implies that the parties may not be liable for damages related to the termination of the contract.
+
+Document 3 mentions a termination period, but it is in the context of the conversion of the Service to a non-Company manifest system, and it does not mention any termination fee or liquidated damages.
+
+Document 5 mentions general termination rights, but it does not mention any termination fee or liquidated damages.
+
+In summary, based on the provided context documents, there is no explicit clause that awards either party liquidated damages for breach or a fee upon"
+PFSFUNDS_06_26_2020-EX-99.H OTH MAT CONT-SERVICES AGREEMENT__Exclusivity,"Is there an exclusive dealing  commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on  collaborating or working with other parties), whether during the contract or  after the contract ends (or both).",0.6666666666666666,0.2,0.3,1.0,"Based on the provided context documents, there is no evidence of an exclusive dealing commitment with the counterparty. 
+
+Document 3 explicitly states that ""The Parties agree that the relationship contemplated by this Agreement is a nonexclusive engagement/venture..."" indicating that the relationship is nonexclusive. 
+
+Additionally, Document 1 includes a non-solicitation clause, but it only prohibits soliciting, interfering with, or enticing away employees or contractors of the other party, which is not equivalent to an exclusive dealing commitment.
+
+Document 5 allows for the assignment of rights, obligations, and privileges to a successor in business or an acquirer of all or substantially all of a party's business or assets. However, this does not imply an exclusive dealing commitment either.
+
+Therefore, there is no evidence to suggest that there is an exclusive dealing commitment with the counterparty."
+AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement__Irrevocable Or Perpetual License,Does the contract contain a  license grant that is irrevocable or perpetual?,0.9285714285714286,0.35714285714285715,0.38461538461538464,0.0,"The contract contains a license grant that is described as ""perpetual and non-perpetual."" 
+
+Specifically, in Document 1, the License Grant section states that the Licensor grants to the Licensee ""a non-exclusive, royalty-free, perpetual and non-perpetual license..."".
+
+However, upon closer inspection of the same section (Document 1), it becomes apparent that the ""non-perpetual"" reference is actually describing the duration and scope of the license for each Title as specified in Schedule A1-A6 of Schedule A. 
+
+This suggests that the intention of the Licensor is to grant a license that is perpetual in nature, rather than non-perpetual.
+
+But then again, there is a limitation that some Titles have a non-perpetual license in some cases."
+"CARDAX,INC_08_19_2014-EX-10.1-COLLABORATION AGREEMENT__Non-Disparagement",Is there a requirement on a party not to disparage the counterparty?,0.23076923076923078,0.07692307692307693,0.3333333333333333,1.0,"There is no explicit requirement in the provided context documents to not disparage the counterparty. There is a requirement to obtain prior written consent before using the counterparty's name, logos, or trademarks in advertising, sales promotion, press releases, or other communications (Document 5), but there is no mention of a requirement to refrain from disparaging the counterparty."
+"ADUROBIOTECH,INC_06_02_2020-EX-10.7-CONSULTING AGREEMENT__Source Code Escrow","Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,  insolvency, etc.)?",0.0,0.0,0.0,1.0,There is not enough information from the provided context to determine if one party is required to deposit its source code into escrow with a third party.
+"BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT__Warranty Duration","What is the duration of any  warranty against defects or errors in technology, products, or services  provided under the contract?",0.3333333333333333,0.3333333333333333,1.0,1.0,"Based on the provided context documents, the duration of any warranty against defects or errors varies depending on the specific situation:
+
+- For the Licensed Technology provided by D2 (Document 1), the warranty period is one year (12 months) commencing on acceptance of such portion of the Licensed Technology by LICENSEE (Document 1).
+- For the Licensed Products (Documents 2 and 5), the warranty period is also one year (12 months).
+- For the repaired or replaced Equipment or Software by Airspan (Document 3), the warranty period is 90 days from date of shipment from Airspan to Distributor or until the end of the Initial Warranty Period, whichever is longer.
+
+There is no specific information about the warranty duration in Document 4, which outlines the procedure for correcting defects."
+AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.34_11788308_EX-10.34_Sponsorship Agreement__Document Name,The name of the contract,0.11764705882352941,0.058823529411764705,0.5,1.0,"Based on the provided context documents, I cannot determine the name of the contract as it is not explicitly mentioned in any of the documents. However, I can identify some contract references:
+
+- Document 3 mentions ""Service Agreement dated November 01, 2015 with Contract Identification FT18150"".
+- Document 2 refers to ""this Agreement"", but its name is not specified.
+
+If you provide more context or documents, I may be able to help you identify the name of the contract."
+"Zounds Hearing, Inc. - MANUFACTURING DESIGN MARKETING AGREEMENT__No-Solicit Of Customers","Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",0.8333333333333334,0.3333333333333333,0.4,0.0,"Based on the context documents, a party is restricted from certain activities related to the counterparty's employees, contractors, and customers, but the scope of these restrictions varies.
+
+From Document 1, the parties agree not to solicit, interfere with, or entice away any employee or contractor of the other Party for a period of 6 months after the end of the agreement.
+
+From Document 3, the consultant agrees not to solicit customers of the Company for 12 months after the termination of its consultancy, for the purpose of providing products or services competitive with those provided by the Company.
+
+There is no explicit provision in the documents restricting a party from contracting or soliciting customers or partners of the counterparty during the contract or after the contract ends. However, the restrictions in Documents 1 and 3 may indirectly limit a party's ability to contract with or solicit customers of the counterparty.
+
+Document 4 establishes that the parties are independent contractors and do not have the right to obligate or bind each other. Document 5 states that in the event of termination, no party shall have any liability or further obligation to the other party, which may imply a level of independence in their contractual relationships.
+
+Overall, the restrictions in the documents are more focused on protecting the counterparty's"
+"BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT__Covenant Not To Sue",Is a party restricted from contesting the validity of the counterparty’s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?,0.8666666666666667,0.2,0.23076923076923078,0.0,"Based on the provided context documents, it appears that a party is not restricted from contesting the validity of the counterparty's ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract.
+
+Document 1, section (a) states that each party may enforce its own intellectual property rights, including defending against assertions of invalidity or ownership. This suggests that a party is free to contest the validity of the counterparty's ownership.
+
+Document 5, Section 8.1 explicitly states that ""No Party shall have any obligation to institute or maintain any action or suit against any Third Party for infringement or misappropriation of any Intellectual Property licensed hereunder..."" and then goes on to exclude defending actions related to validity of Intellectual Property. However, this section does not explicitly restrict a party's ability to contest the validity of the counterparty's ownership of intellectual property.
+
+Additionally, Document 4, Section 12.2.1 mentions that the liability of any party to this agreement does not include compensation for damages such as loss of profits, expenditures, or opportunity, and further states that ""in no event shall any party to this agreement be liable to the other parties to this agreement for special, indirect, consequential, incidental, punitive or consequential damages."""
+"OMINTO,INC_03_29_2004-EX-10-RESELLER AGREEMENT__Minimum Commitment",Is there a minimum order size or minimum amount or units per-time period that one party must buy from the counterparty under the contract?,0.16666666666666666,0.1111111111111111,0.6666666666666666,0.0,"Based on the provided context documents, there seem to be different scenarios related to minimum order quantities, but I will identify the ones mentioned:
+
+1. Document 1: For Finished Product, there is a Minimum Order Quantity for each applicable Product as set forth in the applicable Facility Addendum. However, if the Customer places an order that exceeds this minimum, they must place additional orders for the excess quantities in specified Increments above the minimum order quantity. 
+
+2. Document 3: There is no mention of a minimum order quantity or amount in this document.
+
+3. Document 4: There is no mention of a minimum order quantity or amount in this document.
+
+4. Document 5: This document does not mention a minimum order quantity or amount.
+
+Document 2 mentions selling at least the total minimum of Securities within a specific period, but this is about the Company selling Securities, not a minimum order quantity for one party to buy from the counterparty.
+
+So, to answer your question, yes, there is a minimum order quantity or amount specified in Document 1 for Finished Product."
+EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding Agreement__No-Solicit Of Employees,"Is there a restriction on a party’s soliciting or hiring employees and/or contractors from the  counterparty, whether during the contract or after the contract ends (or both)?",0.7142857142857143,0.5714285714285714,0.8,0.0,"Yes, based on the context documents, there are restrictions on a party's soliciting or hiring employees and/or contractors from the counterparty, both during the contract and after the contract ends.
+
+Document 1 restricts a party from soliciting, interfering with, or enticing away employees or contractors of the other party for a period of six months after the contract ends.
+
+Document 2 restricts the CONSULTANT from soliciting employees and contractors of the Company for a period of twelve months after the termination of its consultancy.
+
+Document 3 restricts both parties from hiring employees of the other party or any person who was an employee of the other party during the previous six months for a period of one year after the contract ends.
+
+Document 5 restricts each party from hiring, soliciting, contracting for, or causing to be solicited, the employment or services of any current or previous employee of the other party for a period of five years after the contract ends.
+
+Therefore, the restrictions on hiring or soliciting employees and contractors from the counterparty are in place both during the contract and for various periods of time after the contract ends, depending on the specific document."
+BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement3__Notice Period To Terminate Renewal,What is the notice period required to terminate renewal?,0.45,0.2,0.4444444444444444,0.0,"Based on the context documents, the notice period for terminating a renewal varies:
+
+- Document 2 states that Pretzel Time may elect not to renew the Franchise Agreement with written notice not less than six (6) months prior to the expiration of the term.
+- Document 4 states that the Customer or i-on must give notice to the other party of its intention not to renew the Agreement, which notice must be given not less than fifteen (15) days before the end of the respective initial or renewal term.
+- Document 5 states that either party must serve written notice of its intention not to renew at least 90 days prior to the expiration of the then current term.
+
+Therefore, the notice period required to terminate a renewal varies between 6 months, 15 days, and 90 days depending on the specific agreement or document."
+SYKESHEALTHPLANSERVICESINC_04_24_1998-EX-10.14-OUTSOURCING AGREEMENT__Covenant Not To Sue,Is a party restricted from contesting the validity of the counterparty’s ownership of intellectual property or otherwise bringing a claim against the counterparty for matters unrelated to the contract?,0.6,0.2,0.3333333333333333,0.0,"Based on the given context documents, there is no explicit restriction for a party to contest the validity of the counterparty's ownership of intellectual property."
+NETGROCERINC_07_31_1998-EX-10.15-SPONSORSHIP AGREEMENT__Non-Disparagement,Is there a requirement on a party not to disparage the counterparty?,0.15384615384615385,0.15384615384615385,1.0,0.0,"There is no specific requirement in the provided context documents to not disparage the counterparty. However, Document 5 contains a provision that prohibits a party from using or referencing the other party's name, logos, or trademarks in advertising, sales promotion, press releases, or other communication relating to the Agreement without the other party's prior written consent. This could be interpreted as implying a negative connotation if the consent is not given."
+"WASTE2ENERGYHOLDINGS,INC_06_03_2010-EX-10.2-STRATEGIC ALLIANCE AGREEMENT__Source Code Escrow","Is one party required to deposit its source code into escrow with a third party, which can be released to the counterparty upon the occurrence of certain events (bankruptcy,  insolvency, etc.)?",0.96875,0.0,0.0,0.0,"Based on the provided context documents, there is no mention of depositing source code into escrow with a third party. The documents do discuss confidentiality, non-disclosure, and the handling of confidential information, but they do not specifically mention escrow arrangements for source code.
+
+Document 4 discusses third-party agreements, where each party transfers or acquires certain rights and obligations, but these agreements are related to existing contracts with third parties (e.g., Equifax and Certegy), not source code.
+
+Document 5 mentions confidentiality and non-disclosure of information, including the terms of the agreement, business plans, technology, products, and services. However, it does not mention source code or escrow arrangements.
+
+Therefore, based on the provided context documents, there is no requirement for one party to deposit its source code into escrow with a third party."
+PLAYAHOTELS_RESORTSNV_03_14_2017-EX-10.22-STRATEGIC ALLIANCE AGREEMENT (Hyatt Ziva Cancun)__Exclusivity,"Is there an exclusive dealing  commitment with the counterparty? This includes a commitment to procure all “requirements” from one party of certain technology, goods, or services or a prohibition on licensing or selling technology, goods or services to third parties, or a prohibition on  collaborating or working with other parties), whether during the contract or  after the contract ends (or both).",0.5333333333333333,0.2,0.375,1.0,"Based on the provided context documents, there is no exclusive dealing commitment with the counterparty in the classical sense. 
+
+Document 3 states that ""The Parties agree that the relationship contemplated by this Agreement is a nonexclusive engagement/venture and that each Party now renders and may continue to render consulting services and/or sell or provide products to other companies that may or may not conduct activities similar to those of each other Party."" This suggests a nonexclusive relationship.
+
+Also, Document 1 mentions non-solicitation, but it's not about preventing the parties from collaborating or working with other parties. Instead, it's about preventing the parties from soliciting or enticing away each other's employees or contractors.
+
+Document 5 allows for assignment of obligations to a successor in business or an acquirer of all or substantially all of the business or assets, but this doesn't necessarily imply an exclusive dealing commitment.
+
+However, Document 2 does mention that MediWound may not assign its rights or obligations without the prior written consent of the other party, except in certain circumstances. This could be seen as a restriction on collaboration or working with other parties, but it's not a complete prohibition.
+
+In summary, while there are some restrictions on collaboration and working with other parties, there is no explicit exclusive dealing"
+ArtaraTherapeuticsInc_20200110_8-K_EX-10.5_11943350_EX-10.5_License Agreement__Termination For Convenience,Can a party terminate this  contract without cause (solely by giving a notice and allowing a waiting  period to expire)?,0.13636363636363635,0.13636363636363635,1.0,0.0,"Based on the provided context documents, a party can terminate the contract without cause (solely by giving a notice and allowing a waiting period to expire) in the following scenarios:
+
+- Document 1: This Agreement may be canceled at any time without cause, by either party upon ninety (90) days written notice to the other party.
+- Document 3: Either Party may terminate this Agreement at any time during the term of this Agreement for any reason upon two weeks written notice to the other Party.
+- Document 5: (Although not explicitly stated as ""without cause"", it can be inferred that if a party fails to make any payment of any sum of money specified in this Agreement, the non-defaulting party may terminate this Agreement; however, it is worth noting that payment is typically considered a cause for termination.)
+
+However, it is not possible to provide a definitive answer without knowing the specific context of the contract."
+"MFAFINANCIAL,INC_07_06_2020-EX-99.D-JOINT FILING AGREEMENT__Document Name",The name of the contract,0.0,0.0,0.0,1.0,"Unfortunately, I do not see a contract name in any of the provided documents."
+PrecheckHealthServicesInc_20200320_8-K_EX-99.2_12070169_EX-99.2_Distributor Agreement__Parties,The two or more parties who signed the contract,0.25,0.1,0.4,0.0,"Based on the context documents, the answer to the question is not explicitly stated in a single sentence but can be inferred from multiple documents. 
+
+From Document 1, it is mentioned that ""each of the Parties"" will sign the agreement. 
+
+From Document 2, it is mentioned that ""each of the parties to this Agreement"" will sign the agreement.
+
+From this, I can infer that the two or more parties who signed the contract are referred to as ""Parties"" or ""parties to this Agreement"" in the context documents."
+Cerus Corporation - FIRST AMEND TO SUPPLY AND MANUFACTURING AGREEMENT__Parties,The two or more parties who signed the contract,0.15,0.15,1.0,1.0,"The context does not specify the exact number of parties who signed the contract. It mentions ""each of the parties"" and ""each Party"" but does not provide the actual number."
+PacificapEntertainmentHoldingsInc_20051115_8-KA_EX-1.01_4300894_EX-1.01_Content License Agreement__Third Party Beneficiary,Is there a non-contracting party who is a beneficiary to some or all of the clauses in the contract and therefore can enforce its rights against a contracting party?,0.18181818181818182,0.09090909090909091,0.5,1.0,"According to Document 1, Section 10.10, there is at least one non-contracting party who is a beneficiary to some of the clauses in the contract. Specifically, it is stated that ""Section 7.3(a) and Section 7.3(b) hereof are intended to benefit, and to be enforceable by, any of the Relevant Indemnified Parties therein described."""
+ALAMOGORDOFINANCIALCORP_12_16_1999-EX-1-AGENCY AGREEMENT__Document Name,The name of the contract,1.0,0.0,0.0,1.0,"Unfortunately, I couldn't find a specific name of the contract in the provided context documents. The context documents seem to refer to multiple contracts and agreements, but they don't explicitly state the name of the contract being discussed.
+
+However, based on the content of the documents, it appears that they are related to a contract between a Manufacturer and a Subcontractor, with additional agreements and licenses granted to a Company by North. The exact name of the contract is not specified."
+"BORROWMONEYCOM,INC_06_11_2020-EX-10.1-JOINT VENTURE AGREEMENT__No-Solicit Of Customers","Is a party restricted from contracting or soliciting customers or partners of the counterparty, whether during the contract or after the contract ends (or both)?",0.8333333333333334,0.8333333333333334,1.0,0.0,"Based on the provided context documents, a party is restricted from certain activities in the following situations:
+
+1. Document 1: During the term of the agreement and for a period of 6 months thereafter, a party cannot solicit, interfere with, or entice away any employee or contractor of the other party.
+
+2. Document 3: During the consultancy and for a period of 12 months after the termination of consultancy, the consultant (party) cannot solicit, entice, or induce any customer to terminate or reduce its business with the Company, nor can they provide competitive products or services to those customers.
+
+3. Document 5: In the event of an early termination, neither party has any further obligations, implying that parties are still restricted from some actions (though not explicitly stated) as per the other documents.
+
+There is no restriction on contracting or soliciting customers or partners of the counterparty in general, but rather specific restrictions on certain activities like soliciting employees, contractors, or customers in the context of the respective agreements.
+
+Document 2 discusses termination and default, which does not directly address restrictions on contracting or soliciting customers or partners. 
+
+Document 4 clarifies the relationship of the parties as independent contractors, but does not impose any restrictions on contracting or soliciting"
+BellringBrandsInc_20190920_S-1_EX-10.12_11817081_EX-10.12_Manufacturing Agreement3__Affiliate License-Licensee,Does the contract contain a license grant to a licensee (incl. sublicensor) and the affiliates of such licensee/sublicensor?,0.3333333333333333,0.4444444444444444,1.0,0.0,"Based on the provided context documents, the answer is: No, it does not explicitly mention a license grant to the affiliates of the licensee/sublicensor.
+
+Document 1 talks about the licensee having the right to sublicense, but it does not mention the affiliates.
+
+Document 2 mentions ""Licensed Products"" and that the license is for the Licensee to market and sublicense the Licensed Products, but it does not explicitly mention the affiliates.
+
+Document 4 talks about the licensee giving credit to the licensor and its licensors for the authorship of the Licensed Products, but it again does not mention the affiliates.
+
+Document 5 talks about the licensee being able to support Redistributors or Customers without payment of fees to the licensor, but does not mention the affiliates of the licensee.
+
+Document 2 does mention that the agreement includes the terms and conditions as set forth in this Agreement, but the other documents do not provide enough context to imply that the contract contains a license grant to the affiliates."
+IdeanomicsInc_20160330_10-K_EX-10.26_9512211_EX-10.26_Content License Agreement__Non-Disparagement,Is there a requirement on a party not to disparage the counterparty?,0.6923076923076923,0.0,0.0,1.0,There is no mention of a requirement on a party not to disparage the counterparty in the provided context documents.
+"FIDELITYNATIONALINFORMATIONSERVICES,INC_08_05_2009-EX-10.3-INTELLECTUAL PROPERTY AGREEMENT__Governing Law",Which state/country's law governs the interpretation of the contract?,0.5,0.5,1.0,0.0,"Based on the provided context documents, the state/country's law that governs the interpretation of the contract is the State of New York in documents 1, 2, 3, and 5. 
+
+Document 4 states that the State of Nevada will govern the agreement, but this is the only document that specifies a different state from New York."
+"ETELOS,INC_03_09_2004-EX-10.8-DISTRIBUTOR AGREEMENT__Competitive Restriction Exception","This category includes the exceptions or carveouts to Non-Compete, Exclusivity and No-Solicit of Customers above.",0.7142857142857143,0.2857142857142857,0.4,0.0,"Based on the provided context documents, the exceptions or carveouts to the agreements above can be identified as follows:
+
+1. Document 2: 
+- Section 7.2 (Non-Solicitation of Customers) specifically excludes any general advertising as a permissible means of soliciting customers.
+
+2. Document 4:
+- Exclusivity exceptions are explicitly listed under Section 12 (Exclusivity) including:
+  (a) signage, advertising, and promotional arrangements made by the Office of the Commissioner of Baseball with respect to nationally-televised games, All-Star Games, World Baseball Classic games, playoff games, and World Series games.
+  (b) licensing arrangements made by Major League Baseball Properties, Inc. with respect to such category.
+  (c) advertising with respect to such category in game programs, yearbooks, scorecards, and similar publications which are sold on the day of an event other than Padres home games.
+  (d) the display before, during, and after an event of displays, temporary in nature, erected by an event sponsor, promoter, broadcaster, or participant.
+  (e) promotional messages displayed on a scoreboard or video board that give the name of the sponsor of Ballpark day-of-event promotions at events other than Padres home games or"
+ALLIANCEBANCORPINCOFPENNSYLVANIA_10_18_2006-EX-1.2-AGENCY AGREEMENT__Governing Law,Which state/country's law governs the interpretation of the contract?,0.5,0.4,0.8,0.0,"Based on the provided context documents, the law that governs the interpretation of the contract is from the State of New York, in the United States. 
+
+Document 1, 2, 3, and 5 all mention the laws of New York as the governing law. Document 4 is the only one that mentions a different state (Nevada), but it does not apply to the question as it is the only one that does not mention New York."
+ALAMOGORDOFINANCIALCORP_12_16_1999-EX-1-AGENCY AGREEMENT__Unlimited/All-You-Can-Eat-License,"Is there a clause granting one party an “enterprise,” “all you can eat” or unlimited usage license?",0.5833333333333334,0.5,0.8571428571428571,1.0,"Based on the provided context documents, there is no clause granting one party an ""enterprise,"" ""all you can eat,"" or unlimited usage license. 
+
+Document 2 grants a non-exclusive, limited license to use trademarks, service marks, or trade names, but it does not indicate any form of unlimited usage license. 
+
+Document 3 and Document 5 restrict the assignment of rights, obligations, or privileges without the prior written consent of the other party, but this does not describe a license or usage agreement. 
+
+Document 1 reserves all rights not specifically granted or licensed to one party. 
+
+Document 4 discusses compliance with Global Trade Control Laws but does not mention a license. 
+
+Therefore, the answer is no."

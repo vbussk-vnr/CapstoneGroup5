@@ -1,0 +1,79 @@
+{
+  "config": {
+    "name": "biomed_exp4_semantic_chunking_legalbert",
+    "domain": "pubmedqa",
+    "subset": "cuad",
+    "description": "Semantic chunking with LegalBERT",
+    "chunking_strategy": "semantic",
+    "chunk_size": 512,
+    "chunk_overlap": 50,
+    "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+    "retrieval_type": "hybrid",
+    "top_k_final": 5,
+    "use_cross_encoder": true,
+    "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "hybrid_alpha": 0.5,
+    "expected_improvement": "+40-50%",
+    "rationale": "Semantic legal boundaries"
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.60740897914769,
+      "aucroc": null,
+      "mean_predicted": 0.5459711505544422,
+      "mean_ground_truth": 0.12853010717514327,
+      "std_predicted": 0.3013589949910588,
+      "std_ground_truth": 0.2840117070606483
+    },
+    "utilization_score": {
+      "rmse": 0.36026667807929375,
+      "aucroc": null,
+      "mean_predicted": 0.2915107207759253,
+      "mean_ground_truth": 0.04800738566805671,
+      "std_predicted": 0.25766257030299666,
+      "std_ground_truth": 0.11511273239299459
+    },
+    "completeness_score": {
+      "rmse": 0.5272056415627898,
+      "aucroc": null,
+      "mean_predicted": 0.5651209365184142,
+      "mean_ground_truth": 0.7518070321959577,
+      "std_predicted": 0.34031890153683464,
+      "std_ground_truth": 0.35324510521224456
+    },
+    "adherence_score": {
+      "rmse": null,
+      "aucroc": 0.65625,
+      "mean_predicted": 0.3,
+      "mean_ground_truth": 0.96,
+      "std_predicted": 0.45825756949558394,
+      "std_ground_truth": 0.19595917942265423
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.5459711505544422,
+      "std": 0.3013589949910588,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "utilization_score": {
+      "mean": 0.2915107207759253,
+      "std": 0.25766257030299666,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "completeness_score": {
+      "mean": 0.5651209365184142,
+      "std": 0.34031890153683464,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "adherence_score": {
+      "mean": 0.3,
+      "std": 0.45825756949558394,
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "config": {
+    "name": "legal_baseline_sparse_bm25",
+    "domain": "pubmedqa",
+    "subset": "cuad",
+    "description": "Baseline: Sparse - captures legal terms",
+    "chunking_strategy": "sentence_based",
+    "chunk_size": 512,
+    "chunk_overlap": 50,
+    "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+    "retrieval_type": "sparse",
+    "top_k_final": 5,
+    "use_cross_encoder": false,
+    "hybrid_alpha": 0.0,
+    "expected_improvement": "0%",
+    "rationale": "BM25 good for legal terminology"
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.6251725872516396,
+      "aucroc": null,
+      "mean_predicted": 0.0070082027514161704,
+      "mean_ground_truth": 0.40493993993993993,
+      "std_predicted": 0.009320677717428881,
+      "std_ground_truth": 0.4858864064927407
+    },
+    "utilization_score": {
+      "rmse": 0.06423091403438919,
+      "aucroc": null,
+      "mean_predicted": 0.0070082027514161704,
+      "mean_ground_truth": 0.030752798252798252,
+      "std_predicted": 0.009320677717428881,
+      "std_ground_truth": 0.055401678866711226
+    },
+    "completeness_score": {
+      "rmse": 0.7071067811865476,
+      "aucroc": null,
+      "mean_predicted": 0.4,
+      "mean_ground_truth": 0.4,
+      "std_predicted": 0.48989794855663565,
+      "std_ground_truth": 0.37416573867739417
+    },
+    "adherence_score": {
+      "rmse": null,
+      "aucroc": NaN,
+      "mean_predicted": 0.0,
+      "mean_ground_truth": 1.0,
+      "std_predicted": 0.0,
+      "std_ground_truth": 0.0
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.0070082027514161704,
+      "std": 0.009320677717428881,
+      "min": 0.0,
+      "max": 0.023265651438240272
+    },
+    "utilization_score": {
+      "mean": 0.0070082027514161704,
+      "std": 0.009320677717428881,
+      "min": 0.0,
+      "max": 0.023265651438240272
+    },
+    "completeness_score": {
+      "mean": 0.4,
+      "std": 0.48989794855663565,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "adherence_score": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    }
+  }
+}

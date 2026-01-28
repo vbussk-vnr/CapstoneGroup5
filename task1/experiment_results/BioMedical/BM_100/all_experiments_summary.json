@@ -1,0 +1,382 @@
+{
+  "timestamp": "2026-01-24T02:33:42.962247",
+  "total_experiments": 7,
+  "experiments": [
+    {
+      "experiment": "legal_baseline_dense_minilm",
+      "config": {
+        "name": "legal_baseline_dense_minilm",
+        "domain": "pubmedqa",
+        "subset": "cuad",
+        "description": "Baseline: Dense with general embeddings",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+        "retrieval_type": "dense",
+        "top_k_final": 5,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.0,
+        "expected_improvement": "0%",
+        "rationale": "Standard baseline"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.39896800671028154,
+          "aucroc": null,
+          "mean_predicted": 0.19822156017581424,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.280829308243135,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.17151964289142105,
+          "aucroc": null,
+          "mean_predicted": 0.07409451401580003,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.13092098547691125,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.5892576275724234,
+          "aucroc": null,
+          "mean_predicted": 0.4948541966622737,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.41591467017065714,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.7760416666666667,
+          "mean_predicted": 0.53,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.49909918853871116,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp1_dense_legalbert",
+      "config": {
+        "name": "legal_exp1_dense_legalbert",
+        "domain": "pubmedqa",
+        "subset": "cuad",
+        "description": "Dense with LegalBERT (domain-specific)",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+        "retrieval_type": "dense",
+        "top_k_final": 5,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.0,
+        "expected_improvement": "+20-30%",
+        "rationale": "LegalBERT trained on legal documents"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.43616600733040467,
+          "aucroc": null,
+          "mean_predicted": 0.21384956151271697,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.2879553052826741,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.1783792002972195,
+          "aucroc": null,
+          "mean_predicted": 0.07804563202948954,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.13039882658715227,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.5844902224018277,
+          "aucroc": null,
+          "mean_predicted": 0.5246544113426058,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.4093827161637597,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.7864583333333333,
+          "mean_predicted": 0.55,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.49749371855331004,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp2_hybrid_legalbert",
+      "config": {
+        "name": "legal_exp2_hybrid_legalbert",
+        "domain": "pubmedqa",
+        "subset": "cuad",
+        "description": "Hybrid with LegalBERT + Reranking",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+35-45%",
+        "rationale": "Legal + semantic + exact phrase matching"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.38340415396436595,
+          "aucroc": null,
+          "mean_predicted": 0.1994210287896788,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.21353292221112985,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.13851176412683053,
+          "aucroc": null,
+          "mean_predicted": 0.0839733965436371,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.12644085007292927,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.560007228908339,
+          "aucroc": null,
+          "mean_predicted": 0.5711931536043892,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.36264757958390514,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.6875,
+          "mean_predicted": 0.36,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.48,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp3_paragraph_chunking_legalbert",
+      "config": {
+        "name": "legal_exp3_paragraph_chunking_legalbert",
+        "domain": "pubmedqa",
+        "subset": "cuad",
+        "description": "Paragraph-based chunking (preserves clause structure)",
+        "chunking_strategy": "paragraph_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+40-50%",
+        "rationale": "Preserves clause and section boundaries"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.3307982436501041,
+          "aucroc": null,
+          "mean_predicted": 0.1583022813887217,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.15453918755365487,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.15546212299867304,
+          "aucroc": null,
+          "mean_predicted": 0.08763640355493775,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.08101155802720915,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.4515491432772859,
+          "aucroc": null,
+          "mean_predicted": 0.6641553176228259,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.3516370190944474,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.5729166666666666,
+          "mean_predicted": 0.39,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.4877499359302879,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp4_semantic_chunking_legalbert",
+      "config": {
+        "name": "legal_exp4_semantic_chunking_legalbert",
+        "domain": "pubmedqa",
+        "subset": "cuad",
+        "description": "Semantic chunking with LegalBERT",
+        "chunking_strategy": "semantic",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+40-50%",
+        "rationale": "Semantic legal boundaries"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.6119331350704826,
+          "aucroc": null,
+          "mean_predicted": 0.545857022532967,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.3089528835119723,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.346048698288105,
+          "aucroc": null,
+          "mean_predicted": 0.2790477952659119,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.22210988349052574,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.5063820813531088,
+          "aucroc": null,
+          "mean_predicted": 0.5551847194158058,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.32641878543024117,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.5208333333333334,
+          "mean_predicted": 0.29,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.4537620521815371,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp5_high_recall_legalbert",
+      "config": {
+        "name": "legal_exp5_high_recall_legalbert",
+        "domain": "pubmedqa",
+        "subset": "cuad",
+        "description": "High recall: Find all relevant clauses (10 docs)",
+        "chunking_strategy": "paragraph_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+        "retrieval_type": "hybrid",
+        "top_k_final": 10,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+40-50%",
+        "rationale": "Comprehensive clause retrieval for contracts"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.3012176250508086,
+          "aucroc": null,
+          "mean_predicted": 0.13177619853076405,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.16995770156565912,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.13763056156720488,
+          "aucroc": null,
+          "mean_predicted": 0.05598781773277064,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.06815583105984614,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.5319684304084914,
+          "aucroc": null,
+          "mean_predicted": 0.5955189911589437,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.3787338439523499,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.671875,
+          "mean_predicted": 0.33,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.47021271782034985,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp6_larger_chunks_legalbert",
+      "config": {
+        "name": "legal_exp6_larger_chunks_legalbert",
+        "domain": "pubmedqa",
+        "subset": "cuad",
+        "description": "Larger chunks for complete legal context",
+        "chunking_strategy": "paragraph_based",
+        "chunk_size": 1024,
+        "chunk_overlap": 100,
+        "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+35-45%",
+        "rationale": "Larger chunks preserve legal context"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.30434410309006593,
+          "aucroc": null,
+          "mean_predicted": 0.1540946981778685,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.16461646984381892,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.1475771790009827,
+          "aucroc": null,
+          "mean_predicted": 0.08121145702881931,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.080854686324,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.4650355538823303,
+          "aucroc": null,
+          "mean_predicted": 0.6734023116572638,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.3517917116281337,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.6510416666666666,
+          "mean_predicted": 0.29,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.4537620521815371,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    }
+  ]
+}

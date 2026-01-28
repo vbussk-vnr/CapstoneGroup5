@@ -1,0 +1,18 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+techqa_DEV_Q243,"Using cobol copybooks Sometimes, there will be errors/fields missing in typetree, while importing cobol copybooks. Is there any format for copybooks(specifically to be used in wtx), that we need to follow? ",0.35185185185185186,0.35185185185185186,1.0,0.0,"Based on the provided context documents, there is no information about a specific format for Cobol copybooks that needs to be followed when using them in WTX. However, Document 2 mentions a problem where level 88 fields with names longer than 30 characters cause errors in the language structure generation.
+
+In Document 5, it is mentioned that there is a problem with downloading copybooks when Bidi setting is enabled and the Property Group has a COBOL SYSLIB defined with more than 1 PDSE. But this is related to downloading copybooks and not about the format of the copybooks themselves.
+
+Document 2 also mentions that the problem with level 88 fields has been fixed, and that the language structure generation component, DFHWS2LS, has been changed to generate valid COBOL level 88 field names. But it does not provide any information about the format of the copybooks.
+
+Therefore, the answer to the question is that there is no specific format for Cobol copybooks that needs to be followed when using them in WTX, but there may be some limitations or restrictions on the field names and their lengths."
+techqa_DEV_Q280,Is WebSphere Transformation Extender (WTX) supported for IBM Integration Bus V10? When will WebSphere Transformation Extender (WTX) be supported for IBM Integration Bus V10?,0.8666666666666667,0.13333333333333333,0.15384615384615385,1.0,"Unfortunately, the provided context documents do not contain enough information to answer the question about the support status and timeline for WebSphere Transformation Extender (WTX) with IBM Integration Bus V10. The documents only mention support information for IBM Integration Bus V9.0 and WebSphere Message Broker Hypervisor Edition V8.0, but not for IBM Integration Bus V10."
+techqa_DEV_Q253,Want to find out if Microsoft Edge is supported with ICC? Want to find out Microsoft Edge is supported with ICC? ,0.0784313725490196,0.0196078431372549,0.25,0.0,"Based on the provided context documents, specifically Document 5, it is stated that:
+
+""Microsoft Edge is supported starting with IBM Content Collector 4.0.1 Fix Pack 2""
+
+And also:
+
+""Microsoft Edge is supported starting with IBM Content Collector 4.0.1 Fix Pack 3"" 
+
+However, it seems redundant information in the provided context."

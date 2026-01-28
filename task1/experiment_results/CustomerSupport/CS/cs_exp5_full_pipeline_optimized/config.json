@@ -1,0 +1,17 @@
+{
+  "name": "cs_exp5_full_pipeline_optimized",
+  "domain": "customer_support",
+  "subset": "techqa",
+  "description": "BEST: Semantic + MPNet + Hybrid + Reranking",
+  "chunking_strategy": "semantic",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "retrieval_type": "hybrid",
+  "top_k_final": 5,
+  "use_cross_encoder": true,
+  "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "hybrid_alpha": 0.5,
+  "expected_improvement": "+40-50%",
+  "rationale": "Best-of-all-worlds approach"
+}

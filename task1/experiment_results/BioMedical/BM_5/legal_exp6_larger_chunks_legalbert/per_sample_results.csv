@@ -1,0 +1,46 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT__Volume Restriction,"Is there a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold?",0.08974358974358974,0.02564102564102564,0.2857142857142857,0.0,"Based on the provided context documents, there is no explicit mention of a fee increase or consent requirement if one party's use of the product/services exceeds a certain threshold. However, Document 4, Section 2.9 does mention that if the Manufacturer experiences delays in the manufacture, release, or supply of a particular Product that results in the delivery of a quantity of Product that exceeds historical or Forecast quantities of Product for the applicable period, then the Customer may request the Manufacturer to store such Product until the Parties' definitive resolution."
+EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.__Rofr/Rofo/Rofn,"Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",0.08641975308641975,0.08641975308641975,1.0,1.0,"Based on the provided context documents, there are several clauses that mention a right of first refusal or first offer, but they are related to different agreements and contexts.
+
+Document 1:
+- Article 2.03 (a) mentions the ""RIGHT OF FIRST REFUSAL"" where Affiliate has the exclusive right of first refusal to purchase all or any part of the revenue due Affiliate or acquire Affiliate on the same terms and conditions as a Bona Fide Offer.
+
+Document 2:
+- Section 2 also mentions a right of first offer, where if Hyatt desires to accept a proposed offer from a third party, Hyatt will provide notice to Playa and introduce Playa to that third party for purposes of enabling Playa to negotiate for the opportunity to manage that all-inclusive resort.
+
+Document 5:
+- There is no mention of a right of first refusal or first offer in this document.
+
+Document 3:
+- There is no mention of a right of first refusal or first offer in this document.
+
+Document 4:
+- There is no mention of a right of first refusal or first offer in this document.
+
+Document 5 does not have a relevant clause, therefore, it can be answered that there are indeed clauses that mention a right of first refusal or first offer in"
+"MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT__Warranty Duration","What is the duration of any  warranty against defects or errors in technology, products, or services  provided under the contract?",0.3269230769230769,0.3269230769230769,1.0,1.0,"Unfortunately, the provided context documents do not explicitly state the duration of the warranty against defects or errors in technology, products, or services provided under the contract.
+
+Document 1 implies a warranty for the manufacturer's products, but it does not specify a duration for this warranty.
+
+Document 2 discusses maintenance services for software, updates, and upgrades, and specifies certain response times for technical support, but it does not mention a specific duration for the warranty.
+
+Document 3 mentions that certain provisions, including transitional support (Section 2.10), survive termination or expiration of the Agreement, but it does not provide information on the duration of the warranty.
+
+Document 4 discusses transitional support for transferring production to a customer facility, but it does not mention a warranty.
+
+Document 5 does not mention a warranty either.
+
+Therefore, based on the provided context, it is not possible to determine the duration of the warranty against defects or errors in technology, products, or services provided under the contract."
+AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT__Joint Ip Ownership,Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?,0.18518518518518517,0.018518518518518517,0.1,1.0,"Yes, there are clauses providing for joint or shared ownership of intellectual property between the parties to the contract. 
+
+From Document 4:
+4.2.3.2.3. if such rights comprise (i) analysis prepared for or on behalf of the Parties as participants in the Company-Skype Branded Application, or (ii) any intellectual property right co-developed by the Parties, or (iii) of any Support Information, or (iv) any data as specifically provided to Skype or the Online Group by Company-Skype Branded Customers (""Joint Data""), other than that set forth in Sections 4.2.3.2.1 and 4.2.3.2.2 above and other than any Group Rights or Skype Rights, then such rights shall be jointly owned by the Parties, and may be exploited by any Party in accordance with this Agreement, and outside of this Agreement to the extent such exploitation would not, (x) in the case of Online BVI, violate or infringe upon the Skype Rights, (y) in the case of Skype, violate or infringe upon the Group Rights, or (z) in the case of the Company, violate or infringe upon the Group Rights or the Skype Rights."
+"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.__Non-Compete",Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector? ,0.14516129032258066,0.1774193548387097,1.0,0.0,"Document 1 appears to restrict Company from marketing, promoting, selling, distributing, or commercializing a Competing Product in the Territory without the prior written consent of Janssen during the Term. 
+
+However, Document 1 does not explicitly mention restrictions on geography or business or technology sector. But it does mention that the restriction on marketing, promoting, selling, distributing, or commercializing a Competing Product in the Territory does not apply if Company conducts such activities solely through personnel who are not involved in any activities under this Agreement and do not have access to Janssen's Confidential Information.
+
+Document 2 mentions that MediaNet Group Technologies shall not be responsible for unauthorized use of the Co-branded sites by Reseller, users of Reseller's or Buyers' Sites. However, this does not appear to be a restriction on competing with the counterparty or operating in a certain geography or business or technology sector.
+
+Document 3 does not mention any restrictions on competition or geography or business or technology sector.
+
+Document 4 mentions that neither party shall have liability to the other party with regard to any Confidential Information of such other party which the receiving party can demonstrate was independently developed by the receiving party without any use of the Confidential Information of any other party. However, this does not appear to"

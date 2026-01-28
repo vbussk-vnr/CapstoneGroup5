@@ -1,0 +1,79 @@
+{
+  "config": {
+    "name": "cs_exp5_full_pipeline_optimized",
+    "domain": "customer_support",
+    "subset": "techqa",
+    "description": "BEST: Semantic + MPNet + Hybrid + Reranking",
+    "chunking_strategy": "semantic",
+    "chunk_size": 512,
+    "chunk_overlap": 50,
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "retrieval_type": "hybrid",
+    "top_k_final": 5,
+    "use_cross_encoder": true,
+    "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+    "hybrid_alpha": 0.5,
+    "expected_improvement": "+40-50%",
+    "rationale": "Best-of-all-worlds approach"
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.5110565910938983,
+      "aucroc": null,
+      "mean_predicted": 0.4739312840137702,
+      "mean_ground_truth": 0.07031843351735237,
+      "std_predicted": 0.33516080803440496,
+      "std_ground_truth": 0.10387687046787056
+    },
+    "utilization_score": {
+      "rmse": 0.3264730407511907,
+      "aucroc": null,
+      "mean_predicted": 0.2259162236527653,
+      "mean_ground_truth": 0.02589249433268999,
+      "std_predicted": 0.2637419318153466,
+      "std_ground_truth": 0.04010633613234541
+    },
+    "completeness_score": {
+      "rmse": 0.5559205138191005,
+      "aucroc": null,
+      "mean_predicted": 0.4585535301324276,
+      "mean_ground_truth": 0.5815805254185372,
+      "std_predicted": 0.38162933184546544,
+      "std_ground_truth": 0.38866380494493075
+    },
+    "adherence_score": {
+      "rmse": null,
+      "aucroc": 0.5291047771979125,
+      "mean_predicted": 0.35,
+      "mean_ground_truth": 0.53,
+      "std_predicted": 0.4769696007084728,
+      "std_ground_truth": 0.49909918853871116
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.4739312840137702,
+      "std": 0.33516080803440496,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "utilization_score": {
+      "mean": 0.2259162236527653,
+      "std": 0.2637419318153466,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "completeness_score": {
+      "mean": 0.4585535301324276,
+      "std": 0.38162933184546544,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "adherence_score": {
+      "mean": 0.35,
+      "std": 0.4769696007084728,
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}

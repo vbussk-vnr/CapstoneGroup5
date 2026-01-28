@@ -1,0 +1,16 @@
+{
+  "name": "cs_exp4_semantic_chunking_mpnet",
+  "domain": "customer_support",
+  "subset": "techqa",
+  "description": "Semantic-aware chunking (groups similar sentences)",
+  "chunking_strategy": "semantic",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "retrieval_type": "hybrid",
+  "top_k_final": 5,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.5,
+  "expected_improvement": "+20-30%",
+  "rationale": "Semantic chunking preserves FAQ answer structure"
+}

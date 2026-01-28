@@ -1,0 +1,78 @@
+{
+  "config": {
+    "name": "cs_exp4_semantic_chunking_mpnet",
+    "domain": "customer_support",
+    "subset": "techqa",
+    "description": "Semantic-aware chunking (groups similar sentences)",
+    "chunking_strategy": "semantic",
+    "chunk_size": 512,
+    "chunk_overlap": 50,
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "retrieval_type": "hybrid",
+    "top_k_final": 5,
+    "use_cross_encoder": false,
+    "hybrid_alpha": 0.5,
+    "expected_improvement": "+20-30%",
+    "rationale": "Semantic chunking preserves FAQ answer structure"
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.7215456893352727,
+      "aucroc": null,
+      "mean_predicted": 0.6444409632329094,
+      "mean_ground_truth": 0.013801783831704044,
+      "std_predicted": 0.35920317932888063,
+      "std_ground_truth": 0.010056422773898913
+    },
+    "utilization_score": {
+      "rmse": 0.4866040136161129,
+      "aucroc": null,
+      "mean_predicted": 0.367239417574988,
+      "mean_ground_truth": 0.013358521420356527,
+      "std_predicted": 0.33278293384610164,
+      "std_ground_truth": 0.010554735776822324
+    },
+    "completeness_score": {
+      "rmse": 0.5472738732717243,
+      "aucroc": null,
+      "mean_predicted": 0.6825396825396824,
+      "mean_ground_truth": 0.8333333333333334,
+      "std_predicted": 0.38358876106649437,
+      "std_ground_truth": 0.23570226039551584
+    },
+    "adherence_score": {
+      "rmse": null,
+      "aucroc": 0.5,
+      "mean_predicted": 0.0,
+      "mean_ground_truth": 0.6666666666666666,
+      "std_predicted": 0.0,
+      "std_ground_truth": 0.4714045207910317
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.6444409632329094,
+      "std": 0.35920317932888063,
+      "min": 0.14093959731543623,
+      "max": 0.9545454545454546
+    },
+    "utilization_score": {
+      "mean": 0.367239417574988,
+      "std": 0.33278293384610164,
+      "min": 0.12751677852348994,
+      "max": 0.8378378378378378
+    },
+    "completeness_score": {
+      "mean": 0.6825396825396824,
+      "std": 0.38358876106649437,
+      "min": 0.14285714285714285,
+      "max": 1.0
+    },
+    "adherence_score": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    }
+  }
+}

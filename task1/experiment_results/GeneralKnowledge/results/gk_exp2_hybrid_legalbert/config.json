@@ -1,0 +1,17 @@
+{
+  "name": "gk_exp2_hybrid_legalbert",
+  "domain": "general_knowledge",
+  "subset": "cuad",
+  "description": "Hybrid with LegalBERT + Reranking",
+  "chunking_strategy": "sentence_based",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "retrieval_type": "hybrid",
+  "top_k_final": 5,
+  "use_cross_encoder": true,
+  "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "hybrid_alpha": 0.5,
+  "expected_improvement": "+35-45%",
+  "rationale": "Legal + semantic + exact phrase matching"
+}

@@ -1,0 +1,39 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT__Volume Restriction,"Is there a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold?",0.6842105263157895,0.05263157894736842,0.07692307692307693,0.0,"Based on the provided context documents, I can provide the following information.
+
+Document 3 states that if the aggregate Price calculated by the accounting firm is: 
+
+- Less than 95% of the aggregate Price established by Manufacturer, Manufacturer shall refund to Customer the overpayment made by Customer.
+- More than 105% of the aggregate Price established by Manufacturer, Customer shall promptly pay Manufacturer for the amount of the underpayment that should have been paid by Customer.
+
+This information suggests that if one party's use of the product/services exceeds a certain threshold (in this case, 95% or 105% of the established Price), there may be a fee increase or payment adjustment required. However, the context does not indicate that there is a requirement for consent from the other party in this situation."
+EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.__Rofr/Rofo/Rofn,"Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",0.9444444444444444,0.9444444444444444,1.0,1.0,"Based on the provided context documents, there are clauses related to right of first refusal, right of first offer, and right of first negotiation, but they are not exactly about purchasing, licensing, marketing, or distributing equity interest, technology, assets, products, or services.
+
+Document 2 mentions a right of first refusal, where Pretzel Time is granted the right to purchase the business from Franchisee, subject to certain conditions. Document 1 mentions a right of first offer for a Development Opportunity, where one party has the option to purchase a Hyatt All-Inclusive Resort property. 
+
+Document 1 also mentions a right of first negotiation for a management agreement or franchise agreement, depending on which party exercises its right of first offer. However, these are more related to operational agreements rather than purchasing, licensing, marketing, or distributing equity interest, technology, assets, products, or services.
+
+Document 4 mentions the right to sublicense or assign rights under an agreement, but this is more related to licensing and sublicensing rather than a right of first refusal or offer.
+
+In summary, while there are clauses related to right of first refusal, right of first offer, and right of first negotiation, they are not exactly about purchasing, licensing, marketing, or distributing equity interest, technology,"
+"MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT__Warranty Duration","What is the duration of any  warranty against defects or errors in technology, products, or services  provided under the contract?",0.4666666666666667,0.4666666666666667,1.0,0.0,"Based on the provided context documents, the duration of any warranty against defects or errors in technology, products, or services is as follows:
+
+- According to Document 1, Article 8.3, the warranty period is 1 year commencing on acceptance of the Licensed Technology by the LICENSEE.
+- Document 2 is consistent with the 12-month warranty period.
+- Document 3 has a different warranty period of 90 days after repair or replacement, or until the end of the Initial Warranty Period, whichever is longer. However, since Document 3 does not specify what the Initial Warranty Period is, it is unclear how long this warranty period is.
+- Document 4 does not specify a warranty period but outlines a schedule for correcting defects.
+- Document 5 also mentions a 12-month warranty period.
+
+Therefore, based on the information provided, the duration of any warranty against defects or errors in technology, products, or services is at least 12 months, as stated in Documents 1, 2, and 5."
+AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT__Joint Ip Ownership,Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?,0.6628895184135978,0.0,0.0,0.0,"No, there is no clause providing for joint or shared ownership of intellectual property between the parties to the contract. 
+
+In Article II, Section 2.1, 2.2, and 2.3, the parties agree to assist each other with the prosecution of intellectual property rights, but it does not imply joint ownership. 
+
+In Article II, Section 2.4, the parties agree to the exclusive ownership of intellectual property by RemainCo or SpinCo, as specified in Schedule 2.4(a) and Schedule 2.4(b). 
+
+In Article III, the parties agree to cease and discontinue the use of certain trademarks and logos, but it does not imply joint ownership. 
+
+In Article V, Section 5.1, the parties grant each other a perpetual, irrevocable, exclusive, royalty-free, worldwide right and license to use the shared know-how, but it does not imply joint ownership."
+"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.__Non-Compete",Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector? ,0.10526315789473684,0.05263157894736842,0.5,1.0,"Based on the provided context documents, particularly Document 1, there is no explicit restriction on the ability of a party to compete with the counterparty. Document 1 states that each party understands and acknowledges that the other party's Group may now market or have under development products that are competitive with products or services now offered or that may be offered by it and/or members of its Group. 
+
+Additionally, Document 1 mentions that the parties' communications will not serve to impair the right of either party, or any member of its respective Group, to independently develop, make, use, procure, or market products or services now or in the future that may be competitive with those offered by the other party's Group."

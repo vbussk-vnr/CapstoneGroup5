@@ -1,0 +1,78 @@
+{
+  "config": {
+    "name": "legal_baseline_dense_minilm",
+    "domain": "pubmedqa",
+    "subset": "cuad",
+    "description": "Baseline: Dense with general embeddings",
+    "chunking_strategy": "sentence_based",
+    "chunk_size": 512,
+    "chunk_overlap": 50,
+    "embedding_model": "pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb",
+    "retrieval_type": "dense",
+    "top_k_final": 5,
+    "use_cross_encoder": false,
+    "hybrid_alpha": 0.0,
+    "expected_improvement": "0%",
+    "rationale": "Standard baseline"
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.5795102532808121,
+      "aucroc": null,
+      "mean_predicted": 0.1106556389230241,
+      "mean_ground_truth": 0.40493993993993993,
+      "std_predicted": 0.0351642742196687,
+      "std_ground_truth": 0.4858864064927407
+    },
+    "utilization_score": {
+      "rmse": 0.0728419972177076,
+      "aucroc": null,
+      "mean_predicted": 0.05025731940826851,
+      "mean_ground_truth": 0.030752798252798252,
+      "std_predicted": 0.022500707551381928,
+      "std_ground_truth": 0.055401678866711226
+    },
+    "completeness_score": {
+      "rmse": 0.6123816929566728,
+      "aucroc": null,
+      "mean_predicted": 0.44190476190476186,
+      "mean_ground_truth": 0.4,
+      "std_predicted": 0.2520734874672468,
+      "std_ground_truth": 0.37416573867739417
+    },
+    "adherence_score": {
+      "rmse": null,
+      "aucroc": NaN,
+      "mean_predicted": 0.4,
+      "mean_ground_truth": 1.0,
+      "std_predicted": 0.48989794855663565,
+      "std_ground_truth": 0.0
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.1106556389230241,
+      "std": 0.0351642742196687,
+      "min": 0.08108108108108109,
+      "max": 0.17857142857142858
+    },
+    "utilization_score": {
+      "mean": 0.05025731940826851,
+      "std": 0.022500707551381928,
+      "min": 0.02702702702702703,
+      "max": 0.08955223880597014
+    },
+    "completeness_score": {
+      "mean": 0.44190476190476186,
+      "std": 0.2520734874672468,
+      "min": 0.16666666666666666,
+      "max": 0.8571428571428571
+    },
+    "adherence_score": {
+      "mean": 0.4,
+      "std": 0.48989794855663565,
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}

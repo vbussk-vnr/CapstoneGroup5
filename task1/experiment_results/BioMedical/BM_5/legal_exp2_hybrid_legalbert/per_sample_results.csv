@@ -1,0 +1,45 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+SPARKLINGSPRINGWATERHOLDINGSLTD_07_03_2002-EX-10.13-SOFTWARE LICENSE AND MAINTENANCE AGREEMENT__Volume Restriction,"Is there a fee increase or consent requirement, etc. if one party’s use of the product/services exceeds certain threshold?",0.2982456140350877,0.07017543859649122,0.23529411764705882,1.0,"Based on the provided context documents, there is no direct information about a fee increase or consent requirement if one party's use of the product/services exceeds a certain threshold. However, Document 5 provides some information related to price changes and audits.
+
+Document 5 mentions a review process for price changes under Section 3.2, but it does not specify a threshold for exceeding usage. It only provides a process for reviewing price changes if customer requests it in writing within a certain timeframe.
+
+However, Document 3 mentions ""Conversion Cost Markup"" which is calculated as 10% of the product of Manufacturer's Standard Conversion Cost for a Product for a Fiscal Year and the quantity of such Product ordered by Customer for delivery during such Fiscal Year. This implies that the cost may increase as the quantity of the product ordered by the customer increases, but it does not directly answer the question about a fee increase or consent requirement if one party's use of the product/services exceeds a certain threshold.
+
+Therefore, based on the available information, I cannot provide a definitive answer to the question."
+EMERALDHEALTHTHERAPEUTICSINC_06_10_2020-EX-4.5-CONSULTING AGREEMENT - DR. GAETANO MORELLO N.D. INC.__Rofr/Rofo/Rofn,"Is there a clause granting one party a right of first refusal, right of first offer or right of first negotiation to purchase, license, market, or distribute equity interest, technology, assets, products or services?",0.2962962962962963,0.2962962962962963,1.0,0.0,"Based on the provided context documents, there are several clauses granting one party a right of first refusal, right of first offer, or right of first negotiation. 
+
+Document 1 contains a clause (Section 2.03 (a) [RIGHT OF FIRST REFUSAL]) that grants Network 1 the right of first refusal to purchase all or any part of the revenue due Affiliate or acquire Affiliate (as the case may be) on the same terms and conditions as a Bona Fide Offer.
+
+Document 1 also contains a clause (Section 2.03 (b) [TRANSFER OF MERCHANTS]) that grants CLIENT the right to withdraw (""Transfer"") Merchants from the Merchant Program under certain conditions.
+
+Document 5 contains multiple clauses that grant Pretzel Time the right of first refusal, including:
+
+- Section 17.G [PRETZEL TIME'S FIRST RIGHT OF REFUSAL], which grants Pretzel Time a right of first refusal to purchase this Agreement or an Ownership Interest in Franchisee or the Unit.
+
+Document 2 does not directly grant a right of first refusal, but it does contain a clause that mentions the right of first offer with respect to a Development Opportunity. However, this clause does not explicitly grant one party a right of first refusal.
+
+Document"
+"MEDALISTDIVERSIFIEDREIT,INC_05_18_2020-EX-10.1-CONSULTING AGREEMENT__Warranty Duration","What is the duration of any  warranty against defects or errors in technology, products, or services  provided under the contract?",0.0449438202247191,0.033707865168539325,0.75,0.0,"According to the provided context documents:
+
+- Document 1: The minimum warranty period for all products is ninety days, except for those products specifically identified as provided ""AS IS"" with no warranties.
+- Document 2: For OEM Products, the warranty period is one year from the date of shipment by Distributor to a customer, or eighteen months from the date of shipment to Distributor, whichever is sooner.
+- Document 3: D2's warranty and error correction obligations with respect to any portion of the Licensed Technology shall extend for a period (the ""Warranty period"") of one year commencing on acceptance of such portion of the Licensed Technology by LICENSEE.
+- Document 4: The warranty period is not explicitly stated, but it is mentioned that the completion of acceptance testing is to be completed within 90 days. After this, LICENSEE can either accept the Licensed Technology or reject it due to nonconformance. If completion of testing is precluded or delayed due to performance deficiencies, incompatibilities, or other defects, D2 shall immediately correct such defects.
+- Document 5: There is no information about the duration of a warranty against defects or errors in technology, products, or services provided under the contract.
+
+Based on these documents, the warranty periods"
+AULAMERICANUNITTRUST_04_24_2020-EX-99.8.77-SERVICING AGREEMENT__Joint Ip Ownership,Is there any clause providing for joint or shared ownership of intellectual property between the parties to the contract?,0.15254237288135594,0.06779661016949153,0.4444444444444444,0.0,"Based on the provided context documents, there are several clauses that provide for joint or shared ownership of intellectual property between the parties to the contract.
+
+Document 1:
+- In this document, a clause states that ""Each Party to whom ownership is to vest in Joint IP by operation of law or by assignment by its employees or Agents agrees to assign and hereby assigns to the other Party an undivided one-half right, title and interest in and to all Joint IP;"" This clause indicates that both parties will jointly own the Joint IP with an undivided one-half right, title, and interest in it.
+
+Document 2:
+- There are two clauses in this document that provide for joint or shared ownership of intellectual property. 
+- One clause states that ""if such rights comprise (i) intellectual property that constitutes predominantly communication software or related communication hardware or other technology, including without limitation, any upgrades and Improvements thereof, or (ii) any ""user"" names, and other ""user profile"" information included within the Company-Skype Branded Application (i.e., dates of birth, addresses, languages spoken, etc. ), of Company-Skype Branded Customers collected as part of the registration process for the Company-Skype Branded Application (it being understood"
+"GSITECHNOLOGYINC_11_16_2009-EX-10.2-INTELLECTUAL PROPERTY AGREEMENT between SONY ELECTRONICS INC. and GSI TECHNOLOGY, INC.__Non-Compete",Is there a restriction on the ability of a party to compete with the counterparty or operate in a certain geography or business or technology sector? ,0.031746031746031744,0.031746031746031744,1.0,0.0,"According to Document 5, Section 9.5, Competitive Activities: 
+
+""(a) Subject to the rights and obligations set forth in this Article IX, each party understands and acknowledges that the other party's Group may now market or have under development products that are competitive with products or services now offered or that may be offered by it and/or members of its Group, and the parties' communications hereunder will not serve to impair the right of either party, or any member of its respective Group, to independently develop, make, use, procure, or market products or services now or in the future that may be competitive with those offered by the other party's Group...""
+
+This indicates that there is no explicit restriction on the ability of a party to compete with the counterparty. However, it also specifies that the parties are aware that the counterparty might be marketing or developing competitive products, and that they will not be restricted from independently developing, producing, using, or marketing competitive products.
+
+In other words, this provision seems to acknowledge the possibility of competition but does not impose any restrictions on it."

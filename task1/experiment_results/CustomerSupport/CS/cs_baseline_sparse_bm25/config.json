@@ -1,0 +1,16 @@
+{
+  "name": "cs_baseline_sparse_bm25",
+  "domain": "customer_support",
+  "subset": "techqa",
+  "description": "Baseline: Sparse (BM25) - captures keywords in FAQ",
+  "chunking_strategy": "sentence_based",
+  "chunk_size": 512,
+  "chunk_overlap": 50,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "retrieval_type": "sparse",
+  "top_k_final": 5,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.0,
+  "expected_improvement": "0% (Keyword baseline)",
+  "rationale": "BM25 good for matching FAQ keywords"
+}

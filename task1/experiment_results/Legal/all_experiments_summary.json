@@ -1,0 +1,382 @@
+{
+  "timestamp": "2026-01-24T02:14:57.323202",
+  "total_experiments": 7,
+  "experiments": [
+    {
+      "experiment": "legal_baseline_dense_minilm",
+      "config": {
+        "name": "legal_baseline_dense_minilm",
+        "domain": "legal",
+        "subset": "cuad",
+        "description": "Baseline: Dense with general embeddings",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "retrieval_type": "dense",
+        "top_k_final": 5,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.0,
+        "expected_improvement": "0%",
+        "rationale": "Standard baseline"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.38964796677658725,
+          "aucroc": null,
+          "mean_predicted": 0.2348653509828901,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.23565513631021406,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.19494974978073246,
+          "aucroc": null,
+          "mean_predicted": 0.1175932443646322,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.16187841129449626,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.540992870747884,
+          "aucroc": null,
+          "mean_predicted": 0.5606838988278908,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.3597642163740274,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.5260416666666666,
+          "mean_predicted": 0.3,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.45825756949558394,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp1_dense_legalbert",
+      "config": {
+        "name": "legal_exp1_dense_legalbert",
+        "domain": "legal",
+        "subset": "cuad",
+        "description": "Dense with LegalBERT (domain-specific)",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "Stern5497/sbert-legal-xlm-roberta-base",
+        "retrieval_type": "dense",
+        "top_k_final": 5,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.0,
+        "expected_improvement": "+20-30%",
+        "rationale": "LegalBERT trained on legal documents"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.42818770042043014,
+          "aucroc": null,
+          "mean_predicted": 0.28566312926104453,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.33003284055375515,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.1827429814802999,
+          "aucroc": null,
+          "mean_predicted": 0.09395555061704339,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.13359406740081115,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.5690831075324757,
+          "aucroc": null,
+          "mean_predicted": 0.5499686752036276,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.4014006490586281,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.5989583333333334,
+          "mean_predicted": 0.44,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.4963869458396343,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp2_hybrid_legalbert",
+      "config": {
+        "name": "legal_exp2_hybrid_legalbert",
+        "domain": "legal",
+        "subset": "cuad",
+        "description": "Hybrid with LegalBERT + Reranking",
+        "chunking_strategy": "sentence_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "Stern5497/sbert-legal-xlm-roberta-base",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+35-45%",
+        "rationale": "Legal + semantic + exact phrase matching"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.3714896660946226,
+          "aucroc": null,
+          "mean_predicted": 0.20851543592950939,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.2397104068093641,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.19975716541175328,
+          "aucroc": null,
+          "mean_predicted": 0.09945862677041356,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.1498931489284927,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.48174611660228683,
+          "aucroc": null,
+          "mean_predicted": 0.5750279488196559,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.3720444556079617,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.71875,
+          "mean_predicted": 0.42,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.49355850717012273,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp3_paragraph_chunking_legalbert",
+      "config": {
+        "name": "legal_exp3_paragraph_chunking_legalbert",
+        "domain": "legal",
+        "subset": "cuad",
+        "description": "Paragraph-based chunking (preserves clause structure)",
+        "chunking_strategy": "paragraph_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "Stern5497/sbert-legal-xlm-roberta-base",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+40-50%",
+        "rationale": "Preserves clause and section boundaries"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.31630743753569396,
+          "aucroc": null,
+          "mean_predicted": 0.20090082075515844,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.1913225353708488,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.14954946476303094,
+          "aucroc": null,
+          "mean_predicted": 0.08194965266837395,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.07519047637463712,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.5141729561374827,
+          "aucroc": null,
+          "mean_predicted": 0.5966337747597417,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.36742640891389455,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.5572916666666666,
+          "mean_predicted": 0.36,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.48,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp4_semantic_chunking_legalbert",
+      "config": {
+        "name": "legal_exp4_semantic_chunking_legalbert",
+        "domain": "legal",
+        "subset": "cuad",
+        "description": "Semantic chunking with LegalBERT",
+        "chunking_strategy": "semantic",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "Stern5497/sbert-legal-xlm-roberta-base",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+40-50%",
+        "rationale": "Semantic legal boundaries"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.5367455458411762,
+          "aucroc": null,
+          "mean_predicted": 0.46860229023713323,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.29792364069647653,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.3525266194885524,
+          "aucroc": null,
+          "mean_predicted": 0.256319923396165,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.2457477396528596,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.5543779008016098,
+          "aucroc": null,
+          "mean_predicted": 0.5563725971602107,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.3455614001190814,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.6354166666666666,
+          "mean_predicted": 0.26,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.4386342439892262,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp5_high_recall_legalbert",
+      "config": {
+        "name": "legal_exp5_high_recall_legalbert",
+        "domain": "legal",
+        "subset": "cuad",
+        "description": "High recall: Find all relevant clauses (10 docs)",
+        "chunking_strategy": "paragraph_based",
+        "chunk_size": 512,
+        "chunk_overlap": 50,
+        "embedding_model": "Stern5497/sbert-legal-xlm-roberta-base",
+        "retrieval_type": "hybrid",
+        "top_k_final": 10,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+40-50%",
+        "rationale": "Comprehensive clause retrieval for contracts"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.36138526001561594,
+          "aucroc": null,
+          "mean_predicted": 0.18070984332015136,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.22885171204967802,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.18631481162822777,
+          "aucroc": null,
+          "mean_predicted": 0.08120919089655407,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.14363609607695368,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.5224600285874736,
+          "aucroc": null,
+          "mean_predicted": 0.5565821524267189,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.3979474622488022,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.6458333333333334,
+          "mean_predicted": 0.28,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.44899888641287294,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    },
+    {
+      "experiment": "legal_exp6_larger_chunks_legalbert",
+      "config": {
+        "name": "legal_exp6_larger_chunks_legalbert",
+        "domain": "legal",
+        "subset": "cuad",
+        "description": "Larger chunks for complete legal context",
+        "chunking_strategy": "paragraph_based",
+        "chunk_size": 1024,
+        "chunk_overlap": 100,
+        "embedding_model": "Stern5497/sbert-legal-xlm-roberta-base",
+        "retrieval_type": "hybrid",
+        "top_k_final": 5,
+        "use_cross_encoder": true,
+        "cross_encoder_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+        "hybrid_alpha": 0.5,
+        "expected_improvement": "+35-45%",
+        "rationale": "Larger chunks preserve legal context"
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.3557945387222242,
+          "aucroc": null,
+          "mean_predicted": 0.18573544903358466,
+          "mean_ground_truth": 0.12853010717514327,
+          "std_predicted": 0.18085275488304056,
+          "std_ground_truth": 0.2840117070606483
+        },
+        "utilization_score": {
+          "rmse": 0.1339543862124811,
+          "aucroc": null,
+          "mean_predicted": 0.09298925108019276,
+          "mean_ground_truth": 0.04800738566805671,
+          "std_predicted": 0.09226602035253109,
+          "std_ground_truth": 0.11511273239299459
+        },
+        "completeness_score": {
+          "rmse": 0.474057973528347,
+          "aucroc": null,
+          "mean_predicted": 0.63519666994867,
+          "mean_ground_truth": 0.7518070321959577,
+          "std_predicted": 0.3513183413720977,
+          "std_ground_truth": 0.35324510521224456
+        },
+        "adherence_score": {
+          "rmse": null,
+          "aucroc": 0.6979166666666666,
+          "mean_predicted": 0.38,
+          "mean_ground_truth": 0.96,
+          "std_predicted": 0.48538644398046393,
+          "std_ground_truth": 0.19595917942265423
+        }
+      }
+    }
+  ]
+}

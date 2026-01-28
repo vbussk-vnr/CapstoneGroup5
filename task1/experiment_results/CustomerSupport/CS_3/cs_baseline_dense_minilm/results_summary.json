@@ -1,0 +1,78 @@
+{
+  "config": {
+    "name": "cs_baseline_dense_minilm",
+    "domain": "customer_support",
+    "subset": "techqa",
+    "description": "Baseline: Dense retrieval with MiniLM embeddings",
+    "chunking_strategy": "sentence_based",
+    "chunk_size": 512,
+    "chunk_overlap": 50,
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "retrieval_type": "dense",
+    "top_k_final": 5,
+    "use_cross_encoder": false,
+    "hybrid_alpha": 0.0,
+    "expected_improvement": "0% (Baseline)",
+    "rationale": "Standard dense retrieval baseline"
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.18561390783806778,
+      "aucroc": null,
+      "mean_predicted": 0.15371102327624067,
+      "mean_ground_truth": 0.013801783831704044,
+      "std_predicted": 0.11401121822113482,
+      "std_ground_truth": 0.010056422773898913
+    },
+    "utilization_score": {
+      "rmse": 0.10599295353038303,
+      "aucroc": null,
+      "mean_predicted": 0.08069828722002635,
+      "mean_ground_truth": 0.013358521420356527,
+      "std_predicted": 0.07154920531054686,
+      "std_ground_truth": 0.010554735776822324
+    },
+    "completeness_score": {
+      "rmse": 0.761904211573484,
+      "aucroc": null,
+      "mean_predicted": 0.391025641025641,
+      "mean_ground_truth": 0.8333333333333334,
+      "std_predicted": 0.3898152768079685,
+      "std_ground_truth": 0.23570226039551584
+    },
+    "adherence_score": {
+      "rmse": null,
+      "aucroc": 0.75,
+      "mean_predicted": 0.3333333333333333,
+      "mean_ground_truth": 0.6666666666666666,
+      "std_predicted": 0.4714045207910317,
+      "std_ground_truth": 0.4714045207910317
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.15371102327624067,
+      "std": 0.11401121822113482,
+      "min": 0.0,
+      "max": 0.2727272727272727
+    },
+    "utilization_score": {
+      "mean": 0.08069828722002635,
+      "std": 0.07154920531054686,
+      "min": 0.0,
+      "max": 0.17391304347826086
+    },
+    "completeness_score": {
+      "mean": 0.391025641025641,
+      "std": 0.3898152768079685,
+      "min": 0.0,
+      "max": 0.9230769230769231
+    },
+    "adherence_score": {
+      "mean": 0.3333333333333333,
+      "std": 0.4714045207910317,
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}
