@@ -1,0 +1,9 @@
+model,task,file,noise_rate,n,accuracy,rejection_rate,error_detection_rate,error_correction_rate
+microsoft/Phi-3.5-mini-instruct,noise,en_refine.json,0.0,300,0.9933333333333333,,,
+microsoft/Phi-3.5-mini-instruct,noise,en_refine.json,0.2,300,0.9966666666666667,,,
+microsoft/Phi-3.5-mini-instruct,noise,en_refine.json,0.4,300,0.9833333333333333,,,
+microsoft/Phi-3.5-mini-instruct,noise,en_refine.json,0.6,300,0.98,,,
+microsoft/Phi-3.5-mini-instruct,noise,en_refine.json,0.8,300,0.89,,,
+microsoft/Phi-3.5-mini-instruct,rejection,en_refine.json,1.0,300,,0.04666666666666667,,
+microsoft/Phi-3.5-mini-instruct,integration,en_int.json,0.0,100,0.01,,,
+microsoft/Phi-3.5-mini-instruct,counterfactual,en_fact.json,0.0,100,,,0.01,0.01
