@@ -1,0 +1,73 @@
+{
+  "config": {
+    "name": "finance_hybrid_sentence_minilm",
+    "domain": "finance",
+    "subset": "finqa",
+    "chunking_strategy": "sentence_based",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "retrieval_type": "hybrid",
+    "top_k_final": 10,
+    "use_cross_encoder": true,
+    "hybrid_alpha": 0.3
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.2024416364429506,
+      "aucroc": 0.5558223289315727,
+      "mean_predicted": 0.0949001349803627,
+      "mean_ground_truth": 0.08437109118085245,
+      "std_predicted": 0.17112671503113216,
+      "std_ground_truth": 0.09803085289608306
+    },
+    "utilization_score": {
+      "rmse": 0.10257597807462451,
+      "aucroc": 0.522636217948718,
+      "mean_predicted": 0.034301676540216895,
+      "mean_ground_truth": 0.061467588289800076,
+      "std_predicted": 0.08105267424197542,
+      "std_ground_truth": 0.05421133093201152
+    },
+    "completeness_score": {
+      "rmse": 0.5785734968810352,
+      "aucroc": NaN,
+      "mean_predicted": 0.5691654705389437,
+      "mean_ground_truth": 0.8694999999999999,
+      "std_predicted": 0.393636648841947,
+      "std_ground_truth": 0.2763759014257373
+    },
+    "adherence_score": {
+      "rmse": 0.6082762530298219,
+      "aucroc": 0.5929519918283963,
+      "mean_predicted": 0.62,
+      "mean_ground_truth": 0.89,
+      "std_predicted": 0.4853864439804639,
+      "std_ground_truth": 0.31288975694324034
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.0949001349803627,
+      "std": 0.17112671503113216,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "utilization_score": {
+      "mean": 0.034301676540216895,
+      "std": 0.08105267424197542,
+      "min": 0.0,
+      "max": 0.6447368421052632
+    },
+    "completeness_score": {
+      "mean": 0.5691654705389437,
+      "std": 0.393636648841947,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "adherence_score": {
+      "mean": 0.62,
+      "std": 0.4853864439804639,
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}

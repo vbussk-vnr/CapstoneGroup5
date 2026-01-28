@@ -1,0 +1,73 @@
+{
+  "config": {
+    "name": "finance_hybrid_semantic_financebert",
+    "domain": "finance",
+    "subset": "finqa",
+    "chunking_strategy": "semantic",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "retrieval_type": "hybrid",
+    "top_k_final": 10,
+    "use_cross_encoder": false,
+    "hybrid_alpha": 0.3
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.5864952082292124,
+      "aucroc": 0.6666666666666667,
+      "mean_predicted": 0.627478152309613,
+      "mean_ground_truth": 0.08244444444444445,
+      "std_predicted": 0.23676244691907816,
+      "std_ground_truth": 0.031002986713947175
+    },
+    "utilization_score": {
+      "rmse": 0.47644007786325626,
+      "aucroc": 0.33333333333333337,
+      "mean_predicted": 0.4497003745318352,
+      "mean_ground_truth": 0.07244444444444445,
+      "std_predicted": 0.27670780025495245,
+      "std_ground_truth": 0.03178166254421052
+    },
+    "completeness_score": {
+      "rmse": 0.5310367218940701,
+      "aucroc": NaN,
+      "mean_predicted": 0.72,
+      "mean_ground_truth": 0.9,
+      "std_predicted": 0.3919183588453085,
+      "std_ground_truth": 0.2
+    },
+    "adherence_score": {
+      "rmse": 0.8944271909999159,
+      "aucroc": 0.5,
+      "mean_predicted": 0.0,
+      "mean_ground_truth": 0.8,
+      "std_predicted": 0.0,
+      "std_ground_truth": 0.4
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.627478152309613,
+      "std": 0.23676244691907816,
+      "min": 0.29213483146067415,
+      "max": 0.9722222222222222
+    },
+    "utilization_score": {
+      "mean": 0.4497003745318352,
+      "std": 0.27670780025495245,
+      "min": 0.0,
+      "max": 0.8
+    },
+    "completeness_score": {
+      "mean": 0.72,
+      "std": 0.3919183588453085,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "adherence_score": {
+      "mean": 0.0,
+      "std": 0.0,
+      "min": 0.0,
+      "max": 0.0
+    }
+  }
+}

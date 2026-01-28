@@ -1,0 +1,11 @@
+{
+  "name": "finance_dense_sentence_finbert",
+  "domain": "finance",
+  "subset": "finqa",
+  "chunking_strategy": "sentence_based",
+  "embedding_model": "yiyanghkust/finbert-pretrain",
+  "retrieval_type": "hybrid",
+  "top_k_final": 10,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.3
+}

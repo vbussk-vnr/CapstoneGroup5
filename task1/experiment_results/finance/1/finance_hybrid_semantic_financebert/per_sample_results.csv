@@ -1,0 +1,66 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+finqa_6345,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,0.5,0.0,0.0,0.0,"The information about the rate of return of an investment in Cadence Design Systems Inc. from 2010 to 2011 is not present in the provided context documents.
+
+However, Document 6 mentions that ""the computation of diluted earnings per common share excluded 13.4 million stock options for the year ended December 31, 2011, because their inclusion would have been anti-dilutive, primarily due to their exercise prices exceeding the average market price of our common stock during each respective reporting period"".
+
+But this information doesn't provide the rate of return of an investment in Cadence Design Systems Inc. from 2010 to 2011.
+
+However, Document 1 has information about the 2011 financial results of the company, but it does not provide the rate of return of an investment.
+
+Document 3 mentions that the following graph shows a five year comparison of cumulative total shareowners' returns for Cadence Design Systems' Class B common stock, the Standard & Poor's 500 index, and the Dow Jones Transportation Average, but it does not provide the rate of return from 2010 to 2011.
+
+Document 8 mentions that the graph compares Cadence Design Systems' total return to stockholders with the returns of the Standard & Poor's 500"
+finqa_7055,what is the ratio of the total american personnel to us airways personnel,0.29213483146067415,0.29213483146067415,1.0,0.0,"To find the ratio of the total American personnel to US Airways personnel, we need to look at Document 2. This document contains information about the total number of personnel in different categories.
+
+Let's add up the total number of personnel in each category:
+
+Mainline Operations: 101500
+Wholly-Owned Regional Carriers: 20800
+Total: 122300
+
+We don't have any information about US Airways personnel in this document. However, if we assume that US Airways personnel are included in the wholly-owned regional carriers category, we can calculate the ratio as follows:
+
+Total American personnel: 122300
+US Airways personnel (assumed to be part of wholly-owned regional carriers): 20800
+
+Ratio of total American personnel to US Airways personnel: 122300 / 20800 ≈ 5.88
+
+Please note that this is an estimate, as we don't have any information about the exact number of US Airways personnel."
+finqa_6634,what portion of total assets acquired of anios are intangible assets?,0.8,0.8,1.0,0.0,"To determine the portion of total assets acquired of Anios that are intangible assets, we need to look at the fair value of intangible assets and the total assets acquired.
+
+Document 8 does not provide the information for the Anios acquisition, however, it does provide information for the U.S. Can and Alcan acquisitions.
+
+Document 8:
+( $ in millions ) u.s . can ( metal food & household products packaging , americas ) alcan ( plastic packaging , americas )
+
+Document 10 provides information on the Anios acquisition, but the fair value of intangible assets is not specified.
+
+However, Document 5 provides the information on the intangible assets for Anios, but it is not clear if this information is related to the Anios acquisition or not.
+
+Document 5:
+customer relationships , trademarks and other technology are being amortized over weighted average lives of 20 , 17 , and 11 years , respectively .
+
+Document 10 provides the information on the Anios acquisition and Document 1 provides information on the total assets acquired.
+
+We can calculate the total assets acquired as shown in Document 1:
+total assets acquired = $1126
+
+Document 10 does not specify the fair value of intangible assets for Anios, however, we can look"
+finqa_6587,what is the five year total return on the goldman sachs group inc.?,0.9722222222222222,0.5833333333333334,0.6,0.0,"Based on the context documents provided, there are a few instances where the five-year total return of the Goldman Sachs Group, Inc. is mentioned.
+
+Document 7 mentions that ""the stock price performance included in this graph is not necessarily indicative of future stock price performance"" but it does not contain the five-year total return.
+
+Document 6 contains information from Goldman Sachs 2014 Annual Report, but it does not mention the five-year total return.
+
+However, Document 8 mentions the yearly change in the cumulative total stockholder return for Goldman Sachs Group, Inc. for the five years ended December 27, 2008 to December 28, 2013.
+
+Document 2 contains information about the performance graph which compares the cumulative five-year total return of Goldman Sachs Group, Inc. with the S&P 500 index and a customized peer group. According to Document 2, for the period from December 31, 2012 to December 31, 2017, the cumulative five-year total return of Goldman Sachs Group, Inc. was higher than the S&P 500 index and the peer group.
+
+Document 10 mentions the total return of Goldman Sachs Group, Inc. for the period from December 31, 2009 to December 31, 2014"
+finqa_7027,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,0.5730337078651685,0.5730337078651685,1.0,0.0,"The information needed to answer this question is not available in the provided context documents. Documents 1, 3, 4, 5, 7, 8, 9, and 10 do not contain the required information to determine the percentage change in the total carrying amount of goodwill from 2016 to 2017.
+
+However, Document 4 provides the total carrying amount of goodwill as of December 2016 and December 2017, which is $3.67 billion in both cases. 
+
+To find the percentage change, we would need the carrying amount of goodwill as of December 2017 and December 2016, which is not available in the provided context documents.
+
+Document 10 does not provide the necessary information either."

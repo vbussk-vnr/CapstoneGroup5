@@ -1,0 +1,72 @@
+{
+  "config": {
+    "name": "finance_aware_hybrid_finbert_cross_encoder",
+    "domain": "finance",
+    "subset": "finqa",
+    "chunking_strategy": "finance_aware",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "retrieval_type": "hybrid",
+    "top_k_final": 10,
+    "use_cross_encoder": true
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.6206055130435628,
+      "aucroc": 0.6666666666666667,
+      "mean_predicted": 0.5687306915669875,
+      "mean_ground_truth": 0.08244444444444445,
+      "std_predicted": 0.38791355468998934,
+      "std_ground_truth": 0.031002986713947175
+    },
+    "utilization_score": {
+      "rmse": 0.07206108060249974,
+      "aucroc": 0.5,
+      "mean_predicted": 0.018361344537815124,
+      "mean_ground_truth": 0.07244444444444445,
+      "std_predicted": 0.0290577736978101,
+      "std_ground_truth": 0.03178166254421052
+    },
+    "completeness_score": {
+      "rmse": 0.9078379336086866,
+      "aucroc": NaN,
+      "mean_predicted": 0.024654731457800512,
+      "mean_ground_truth": 0.9,
+      "std_predicted": 0.04116855891331948,
+      "std_ground_truth": 0.2
+    },
+    "adherence_score": {
+      "rmse": 0.8944271909999159,
+      "aucroc": 0.125,
+      "mean_predicted": 0.4,
+      "mean_ground_truth": 0.8,
+      "std_predicted": 0.48989794855663565,
+      "std_ground_truth": 0.4
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.5687306915669875,
+      "std": 0.38791355468998934,
+      "min": 0.0,
+      "max": 0.9663865546218487
+    },
+    "utilization_score": {
+      "mean": 0.018361344537815124,
+      "std": 0.0290577736978101,
+      "min": 0.0,
+      "max": 0.075
+    },
+    "completeness_score": {
+      "mean": 0.024654731457800512,
+      "std": 0.04116855891331948,
+      "min": 0.0,
+      "max": 0.10588235294117647
+    },
+    "adherence_score": {
+      "mean": 0.4,
+      "std": 0.48989794855663565,
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}

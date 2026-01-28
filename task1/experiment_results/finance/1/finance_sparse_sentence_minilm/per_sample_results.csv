@@ -1,0 +1,648 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+finqa_6345,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,0.056451612903225805,0.0,0.0,1.0,"Unfortunately, the provided context documents do not contain enough information to accurately determine the rate of return for Cadence Design Systems, Inc. from 2010 to 2011."
+finqa_7055,what is the ratio of the total american personnel to us airways personnel,0.024844720496894408,0.012422360248447204,0.5,0.0,"Unfortunately, the provided context documents do not contain the necessary information to calculate the ratio of the total American personnel to US Airways personnel.
+
+However, Document 2 provides the approximate number of active full-time equivalent employees as of December 31, 2014:
+
+- American: 95,000
+- US Airways: 21,000
+- Wholly-owned regional carriers: 5,000
+- Total: 121,000
+
+To calculate the ratio of American personnel to US Airways personnel, you can divide the number of American personnel by the number of US Airways personnel:
+
+95,000 (American) / 21,000 (US Airways) ≈ 4.52
+
+So, the ratio of American personnel to US Airways personnel is approximately 4.52."
+finqa_6634,what portion of total assets acquired of anios are intangible assets?,0.09202453987730061,0.018404907975460124,0.2,0.0,"To find the portion of total assets acquired of Anios that are intangible assets, we need to refer to Document 1, which mentions the acquisition of Anios on February 1, 2017. However, it does not provide the specific amount of intangible assets acquired.
+
+However, Document 3 mentions that the company determined that only customer relationship, trade name, and developed technology and know-how had separately identifiable values. But it does not provide the total amount of intangible assets acquired.
+
+Document 4 provides the amount of acquired amortizable intangible assets, which includes customer relationships of $54 million and trademarks of $69 million. But it does not provide the total amount of intangible assets acquired.
+
+Since the total consideration for the acquisition of Anios was $798.3 million (Document 1), we can estimate the portion of total assets acquired that are intangible assets based on the information provided in Document 4.
+
+Total acquired amortizable intangible assets = $54 million (customer relationships) + $69 million (trademarks) = $123 million
+
+However, this only represents a portion of the total intangible assets acquired. Document 4 does not mention other intangible assets that may have been acquired as part of the Anios deal.
+
+To calculate"
+finqa_6587,what is the five year total return on the goldman sachs group inc.?,0.19607843137254902,0.0392156862745098,0.2,0.0,"I don't have enough information to provide a specific answer to the question about the five-year total return on the Goldman Sachs Group, Inc.
+
+However, based on the provided context documents, I can suggest that the five-year total return on the Goldman Sachs Group, Inc. can be found in the following documents:
+
+- Document 1: The document mentions a table that shows the cumulative total returns in dollars of the firm's common stock, the S&P 500 index, and the S&P 500 financials index for the Goldman Sachs Group, Inc.'s last five fiscal year ends, but it does not provide a direct answer to the question.
+- Document 6: The document mentions a graph that compares the annual total return of the Goldman Sachs Group, Inc.'s common stock, the S&P 500 index, and the Loews peer group for the five years ended December 31, 2009, but it does not provide a direct answer to the question.
+- Document 7: The document mentions a graph that compares the cumulative total stockholder return on the Goldman Sachs Group, Inc.'s common stock with the cumulative total return of the Dow Jones U.S. Technology Index and the S&P 500 index for the five years ended December 28,"
+finqa_7027,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,0.02666666666666667,0.057777777777777775,0.16666666666666666,0.0,"To determine the percentage change in the total carrying amount of goodwill from 2016 to 2017, we would need to know the total carrying amount of goodwill in both years.
+
+Unfortunately, the provided context documents do not explicitly state the total carrying amount of goodwill for 2016. However, based on the information in Document 9, we can calculate the carrying amount of goodwill in 2017 as follows:
+
+ Document 9 states: ""at december 31, 2017, the company had no amount outstanding under the 2017 credit facility."" And also states: ""the carrying value and fair value of long-term borrowings estimated using market prices and foreign exchange rates at december 31, 2017 included the following: (in millions) maturity amount unamortized discount and debt issuance costs carrying value fair value.""
+
+However, the provided context documents do not provide enough information to determine the carrying amount of goodwill for 2016, nor the total carrying amount of goodwill for 2017.
+
+Therefore, I cannot provide a specific answer to the question."
+finqa_6251,what is the net change in net revenue during 2015 for entergy corporation?,0.18461538461538463,0.046153846153846156,0.25,0.0,"The information about the net change in net revenue for Entergy Corporation in 2015 can be found in Document 3. It states that results of operations for 2015 include two items that occurred in October 2015, which are a deferred tax asset and resulting net increase in tax basis of approximately $334 million and a regulatory liability of $107 million ($66 million net-of-tax) as a result of customer credits to be realized by electric customers of Entergy Louisiana, consistent with the terms of the stipulated settlement in the business combination proceeding.
+
+However, to find out the net change in net revenue, we need to look at the change in net revenue comparing 2015 to 2014 and the other items that affected the results of operations for 2015.
+
+Document 3 also states that results of operations for 2015 also include the sale in December 2015 of the 583 MW Rhode Island State Energy Center for a realized gain of $154 million ($100 million net-of-tax) on the sale and the $77 million ($47 million net-of-tax) write-off and regulatory charges to recognize that a portion of the assets associated with the Waterford 3 replacement steam generator project is no longer probable of recovery.
+
+To find the net change in net"
+finqa_7073,what was the 2015 total return for the peer group?,0.2702702702702703,0.0,0.0,1.0,I cannot find the 2015 total return for the peer group in the provided documents.
+finqa_7345,what was the profit margin of printing papers in 2005,0.3539325842696629,0.3539325842696629,1.0,0.0,"The profit margin of printing papers in 2005 is not directly provided in the given documents. However, we can calculate the operating profit as a percentage of net sales for the printing papers segment in 2005.
+
+Document 6 does not provide the net sales of the printing papers segment in 2005. However, based on Document 1, which mentions that the net sales of the printing papers segment decreased by 3% in 2006 from both 2005 and 2004, we can infer the net sales of the printing papers segment in 2005 as 97% (or 1.03) of the net sales in 2004.
+
+Document 2 provides the net sales of the printing papers segment in 2006 as $4.5 billion. Document 1 mentions that the net sales of the printing papers segment decreased by 3% in 2006 from 2005. Therefore, the net sales of the printing papers segment in 2005 would be $4.65 billion (=$4.5 billion * 1.03).
+
+Document 2 provides the operating earnings of the printing papers segment in 2006 as $787 million. Document 6 mentions that the operating earnings of the printing papers segment in 2005"
+finqa_7099,what was the percent change in the aggregate net asset values of the direct lending collateral pools between 2007 and 2008?,0.018604651162790697,0.023255813953488372,1.0,0.0,"Based on Document 1, the table showing the aggregate net asset values of the unregistered direct lending collateral pools for the years 2007, 2008, and 2009 is:
+
+( in billions ) 
+December 31, 2009 December 31, 2008 December 31, 2007 (1)
+
+Unfortunately, the value for December 31, 2008 is not provided in the above table. However, Document 2 provides an explanation of the missing value: ""Certain of the SSGA Lending Funds were participants in the direct lending collateral pools until October 2008. The direct lending collateral pool balances at December 31, 2007 related to SSGA Lending Funds have been included within the SSGA Lending Fund balances and excluded from the direct lending collateral pool balances presented above.""
+
+However, the table does provide the value for December 31, 2007 and December 31, 2009. Unfortunately, the table does not provide any information about the direct lending collateral pools for December 31, 2008.
+
+But we can look at another part of the document: 
+Document 1 provides another part of the table: 
+December 31, 2009 December 31, 200"
+finqa_6351,"what was the percentage cumulative total shareholder return on disca common stock for the five year period ended december 31 , 2014?",0.0,0.0,0.0,1.0,"Unfortunately, there is no information in the provided context documents about the cumulative total shareholder return on DISCA common stock for the five-year period ended December 31, 2014."
+finqa_6335,what was the percentage change in the cash dividends paid per common share from 2006 to 2007,0.025157232704402517,0.012578616352201259,0.5,1.0,"To find the percentage change in the cash dividends paid per common share from 2006 to 2007, we need to look at the information provided in the context documents.
+
+From Document 1:
+""On November 1, 2007, the company announced that its board increased the quarterly cash dividend by 11.1% (11.1%) to $0.30 per share ($1.20 per share per year).""
+
+From Document 1:
+""At the beginning of fiscal 2006, the company's board increased the quarterly cash dividend by 8% (8%) to $0.27 per share ($1.08 per share per year).""
+
+To find the percentage change, we need to know the dividend paid in 2006 and 2007.
+
+In 2006, the dividend paid per quarter was $0.27 per share, and in 2007, it was $0.30 per share.
+
+The percentage change can be calculated as:
+
+((New value - Old value) / Old value) * 100
+= (($0.30 - $0.27) / $0.27) * 100
+= (0.03 / 0.27) * 100
+= 11.11%
+
+So"
+finqa_6469,what is the after-tax share-based compensation cost in 2010?,0.926829268292683,0.0,0.0,1.0,"The after-tax share-based compensation cost in 2010 cannot be determined from the provided documents. 
+
+Document 1 shows the share-based compensation cost for 2014, 2013, and 2012, but not for 2010. 
+
+Document 2 does not provide information about the after-tax share-based compensation cost in 2010. 
+
+Document 7 does not provide information about the after-tax share-based compensation cost in 2010. 
+
+Document 3 mentions the company's policy for accounting for excess tax benefits associated with share-based compensation but does not provide information about the after-tax share-based compensation cost in 2010.
+
+The information needed to answer the question is not available in the provided documents."
+finqa_7144,"what was the average for ""other"" loans held in 2012 and 2011?",0.0,0.0,0.0,1.0,"Unfortunately, I do not have enough information to answer your question as it relates to ""other"" loans held in 2012 and 2011. The provided context documents do not mention ""other"" loans or provide any specific data about such loans."
+finqa_7285,what is the percentage change in total financial liabilities at fair value in 2012?,0.008547008547008548,0.008547008547008548,1.0,1.0,"To find the percentage change in total financial liabilities at fair value in 2012, we need to compare the total financial liabilities at fair value in 2012 to the total financial liabilities at fair value in 2011.
+
+According to Document 6:
+[""total financial liabilities at fair value"", ""$ 377677"", ""$ 388669""]
+
+The total financial liabilities at fair value in 2012 is $377,677 million and in 2011 is $388,669 million.
+
+To find the percentage change, we use the formula:
+
+Percentage change = ((New value - Old value) / Old value) * 100
+
+Percentage change = ((377,677 - 388,669) / 388,669) * 100
+Percentage change = (-11,992 / 388,669) * 100
+Percentage change = -3.08%
+
+So, the total financial liabilities at fair value decreased by 3.08% in 2012."
+finqa_6726,"what are the net revenues in investment management in 2016 , in billions?",0.02564102564102564,0.02564102564102564,1.0,1.0,"This question cannot be answered based on the provided context documents. The context documents mention net revenues in investment management for 2016, 2017, and 2018, but they do not specify the exact value for 2016 in billions. However, Document 2 mentions that ""net revenues in investment management were $ 6.22 billion for 2017, 7% (7%) higher than 2016"" and Document 2 also mentions ""during 2017, total assets under supervision increased $ 115 billion to $ 1.49 trillion""."
+finqa_6786,was was the total amount spent on stock repurchases in december 2012?,0.1746031746031746,0.0,0.0,1.0,"Based on the provided context documents, there is no information about the total amount spent on stock repurchases in December 2012."
+finqa_6371,what was the net change in tax positions in 2014,0.42207792207792205,0.012987012987012988,0.03076923076923077,1.0,"The net change in tax positions in 2014 cannot be determined from the provided context documents. 
+
+However, it can be inferred that there was a decrease in the accruals for uncertain tax positions in 2014, as mentioned in Document 1: ""in 2014, we reduced our accruals for uncertain tax positions and the related accrued interest on these tax positions and, as a result, our income tax expense decreased by $ 759 million."" 
+
+Also, in Document 7: ""The decrease in income tax payments in 2014 was primarily due to the settlement of tax disputes and the repatriation of foreign earnings in 2013."" 
+
+But the net change in tax positions in 2014 cannot be precisely calculated using the provided information."
+finqa_6263,what portion of the total noncancelable future lease commitments are due in fiscal year of 2019?,0.04516129032258064,0.04516129032258064,1.0,0.0,"Based on the context, we can find the total noncancelable future lease commitments in the following documents:
+
+Document 1: noncancelable future lease commitments are: in millions operating leases capital leases.
+
+Document 3: off-balance sheet arrangements, contractual obligations, and commercial commitments as described in the notes to the consolidated financial statements and as referenced in the tables below, we have contractual obligations and commercial commitments that may affect our financial condition. based on our assessment of the underlying provisions and circumstances of our contractual obligations and commercial commitments, including material sources of off-balance sheet and structured finance arrangements, other than the risks that we and other similarly situated companies face with respect to the condition of the capital markets (as described in item 1a of part ii of this report), there is no known trend, demand, commitment, event, or uncertainty that is reasonably likely to occur that would have a material adverse effect on our consolidated results of operations, financial condition, or liquidity.
+
+However, the specific details for noncancelable future lease commitments for fiscal year 2019 are found in Document 4 and Document 7 and Document 13:
+
+Document 4: note 12. commitments and contingencies operating leases we are obligated under noncancelable operating leases for corporate office space,"
+finqa_6419,"in millions for 2012 and 2011 , what was the maximum tier 2 capital?",0.09375,0.09375,1.0,0.0,"The maximum Tier 2 capital is not explicitly stated in the provided documents. However, Document 4 mentions that GS Bank USA, which has a Tier 1 capital ratio of at least 6% and a total capital ratio of at least 10%, is subject to regulatory capital requirements based on Basel 1.
+
+Document 29 from Document 3 states that Tier 2 capital consists of preferred stock not qualifying as Tier 1, subordinated long-term debt, and other instruments qualifying as Tier 2, and the aggregate allowance for credit losses up to a certain percentage of risk-weighted assets.
+
+Since the maximum Tier 2 capital is not explicitly stated, I cannot provide a specific answer to the question."
+finqa_6743,what portion of the total restricted units will vest in 2011?,0.167420814479638,0.0,0.0,1.0,I cannot provide a complete answer to the question as it requires information that is not contained in the provided documents.
+finqa_6470,what was the percent change in number of shares purchased by employees between 2010 and 2011,0.014285714285714285,0.004761904761904762,0.3333333333333333,1.0,"To determine the percent change in the number of shares purchased by employees between 2010 and 2011, we need to refer to Document 2.
+
+Document 2 states: ""for the years ended december 31, 2012, 2011 and 2010, employees purchased 1.4 million, 2.2 million and 2.7 million shares, respectively.""
+
+The percent change in the number of shares purchased by employees between 2010 and 2011 can be calculated as:
+
+((2,200,000 - 2,700,000) / 2,700,000) * 100%
+= (-500,000 / 2,700,000) * 100%
+= -18.52%
+
+So, the number of shares purchased by employees decreased by 18.52% between 2010 and 2011."
+finqa_6468,what was the percent of the total gains that was from the sales of land,0.07281553398058252,0.05339805825242718,0.7333333333333333,0.0,"To calculate the percent of the total gains that was from the sales of land, we need to refer to Document 2, Document 4, and Document 8.
+
+From Document 2, we know that in 2004, the company generated after-tax gains of $16.5 million from the sale of six properties.
+
+From Document 4, we know that in 2004, the company recorded gain on land sales of $424,000 and $560,000 of impairment charges associated with contracts to sell land parcels for the years ended December 31, 2004, and 2003, respectively.
+
+From Document 8, we know that in 2004, the company generated estimated gains from sales of properties that were developed or repositioned with the intent to sell and not for long-term rental (build-for-sale properties) in the consolidated statements of operations.
+
+Unfortunately, the provided context documents do not explicitly mention the total gains from the sales of properties and land in 2004."
+finqa_6574,what was the percentual decrease observed in the liabilities for accrued interest and penalties during 2012 and 2013?,0.02564102564102564,0.01282051282051282,0.5,0.0,"According to Document 4, the liabilities for accrued interest and penalties were $ 665 million as of December 31, 2012, and $ 1.2 billion as of December 31, 2013. 
+
+To find the percentual decrease, we need to first find the absolute difference between the two values, which is $ 535 million ($ 1.2 billion - $ 665 million). 
+
+Then, we divide this absolute difference by the initial value ($ 665 million), and multiply by 100 to get the percentual decrease.
+
+($ 535 million / $ 665 million) * 100 = 80.3%
+
+So, the liabilities for accrued interest and penalties decreased by 80.3% from 2012 to 2013, or by 80.3% from $ 665 million to $ 1.2 billion in 2013."
+finqa_6667,what portion of the total estimated purchase price is paid in cash?,0.0821917808219178,0.0821917808219178,1.0,0.0,"Based on the provided context documents, I will try to answer your question.
+
+Document 1 does not mention the total estimated purchase price paid in cash. 
+
+Document 4 mentions that the aggregate purchase price of approximately $ 6156900 included $ 2094800 in cash.
+
+Document 7 mentions that the aggregate purchase price was approximately $ 45.1 million, which consisted of $ 42.2 million of our common stock, $ 1.6 million of cash paid to certain former shareholders of impella, and $ 1.3 million of transaction costs.
+
+Document 9 mentions that the aggregate purchase price for r2 of approximately $ 220600 consisted of approximately 8800 shares of hologic common stock valued at $ 205500, cash paid of $ 6900, debt assumed of $ 5700 and approximately $ 2500 for acquisition related fees and expenses.
+
+Document 10 mentions that the company's acquisitions have been made with a combination of cash and other payment methods. For the Anios acquisition, the company deposited 20ac50 million in an escrow account that was released back to the company upon closing of the transaction, and the company incurred certain acquisition and integration costs associated with the transaction.
+
+Document 2 does not provide information"
+finqa_6526,as a result of the sales of certain non-core towers and other assets what was the percent of the change in the recorded net losses from 2007 to 2008,0.07142857142857142,0.04395604395604396,0.6153846153846154,1.0,"According to the provided context, specifically in Document 1, under the section ""14. impairments, net loss on sale of long-lived assets, restructuring and merger related expense"", it is mentioned that:
+
+""...the company recorded net losses associated with the sales of certain non-core towers and other assets, as well as impairment charges to write-down certain assets to net realizable value after an indicator of impairment had been identified.""
+
+It is also mentioned that:
+
+""...the company recorded net losses and impairments of approximately $ 10.5 million, $ 7.1 million and $ 2.0 million for the years ended December 31, 2008, 2007 and 2006, respectively.""
+
+To calculate the percent of change in the recorded net losses from 2007 to 2008, we need to divide the difference between the net losses in 2008 and 2007 by the net loss in 2007, and then multiply by 100.
+
+($10.5 million - $7.1 million) / $7.1 million = 0.48
+0.48 x 100 = 48%
+
+So, as a result of the sales of certain non-core towers and other assets, the percent of the change in the recorded"
+finqa_6606,what was the percentage rent increase between 2007 and 2008?,0.005988023952095809,0.005988023952095809,1.0,1.0,"Unfortunately, the provided context documents do not contain enough information to answer the question about the percentage rent increase between 2007 and 2008."
+finqa_6892,what was the percentage change in the the research and development costs from 2014 to 2015,0.03409090909090909,0.0,0.0,1.0,The information provided in the context does not contain enough detail to answer the question regarding the percentage change in the research and development costs from 2014 to 2015.
+finqa_7040,what was the lowest effective tax rate in the three year period?,0.10897435897435898,0.05128205128205128,0.35294117647058826,0.0,"To determine the lowest effective tax rate in the three-year period, we need to look at the information provided in the context documents.
+
+Document 2:
+- 2013: 28.1%
+- 2012: 29.0%
+- 2011: 27.8%
+
+Document 3:
+- 2015: 24.0%
+- 2014: 27.1%
+
+Document 4:
+- 2017: The effective tax rate before tax holidays was not provided, but after tax holidays, it was lower (no specific rate provided).
+
+Document 6:
+- 2017: The effective tax rate after the 2017 Tax Act was not provided.
+
+Document 1:
+- 2016: The effective tax rate was lower than the statutory tax rate largely due to the release of the valuation allowances, but the exact rate was not provided.
+- 2015: The effective tax rate was higher than the statutory tax rate primarily due to the impact of state and local income taxes, but the exact rate was not provided.
+- 2017: The effective tax rate was lower than the statutory tax rate due to the remeasurement of the deferred tax liabilities as a result of the 2017 Tax Act, but the"
+finqa_6582,what was the percentage growth in the dividend yield from 2007 to 2008,0.096045197740113,0.011299435028248588,0.11764705882352941,0.0,"To find the percentage growth in the dividend yield from 2007 to 2008, we need information on the dividend yield for both years.
+
+Document 4 mentions the quarterly common stock dividend for the relevant years. The dividend per share for each quarter is as follows:
+- 2008: $0.38 per share
+- 2007: $0.34 per share (for the first quarter of 2007) and $0.38 per share (for the second, third, and fourth quarters of 2007)
+
+Since the dividend per share remained constant for most of 2007, we will use the average dividend per share for 2007, which is ($0.34 + $0.38) / 2 = $0.36 per share.
+
+The dividend yield is not explicitly stated in the provided documents, but we can calculate it if we have the average price per share for the relevant years. However, the documents do not provide this information.
+
+To estimate the percentage growth in dividend yield, we would typically compare the dividend yield in each year. Since we cannot accurately calculate the dividend yield without the average price per share, we cannot provide the answer to the question."
+finqa_6284,in 2018 what was the percent of the cib markets net interest income as part of the managed interest income,0.037037037037037035,0.037037037037037035,1.0,0.0,"According to Document 1, in 2018 the CIB markets net interest income was $3087 million and the managed net interest income was $56,587 million.
+
+To calculate the percent of the CIB markets net interest income as part of the managed interest income, we can use the following formula:
+
+Percent = (CIB markets net interest income / Managed net interest income) * 100
+
+Plugging in the numbers, we get:
+
+Percent = ($3087 million / $56,587 million) * 100 ≈ 5.46%
+
+So, in 2018, the CIB markets net interest income was approximately 5.46% of the managed net interest income."
+finqa_7291,"what was the increase in the unrecognized tax benefits observed during 2007 and 2008 , in millions of dollars?",0.8354430379746836,0.02531645569620253,0.030303030303030304,0.0,"To find the increase in unrecognized tax benefits observed during 2007 and 2008, we need to compare the balance of unrecognized tax benefits at the beginning of 2007 and the end of 2008.
+
+From Document 2, we have the following information:
+- The total amount of unrecognized tax benefits as of December 27, 2008, was $214.4 million, including interest of $11.1 million.
+
+From Document 1, we have the following information:
+- The total amount of unrecognized tax benefits as of March 31, 2008, was $214.4 million (from Document 2) - $0.2 million (accrued interest) = $214.2 million.
+- The total amount of unrecognized tax benefits as of April 1, 2007, was $110 million.
+
+However, Document 3 provides more information about the unrecognized tax benefits as of December 31, 2008, which is more recent than March 31, 2008. From Document 3, we have the following information:
+- The total amount of unrecognized tax benefits as of December 31, 2008, was $148.8 million.
+
+Now, let's compare the balance of unrecognized tax benefits at the"
+finqa_7125,what is the growth rate in net sales from 2009 to 2010?,0.033783783783783786,0.033783783783783786,1.0,0.0,"The growth rate in net sales from 2009 to 2010 is not explicitly stated in the provided documents. However, it can be inferred from Document 5 that the higher net earnings from continuing operations in 2010 compared to 2009 included $105.9 million of equity gains on acquisitions associated with the acquisitions. This suggests that the company experienced growth in net sales, but the exact growth rate is not specified.
+
+Document 5 mentions that higher sales in 2010 compared to 2009 were due largely to sales associated with 2010 business acquisitions described above. This implies that the company's net sales grew in 2010 compared to 2009, but the exact growth rate is not provided."
+finqa_6663,"what was the minimum amount of foreign currency translation loss , in millions?",0.0779816513761468,0.0779816513761468,1.0,0.0,"Based on the context documents, the minimum amount of foreign currency translation loss is not explicitly stated. However, we can infer from Document 3 that the company had no material impairment of its long-lived assets, except for the impairment of certain assets in connection with the restructuring actions described in note 5. 
+
+From Document 8, we can see that the company had a foreign currency translation loss of $1.7 million in 2007 and $1.2 million in 2006. From Document 5, we can infer that the company has foreign currency translation gains and losses reported in ""other income (expense) - net"" on the accompanying consolidated statements of earnings. However, the minimum amount of foreign currency translation loss is not explicitly stated.
+
+However, we can see in Document 5 that the cumulative translation adjustment of negative $1.2 million at the end of fiscal 2006, which is the lowest value mentioned in the context.
+
+Therefore, the minimum amount of foreign currency translation loss, in millions, is $1.2 million."
+finqa_6961,what are the average net unrealized investment gains for the period?,0.05291005291005291,0.05291005291005291,1.0,0.0,"The information about net unrealized investment gains/losses can be found in the provided context documents. 
+
+From Document 1, we can see that the net unrealized gain for the period of December 31, 2012, was $1.6 billion. At December 31, 2011, the net unrealized loss was $41 million. 
+
+From Document 2, we see that the net after-tax unrealized loss on available-for-sale securities of $1.64 billion and $5.21 billion as of December 31, 2009, and December 31, 2008, respectively. 
+
+From Document 8, we can see that the fair value of sub-investment grade investment securities for which we have not recorded an otti credit loss as of December 31, 2012, totaled $1.9 billion, with unrealized net gains of $114 million.
+
+From Document 10, we can see that the table presents principal transactions revenue. It doesn't explicitly provide the information about average net unrealized investment gains.
+
+However, from Document 1, we can calculate the average net unrealized gain from 2011 to 2012. 
+
+Average net unrealized gain = (2011 net unrealized loss -"
+finqa_6762,did abiomed outperform the nasdaq composite index?,0.49074074074074076,0.0,0.0,1.0,There is no specific information provided in the context documents about the performance of Abiomed relative to the Nasdaq composite index.
+finqa_6707,"in billions , what was the total for 2015 and 2014 relating to commitments to invest in funds managed by the firm?",0.04142011834319527,0.011834319526627219,0.2857142857142857,1.0,"According to Document 2, at December 31, 2015, the company had $2.86 billion in commitments to invest in funds managed by the firm. 
+
+According to Document 3, at December 31, 2014, the company had $2.87 billion in commitments to invest in funds managed by the firm.
+
+However, the question asks for the total for 2015 and 2014. To get the total, we add the two amounts: $2.86 billion + $2.87 billion = $5.73 billion."
+finqa_6826,what was the percentage change in net earnings from continuing operations from 2014 to 2015?,0.05063291139240506,0.0,0.0,1.0,"Unfortunately, the provided context documents do not contain enough information to answer the question about the percentage change in net earnings from continuing operations from 2014 to 2015."
+finqa_7130,how many total shares were repurchase in the periods 11/01/04 2013 11/30/04 and \\n12/01/04 2013 12/31/04?,0.0,0.0,0.0,1.0,"Unfortunately, the provided context documents do not contain information about the periods 11/01/04 to 11/30/04 and 12/01/04 to 12/31/04. The documents contain information about 2012, 2013, and other years, but not about the year 2004.
+
+Therefore, I cannot provide a specific answer to your question."
+finqa_6557,"without employee severance costs in 2004 and 2005 , what would have been the increase in net income in millions?\\n\\n",0.08163265306122448,0.02040816326530612,0.25,0.0,"To determine the increase in net income in millions without employee severance costs in 2004 and 2005, we need to first calculate the net income for each year.
+
+According to the provided documents, the earnings from continuing operations, adjusted for non-cash items and excluding the pension contribution, increased by $584 million in 2006 versus 2005.
+
+To find the increase in net income without employee severance costs, we need to know the total employee severance costs in 2004 and 2005.
+
+In Document 1, it is mentioned that during the fiscal year ended September 30, 2004, the company recorded $5.4 million of employee severance costs, and during the fiscal year ended September 30, 2005, the company recorded $13.3 million of employee severance and lease cancellation costs.
+
+However, Document 4 provides the net tax benefits from employee stock option transactions in 2004 and 2005, which are $83 million and $428 million (as restated), respectively. 
+
+But none of the documents provide the total net income for 2004 and 2005.
+
+According to Document 1, the company recorded $5.4 million and $13.3 million of employee severance"
+finqa_6972,what is the money pool activity use of operating cash flows as a percentage of receivables from the money pool in 2003?,0.17424242424242425,0.17424242424242425,1.0,0.0,"To find the money pool activity use of operating cash flows as a percentage of receivables from the money pool in 2003, we need to look at Document 2 and Document 1.
+
+From Document 2, we know that in 2003, the money pool activity used $12.0 million of system energy's operating cash flows.
+
+From Document 1, we know that the receivables from the money pool as of December 31, 2003 was not provided directly. However, we can find it by comparing the receivables from the money pool as of December 31, 2002 and 2004.
+
+As of December 31, 2002, the receivables from the money pool was not provided directly. However, we can find it by comparing the receivables from the money pool as of December 31, 2003 and 2004.
+
+As of December 31, 2004, the receivables from the money pool was $42.5 million. The receivables from the money pool as of December 31, 2003 was not directly provided, but we can assume the increase in receivables from 2002 to 2004 is not the same as the increase"
+finqa_6280,"what is the borrowing under the term loan facility as a percentage of the total contractual maturities of long-term debt obligations due subsequent to december 31 , 2016?",0.02,0.02,1.0,1.0,"Unfortunately, I cannot answer the question because the documents do not contain enough information to calculate the borrowing under the term loan facility as a percentage of the total contractual maturities of long-term debt obligations due subsequent to December 31, 2016."
+finqa_6888,"what is the total exposure to government related derivatives , in millions?",0.6535947712418301,0.013071895424836602,0.02,0.0,"To determine the total exposure to government-related derivatives, I need to find information from the provided context documents that mentions government-related derivatives.
+
+Document 4 mentions liquid securities and other cash collateral held against derivatives, which includes government-related securities. According to Document 4, as of December 31, 2014, the amount of liquid securities and other cash collateral held against derivatives was $13658 million.
+
+Document 6 mentions that the notional amount of protection purchased and sold through credit derivatives used to manage both performing and nonperforming wholesale credit exposures, which includes government-related derivatives, was $26703 million as of December 31, 2014.
+
+Document 5 mentions that the firm uses derivative instruments to manage its own credit and other market risk exposure, including government-related derivatives. However, it does not provide the exact amount of exposure.
+
+To get the total exposure to government-related derivatives, I need to add the amount of liquid securities and other cash collateral held against derivatives ($13658 million) and the notional amount of protection purchased and sold through credit derivatives ($26703 million).
+
+Total exposure to government-related derivatives: $13658 million + $26703 million = $40361 million
+
+Therefore, the total exposure to government-related derivatives is $40361 million."
+finqa_6611,what is the sales growth rate from 2017 to 2018?,0.008620689655172414,0.008620689655172414,1.0,1.0,"Unfortunately, there is no information in the provided context documents about the sales growth rate from 2017 to 2018.
+
+However, Document 4 mentions that ""industrial sales growth has continued since the beginning of 2010."""
+finqa_6541,by what percentage did average borrowings decrease from 2016 to 2017?,0.11764705882352941,0.0,0.0,1.0,The information about average borrowings for 2016 and 2017 is not provided in the context documents.
+finqa_6410,what is the maximum depreciation rate that can be used for furniture fixtures and equipment?,0.04830917874396135,0.04830917874396135,1.0,0.0,"The context documents do not provide a specific maximum depreciation rate for furniture, fixtures, and equipment. However, Document 8 mentions that depreciation and amortization are provided on a straight-line basis over estimated useful lives."
+finqa_6602,what portion of the total 2015 restructuring programs is related to termination benefits?,0.09714285714285714,0.0,0.0,1.0,"Unfortunately, I do not see the information you are asking for in the provided context documents."
+finqa_6864,what was the percentage change in the earnings from service operations increased from 2000 to 2001,0.012987012987012988,0.006493506493506494,0.5,1.0,"Based on Document 1, the earnings from service operations increased from $32.8 million in 2000 to $35.1 million in 2001. This represents an increase of $2.3 million.
+
+To calculate the percentage change, we can use the following formula:
+
+Percentage change = ((New value - Old value) / Old value) x 100%
+
+Plugging in the values, we get:
+
+Percentage change = (($35.1 - $32.8) / $32.8) x 100%
+= ($2.3 / $32.8) x 100%
+= 7%
+
+So, the percentage change in the earnings from service operations increased from 2000 to 2001 was 7%."
+finqa_6632,in 2004 what was the percent of the change in the employee liability for employee separations,0.05429864253393665,0.05429864253393665,1.0,0.0,"Based on the provided context documents, specifically Document 6, we can see the table displaying the activity in accrued expenses and other from September 30, 2003 to September 30, 2005 related to the integration plan discussed above (in thousands):
+
+|  | September 30, 2003 | September 30, 2004 | September 30, 2005 |
+| --- | --- | --- | --- |
+| Employee severance costs and other | $ - | $ 5.4 | $ 18.8 |
+| Total | $ - | $ 5.4 | $ 28.2 |
+
+From September 30, 2003 to September 30, 2004, the employee severance costs increased by $5.4 million. 
+
+To find the percent of the change, we divide the change by the original value and multiply by 100.
+
+So, the percent of the change in employee severance costs from September 30, 2003 to September 30, 2004 is:
+
+($5.4 / $0) * 100 (Note: The original value is $0, but we can assume it's a negligible amount, so we'll consider it as $0 for the calculation)
+
+Since"
+finqa_7024,what portion of anios' purchasing price is related to goodwill?,0.0,0.0,0.0,1.0,There is no information in the provided context documents about anios or its purchasing price.
+finqa_7056,"as of december 31 , 2010 what was the par value of the debt outstanding for the fixed rate notes due february 2014 compared to term loan due 2011",0.0,0.0,0.0,1.0,"Based on the provided context documents, I could not find any information about the par value of the debt outstanding for the fixed rate notes due February 2014 as of December 31, 2010."
+finqa_6353,what percentage of lease payments will be paid out in the first year?,0.09803921568627451,0.006535947712418301,0.06666666666666667,0.0,"To determine the percentage of lease payments that will be paid out in the first year, we need to look at the future minimum lease payments under the non-cancelable operating leases for office space in effect at December 31, 2012.
+
+According to Document 2, the future minimum lease payments under noncancellable operating leases for office space in effect at December 31, 2012 are:
+
+- $12.6 million in 2013
+- $10.7 million in 2014
+- $10.0 million in 2015
+- $8.2 million in 2016
+- $7.4 million in 2017
+
+To find the percentage of lease payments that will be paid out in the first year, we need to divide the lease payments for 2013 by the total of all lease payments and multiply by 100.
+
+Total lease payments = $12.6 million + $10.7 million + $10.0 million + $8.2 million + $7.4 million
+Total lease payments = $48.9 million
+
+Lease payments for 2013 = $12.6 million
+
+Percentage of lease payments paid out in the first year = ($12.6 million / $48.9 million"
+finqa_7260,what is the total research and development for the year 2014 through 2016 in millions,0.005376344086021506,0.005376344086021506,1.0,1.0,"Based on the provided context documents:
+
+Document 1: 
+Research and development expense was $86 million for the year ended December 31, 2014.
+
+Document 1: 
+Research and development expense was $119 million for the year ended December 31, 2015.
+
+Document 1: 
+Research and development expense was $78 million for the year ended December 31, 2016.
+
+To find the total research and development expense for the year 2014 through 2016, we need to add the expenses for each year:
+
+$86 million (2014) + $119 million (2015) + $78 million (2016) = $283 million
+
+So, the total research and development expense for the year 2014 through 2016 is $283 million."
+finqa_6821,as of december 312012 what was the percent of the scheduled maturities of long term debt as part of the long term debt,0.296551724137931,0.006896551724137931,0.023255813953488372,0.0,"The information in the provided context documents does not explicitly state the scheduled maturities of long term debt as of December 31, 2012. However, we can find the information we need in Document 2 which states that the total scheduled maturities of long term debt as of December 31, 2011 was $77,724.
+
+To find the scheduled maturities of long term debt as of December 31, 2012, we need to find more information in the context documents. Document 2 does not provide this information."
+finqa_6895,what is the return on investment for s&p500 from 2007 to 2008?,0.0967741935483871,0.0967741935483871,1.0,0.0,"Unfortunately, the provided context documents do not contain information about the return on investment for the S&P 500 from 2007 to 2008.
+
+However, Document 3 provides a performance graph for Ball Corporation's cumulative total shareholder return, the Dow Jones Containers & Packaging Index, and the S&P Composite 500 Stock Index for the five-year period ended December 31, 2012. The graph assumes an initial investment of $100 on December 31, 2007, and reinvestment of dividends.
+
+Document 5 provides a similar performance graph for Entegris' cumulative total shareholder return, the S&P 500 Index, and the Dow Jones Transportation Average for the five-year period ended December 31, 2012. The graph assumes an initial investment of $100 on December 31, 2007, and reinvestment of dividends.
+
+Document 10 provides a performance graph for Entellus Medical's cumulative total stockholder return, the Nasdaq Composite Index (U.S. Companies), and the Nasdaq Medical Equipment-SIC Code 3840-3849 Index for the five-year period ended March 31, 2012. The graph assumes an initial investment of $100 on March 31, 2007, and reinvestment of dividends."
+finqa_6288,as of december 2007 what was the percent of the square footage in alpharetta georgia not yet leased,0.006711409395973154,0.006711409395973154,1.0,0.0,"To answer this question, we need to refer to Document 1. It states that all facilities are leased, except for 166,000 square feet of our office in Alpharetta, Georgia.
+
+This means that the 166,000 square feet in Alpharetta, Georgia is not leased. To find the percentage, we need to know the total square footage of the facilities in Alpharetta, Georgia, but unfortunately, that information is not provided in Document 1.
+
+However, we can still answer the question based on the given information: The 166,000 square feet is not leased, but we don't have enough information to calculate the percentage of the total square footage that is not leased."
+finqa_6757,"what was the percentage cumulative total shareholder return on discb common stock for the five year period ended december 31 , 2014?",0.0,0.0,0.0,1.0,"There is not enough information in the provided context documents to determine the percentage cumulative total shareholder return on DISCB common stock for the five year period ended December 31, 2014."
+finqa_6347,what is the return on investment for s&p500 from 2004 to 2006?,0.037383177570093455,0.08411214953271028,1.0,1.0,"The return on investment for S&P 500 from 2004 to 2006 is not mentioned in the provided context documents. However, Document 6 mentions the total return to stockholders for International Paper for the years 2004, 2005, and 2006, but it does not specifically mention the return on investment for S&P 500.
+
+However, Document 10 does mention the cumulative total return of the S&P Composite 500 stock index for the period from 2007 to 2012. It does not provide the return for the years 2004, 2005, and 2006 separately. 
+
+Additionally, Document 6 provides information about International Paper's investments in accounts receivable and inventory less accounts payable and accrued liabilities. It mentions that the increase in working capital components was $354 million in 2006, but it does not provide a return on investment for the S&P 500.
+
+Therefore, I am unable to provide the return on investment for S&P 500 from 2004 to 2006 based on the provided context documents."
+finqa_6985,what was the percent of the change in the company recorded and capitalized unrecognized tax benefits from 7 balance at december 31,0.02247191011235955,0.011235955056179775,0.5,1.0,"Based on the provided context, the balance of unrecognized tax benefits at December 31, 2018, was $29 million, and the balance at December 31, 2008, was $99 million. 
+
+To calculate the percent of the change, we'll need to determine the direction of the change (increase or decrease). Since $29 million is less than $99 million, the change is a decrease.
+
+The percent decrease can be calculated as:
+
+(( $99M - $29M ) / $99M ) * 100%
+= ( $70M / $99M ) * 100%
+= 70.71%
+
+Note: The values are approximate, as the actual values are in millions, but the calculation result will be the same as the percentage is the same."
+finqa_6937,"without the charge for the a/r securitization , what would cash flows provided by operating activities for all operations in 2010 have been ( in millions ) ?",0.025,0.01,0.4,1.0,"According to Document 2, cash flows provided by operating activities in 2010 included a use of $250 million related to a change in accounting for our accounts receivable securitization program. 
+
+If we were to exclude this $250 million, cash flows provided by operating activities for all operations in 2010 would have been $765.2 million (as stated in Document 2) plus $250 million, which is equal to $1.0152 billion."
+finqa_6696,what was the percentage change in inventories from 2015 to 2016?,0.048484848484848485,0.0,0.0,1.0,I don't have enough information to answer the question about the percentage change in inventories from 2015 to 2016. The provided context documents do not contain any information about inventories for the years 2015 and 2016.
+finqa_6538,"in 2001 , the company awarded how many total shares to employees?",0.011363636363636364,0.005681818181818182,0.5,0.0,"According to Document 3, in 2001, the company awarded 1,937,734 shares of common stock to employees. 
+
+Additionally, according to Document 1, in 2017, the company awarded 17,984 shares of restricted stock and 2,248 restricted stock units under the restricted stock plan for non-management directors. 
+
+However, the question asks for the number of shares awarded in 2001, so we can only consider the information from Document 3."
+finqa_6693,"what are the total market making revenues in the consolidated statements of earnings of 2017 , in billions?",0.004878048780487805,0.004878048780487805,1.0,1.0,$7.66 billion.
+finqa_6511,what was the percent change in net unrealized loss on available-for-sale securities between 2008 and 2009?,0.023121387283236993,0.005780346820809248,0.25,1.0,"According to Document 5:
+
+Net unrealized loss on available-for-sale securities
+- 2008: $ 5205 ( 5205 )
+- 2009: $ 1636 ( 1636 )
+
+To find the percent change, divide the change in the net unrealized loss by the original value and multiply by 100:
+
+((5205 - 1636) / 5205) * 100 = -68.6%
+
+So, the percent change in net unrealized loss on available-for-sale securities between 2008 and 2009 was a decrease of 68.6%."
+finqa_6327,what was total miles of private crude oil pipelines and private refined products pipelines?,0.006896551724137931,0.006896551724137931,1.0,1.0,"According to Document 1, the total miles of private crude oil pipelines and private refined products pipelines owned by the company are:
+
+- Private crude oil pipelines: 176 miles
+- Private refined products pipelines: 850 miles
+
+Therefore, the total miles of private crude oil pipelines and private refined products pipelines are 176 + 850 = 1026 miles."
+finqa_7176,was the fin 47 liability greater on december 31 2004 than december 31 2005?,0.15570934256055363,0.006920415224913495,0.044444444444444446,0.0,"According to Document 4: ""at the time of adoption, total assets increased $ 22 million and total liabilities increased $ 41 million.""
+
+Also from Document 4: ""a charge of $ 19 million, net of taxes of $ 12 million, related to adopting fin no. 47 was recognized as a cumulative effect of a change in accounting principle in 2005.""
+
+This indicates that the liability from adopting fin 47 increased by $ 19 million in 2005, after its adoption in 2005. 
+
+However, Document 4 does not provide information about the total liabilities on December 31, 2004, and December 31, 2005. 
+
+Since we don't have enough information about the total liabilities on December 31, 2004, and December 31, 2005, we cannot determine if the fin 47 liability was greater on December 31, 2004 than December 31, 2005."
+finqa_6584,what is the average size ( in square feet ) of call centers in 2017?,0.0,0.0,0.0,1.0,The context documents do not mention the average size of call centers in 2017.
+finqa_7115,what is the percentage in total assets in 2014?,0.0,0.0,0.0,1.0,"The information in the provided context documents does not specify the total assets in 2014. However, there is an excerpt of the context document ( Document 3 ) which mentions that the term of the obligation, based on the expected retirement dates of the workforce, is approximately seven years but ( Document 5 ) states that the term of the obligation is approximately eight years and ( Document 7 ) mentions December 31, 2012 but none of the context documents mention the year 2014."
+finqa_7366,what percent of total route miles are main line in 2006?,0.029585798816568046,0.0,0.0,1.0,"Unfortunately, the given documents do not provide the information on what percentage of total route miles are main line in 2006."
+finqa_6308,in november 2005 what was the percent of the stock issue costs to the company proceeds,0.017699115044247787,0.004424778761061947,0.25,1.0,"According to Document 1, in November 2005, the company received proceeds of $ 112.7 million net of $ 10.8 million in stock issue costs. 
+
+To find the percent, we need to divide the stock issue costs by the company proceeds and multiply by 100.
+
+($ 10.8 million / $ 112.7 million) * 100 = 9.6%
+
+So, the stock issue costs were 9.6% of the company proceeds in November 2005."
+finqa_7294,what was the 5 year total return for jkhy?,0.05,0.0,0.0,1.0,"Unfortunately, I am unable to verify the 5-year total return for Jack Henry & Associates (JKHY) from the provided context documents."
+finqa_7393,what is the roi of an investment in nasdaq composite index from march 2007 to march 2010?,0.30666666666666664,0.06666666666666667,0.21739130434782608,0.0,"The ROI (Return on Investment) can be calculated using the information from Document 1. The document states that the investment is assumed to be $100 in the Nasdaq Composite Index and that dividends are reinvested.
+
+To calculate the ROI, we need to know the value of the investment at the beginning and end of the period.
+
+The beginning of the period is March 31, 2007, and the end of the period is March 31, 2010. However, the document only provides the data up to the last five full fiscal years, which are from 2007 to 2011.
+
+Assuming the ROI is calculated from March 31, 2007, to March 31, 2011, we can use the data from the graph to estimate the ROI.
+
+From the graph, we can see that the cumulative total return of the Nasdaq Composite Index at the end of 2011 is approximately $175. This means that an investment of $100 at the beginning of the period (March 31, 2007) would be worth $175 at the end of the period (March 31, 2011).
+
+To calculate the ROI, we can use the formula:
+
+ROI = ((Ending value - Beginning value) / Beginning"
+finqa_6876,"in 2013 , was the percentage of our u.s . crude oil and condensate production that was sweet higher than 2012 ?",0.01020408163265306,0.00510204081632653,0.5,1.0,"According to Document 1, ""in 2013, the percentage of our u.s. crude oil and condensate production that was sweet averaged 76 percent compared to 63 percent and 42 percent in 2012 and 2011."" Therefore, in 2013, the percentage of our u.s. crude oil and condensate production that was sweet was higher than 2012."
+finqa_7298,in 2012 what was the percent change in the number of shares that was not vested,0.04205607476635514,0.028037383177570093,0.6666666666666666,0.0,"The context documents do not directly provide the percent change in the number of shares that was not vested in 2012. However, I can try to find some relevant information that might be helpful.
+
+From Document 7, we can see that the company had a total of 12.9 million shares remaining available for award under incentive shares plans as of September 30, 2017.
+
+From Document 9, we can see that as of December 31, 2016, there were 71272964 treasury shares that were changed to authorized and unissued, and the number of issued shares was reduced by the stated amount.
+
+However, I do not have enough information to calculate the percent change in the number of shares that was not vested in 2012.
+
+The closest information I can find is from Document 9, which mentions that as of December 31, 2016, the remaining authorized purchase capacity of the share repurchase program was $451.7 million. However, this information does not provide any information about the number of shares that was not vested in 2012.
+
+Therefore, I must say that the context documents do not provide enough information to answer the question."
+finqa_6274,of the total contractual obligations and off-balance sheet arrangements contractual obligations what percentage is due to capital lease obligations?,0.6164383561643836,0.19863013698630136,0.32222222222222224,0.0,"Based on the provided context, it is not possible to calculate the percentage of total contractual obligations and off-balance sheet arrangements contractual obligations that are due to capital lease obligations.
+
+However, I can calculate the total contractual obligations and off-balance sheet arrangements contractual obligations.
+
+Document 1: 
+Total contractual obligations after millions of dollars: 
+2010    2011    2012    2013    2014    2014 Other 
+Total   5,000   4,500   4,000   3,500   3,000   500 
+
+Document 6: 
+contractual obligations the following table includes aggregated information about citigroup's contractual obligations that impact its short- and long-term liquidity and capital needs. the table includes information about payments due under specified contractual obligations, aggregated by type of contractual obligation. it includes the maturity profile of citigroup's consolidated long-term debt, leases and other long-term liabilities. 
+
+Document 7: 
+contractual obligations we have entered into contracts with various third parties in the normal course of business which will require future payments. the following table illustrates our contractual obligations (in millions): 
+contractual obligations total 2010 thereafter
+Total   135,000   120,000"
+finqa_6444,what was the difference in the companies high compared to its low sales price for the fourth quarter of 2001?,0.0047169811320754715,0.0047169811320754715,1.0,1.0,"Unfortunately, I have to say that the context documents do not contain enough information to answer the question about the difference in the company's high and low sales prices for the fourth quarter of 2001.
+
+Document 3 mentions that information about the high and low sales prices for the common stock as reported in the consolidated transaction reporting system is set forth in ""2018 2018selected quarterly financial data ( unaudited ) 2019 2019"" on page f-41, but it does not provide the actual data for the fourth quarter of 2001."
+finqa_6624,what was the percentage change in cash flows provided by ( used in ) operating activities including discontinued operations between 2009 and 2010?,0.04918032786885246,0.00819672131147541,0.16666666666666666,1.0,"Based on Document 1, the cash flows provided by (used in) operating activities including discontinued operations in 2010 was $515.2 million and in 2009 was $559.7 million.
+
+To find the percentage change, we will use the formula: 
+
+((New Value - Old Value) / Old Value) * 100
+
+Plugging in the values, we get:
+
+((515.2 - 559.7) / 559.7) * 100
+= (-44.5 / 559.7) * 100
+= -7.94%
+
+So, the percentage change in cash flows provided by (used in) operating activities including discontinued operations between 2009 and 2010 was a decrease of approximately 7.94%."
+finqa_6691,what was the percent of the change of the weighted-average fair value at grant date from 2008 to 2009,0.07975460122699386,0.0736196319018405,0.9230769230769231,0.0,"To determine the percent of the change of the weighted-average fair value at grant date from 2008 to 2009, we need to find the weighted-average fair value at grant date for 2008 and 2009.
+
+Document 1 mentions that the fair value was estimated on the date of grant using the black-scholes pricing model with the weighted-average assumptions indicated below for 2008 and 2009.
+
+However, the actual numbers for 2008 and 2009 are not provided in Document 1. 
+
+We see in Document 5 that the weighted-average fair value of restricted stock granted during the year for 2008 and 2009 are provided as $28269983 and $21768084, respectively."
+finqa_6736,what was the percentage decline in the operating loss from 2007 to 2008,0.012738853503184714,0.012738853503184714,1.0,0.0,"To answer your question, we need to find the operating loss for both 2007 and 2008 in the given documents.
+
+Document 1 states: ""the segment 2019s net sales were negatively impacted by the segment 2019s limited product offerings in critical market segments, particularly 3g products, as well as very low-tier products. in addition, the segment 2019s net sales were impacted by the global economic downturn in the second half of 2008, which resulted in the slowing of end user demand.""
+
+It also states: ""in 2008, the segment incurred an operating loss of $ 2.2 billion in 2008, compared to an operating loss of $ 1.2 billion in 2007.""
+
+So, the operating loss increased from $1.2 billion in 2007 to $2.2 billion in 2008.
+
+To find the percentage decline, we need to subtract the 2008 operating loss from the 2007 operating loss and divide it by the 2007 operating loss, then multiply by 100 to get the percentage.
+
+Percentage decline = ((2.2 - 1.2) / 1.2) * 100
+Percentage decline = (1 / 1"
+finqa_6724,"what is total intangible asset amortization expense ( millions ) for the years ended december 31 , 2018 , 2017 and 2016?",0.018518518518518517,0.018518518518518517,0.5,0.0,"Based on the provided context documents, I found the following information about total intangible asset amortization expense:
+
+- For the year ended December 31, 2018: $ 13.5 million (from Document 6)
+- For the year ended December 31, 2017: $ 192 million (from Document 5, but this is for other intangible assets, not total intangible assets. However, this value is likely close to the actual total intangible asset amortization expense for 2017. Document 1 mentions $ 4 million for intangible asset amortization expense for 2017. So, $ 192 million might be the value for other intangible assets, and the actual total intangible asset amortization expense is likely $ 4 million + $ 192 million - $ 12 million (for the years ended December 31, 2018, 2017 and 2016)  / 3 = $ 52 million for the year ended December 31, 2017. However, I am unable to find a value for $ 52 million. Therefore, I will use $ 4 million for the year ended December 31, 2017, as mentioned in Document 1.
+- For the"
+finqa_6565,what is the difference between the statutory u.s . rate and the effective income tax rate in 2017?,0.022988505747126436,0.017241379310344827,0.75,0.0,"Unfortunately, the context documents do not provide the information on the effective tax rate for 2017. However, Document 4 provides the statutory U.S. federal income tax rate for 2017, which was 21% (21%).
+
+To calculate the difference between the statutory rate and the effective rate, we would need the effective tax rate for 2017, which is not provided in the context documents."
+finqa_6662,what is the percentual increase in the balance during the year 2007?,0.13333333333333333,0.025,0.1875,0.0,"Based on the information provided in Document 7, the unfavorable movement in core working capital during 2006 was related to trade payables performance and higher inventory balances. However, it does not provide the percentual increase in the balance during the year 2007.
+
+However, it does provide the percentual increase in the trade payables balance in 2005, which was 22% (22%) from a historically-low level at the end of 2004.
+
+And it also provides that the opportunity to reduce inventory from year-end 2006 levels could represent a source of operating cash flow during 2007.
+
+Therefore, I can not provide the percentual increase in the balance during the year 2007 based on the information provided."
+finqa_6485,"what is the total fair value of the non-vested performance awards at beginning of year , ( in thousands ) ?",0.1259259259259259,0.007407407407407408,0.058823529411764705,0.0,"Unfortunately, the provided context documents do not contain the information about the total fair value of the non-vested performance awards at the beginning of the year.
+
+However, Document 8 provides information about the unrecognized compensation cost related to non-vested performance awards as of 2012 year end, which is approximately $ 14.1 million."
+finqa_7219,"in 2012 , are the planned capital expenditures greater than free cash flow in 2011?",0.014084507042253521,0.014084507042253521,1.0,1.0,"To answer the question, we need to find the planned capital expenditures in 2012 and the free cash flow in 2011.
+
+From Document 7: ""In 2012, we plan to make total capital investments of approximately $ 3.6 billion...""
+
+From Document 2: ""Cash generated by operating activities totaled $ 5.9 billion, yielding record free cash flow of $ 1.9 billion in 2011.""
+
+Since the planned capital expenditures in 2012 are $ 3.6 billion and the free cash flow in 2011 is $ 1.9 billion, the planned capital expenditures in 2012 are greater than the free cash flow in 2011."
+finqa_6638,what was the percent of the total noncancelable future lease commitments for operating leases that was due in 2020,0.13548387096774195,0.0,0.0,1.0,I am unable to answer the question as the percent of the total noncancelable future lease commitments for operating leases that was due in 2020 is not stated in the provided context documents.
+finqa_6360,what was the decrease in rental expense ( millions ) for operating leases in continuing operations from 2003 to 2003?,0.0,0.0,0.0,1.0,I cannot verify any information regarding rental expense from continuing operations for 2003 and 2003.
+finqa_6429,what were total distillates sales in millions for the three year period ? 365 346 345,0.0,0.0,0.0,1.0,There is no information provided about distillates sales in any of the documents.
+finqa_6271,what was the percentage change in the commercial mortgage loans designated for sale at fair value from 2008 to 2009,0.010810810810810811,0.005405405405405406,0.5,0.0,"The information regarding commercial mortgage loans designated for sale at fair value is not available in the provided documents for the year 2009. However, it is mentioned in Document 1 that commercial mortgage loans held for sale designated at fair value were stopped originating in 2008."
+finqa_6797,what is the percentage change in total assets in 2012?,0.0,0.0,0.0,1.0,"Unfortunately, the provided context does not mention the percentage change in total assets in 2012."
+finqa_6776,what portion of the ati 7.25% ( 7.25 % ) notes was paid off during 2006?,0.009900990099009901,0.009900990099009901,1.0,1.0,"According to Document 1: ""during the year ended december 31 , 2006 , the company repurchased in privately negotiated transactions $ 74.9 million principal amount of ati 7.25% ( 7.25 % ) notes for $ 77.3 million in cash.""
+
+This implies that $74.9 million of the ATI 7.25% (7.25%) notes was paid off during 2006."
+finqa_6906,"what was the percentage decline in recorded international slot and route authorities to $ 708 million from $ 736 million as of december 31 , 2010 and 2009 , respectively .",0.008403361344537815,0.004201680672268907,0.5,1.0,"To find the percentage decline, we need to first find the difference between the two values, and then divide that by the original value.
+
+The difference between the two values is: $736 million - $708 million = $28 million
+
+Now, divide the difference by the original value: ($28 million / $736 million) * 100 = 3.8%
+
+So, the percentage decline in recorded international slot and route authorities to $708 million from $736 million as of December 31, 2010, and 2009, respectively, is 3.8%."
+finqa_7023,"what was the average cost per locomotive for the october 15 , 2009 purchase by the railroad?",0.006172839506172839,0.006172839506172839,1.0,1.0,"The provided documents do not mention any locomotive purchase by the railroad on October 15, 2009. 
+
+Document 1 mentions ""purchase obligations include locomotive maintenance contracts; purchase commitments for ties, ballast, and rail; and agreements to purchase other goods and services."" However, it does not provide information on the cost of a specific locomotive purchase.
+
+Document 8 mentions ""acquisitions in fiscal 2006, the company acquired substantially all the outstanding stock of privately-held integrant technologies, inc. (integrant) of seoul, korea."" However, it does not mention anything about the purchase of locomotives.
+
+Document 7 mentions ""lease obligations related to discontinued operations and businesses held for sale"" but does not provide any information on locomotive purchases.
+
+Therefore, I cannot provide an answer to the question based on the provided documents."
+finqa_7084,what is the total return if $ 100000 are invested in fidelity national information system in 12/11 and sold in 12/16?,0.0967741935483871,0.0967741935483871,1.0,1.0,"Unfortunately, the context documents do not contain enough information to calculate the total return of an investment of $100,000 in Fidelity National Information Services, Inc. from 12/11 to 12/16.
+
+However, Document 2 provides information on the cumulative 5-year total shareholder return on common stock, which assumes a $100 investment from 12/31/2011 to 12/31/2016. This information might be useful to estimate the total return, but it is not directly applicable to an investment of $100,000.
+
+To calculate the total return, we would need more information on the dividends paid out during this period, as well as the stock price at the beginning and end of the period."
+finqa_6893,what was the percentage growth of the 5 year- cumulative total return for the 2018 peer group from 2016 to 2017,0.6621621621621622,0.0,0.0,1.0,There is insufficient information in the provided documents to determine the percentage growth of the 5-year cumulative total return for the 2018 peer group from 2016 to 2017.
+finqa_7183,what was the ratio of the after tax gains of in 2004 compared to 2003 in dollars,0.005154639175257732,0.005154639175257732,1.0,1.0,"To find the ratio of the after-tax gains in 2004 compared to 2003, we need to look at the relevant information in the context documents.
+
+According to Document 1, the after-tax gains from the sale of properties in 2004 were $16.5 million, and in 2003, they were $9.6 million.
+
+To find the ratio, we can divide the after-tax gains in 2004 by the after-tax gains in 2003:
+
+$16.5 million (2004) ÷ $9.6 million (2003) ≈ 1.72
+
+So, the after-tax gains in 2004 were approximately 1.72 times the after-tax gains in 2003."
+finqa_6281,in 2015 what was the percent of the total operating revenues associated with agriculture products,0.0,0.0,0.0,1.0,There is no information in the provided context documents about the percentage of total operating revenues associated with agriculture products for 2015.
+finqa_6439,what amount did the compensation committee put into the maximum performance pool between jan 1 2006 and dec 31 2007?,0.012396694214876033,0.0,0.0,1.0,There is not enough information in the provided context documents to answer the question.
+finqa_6601,"what is the total fair value of non-vested shares as of may 31 , 2010?",0.2032520325203252,0.2764227642276423,1.0,0.0,"Unfortunately, the provided context documents do not directly answer the question about the total fair value of non-vested shares as of May 31, 2010. However, we can make an estimation by combining information from Document 6 and Document 2.
+
+From Document 6, we know that as of May 31, 2010, there was $21.1 million of total unrecognized compensation cost related to unvested restricted stock awards that is expected to be recognized over a weighted average period of 2.5 years.
+
+From Document 2, we know that as of May 31, 2010, the grant date fair value of restricted stock awards was not directly provided, but the total fair value of share awards vested during the years ended May 31, 2010, 2009, and 2008 was $12.4 million, $6.2 million, and $4.1 million, respectively.
+
+We also know from Document 6 that the grant date fair value of restricted stock awards is based on the quoted fair market value of Snap-on's common stock at the award date.
+
+Since we are looking for the total fair value of non-vested shares as of May 31, 2010, we can assume that"
+finqa_7255,what was the total pretax gains in millions for the sale so mastercard shares from 2006 to 2007?,0.011235955056179775,0.011235955056179775,1.0,1.0,"According to Document 1, the gain on the sale of approximately 4.9 million Mastercard class B shares was $581 million (pretax). 
+
+Document 2 does not provide any additional information about the sale of Mastercard shares. 
+
+Therefore, the total pretax gains for the sale of Mastercard shares from 2006 to 2007 is $581 million."
+finqa_7300,what was the percentage change in collateral posted from 2012 to 2013?,0.09554140127388536,0.09554140127388536,1.0,0.0,"Unfortunately, the provided context does not contain enough information to answer the question regarding the percentage change in collateral posted from 2012 to 2013. However, we can see in Document 9 that there was a change in the level of collateralized agreements from 2012 to 2013. 
+
+As of December 2013, collateralized agreements of $ 48.07 billion increased from 2012. However, we cannot calculate the exact percentage change without knowing the value of collateralized agreements in 2012."
+finqa_7062,"what is the total value , in millions of dollars , of issuable long-term securities?",0.3422818791946309,0.06040268456375839,0.11764705882352941,0.0,"Based on the provided context documents, I found the following information related to the total value of issuable long-term securities.
+
+Document 4 mentions that Sysco had a total long-term debt of approximately $ 1,669,999,000 at July 1, 2006.
+
+Document 9 mentions that the company's credit facility has an aggregate commitment amount of $ 4.0 billion.
+
+Document 10 mentions that Marathon Oil Corporation's board of directors has authorized the repurchase of up to $ 5 billion of common stock.
+
+However, I did not find any information on the total value of issuable long-term securities in the provided context documents. If you could provide more context or clarify your question, I may be able to provide a more accurate answer."

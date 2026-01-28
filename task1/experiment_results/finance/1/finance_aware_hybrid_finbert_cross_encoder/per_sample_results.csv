@@ -1,0 +1,41 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+finqa_6345,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,0.2303370786516854,0.0,0.0,1.0,The rate of return in Cadence Design Systems Inc. of an investment from 2010 to 2011 cannot be determined from the provided context.
+finqa_7055,what is the ratio of the total american personnel to us airways personnel,0.9385964912280702,0.0,0.0,0.0,"To find the ratio of the total American personnel to US Airways personnel, we need to sum up the personnel for American and US Airways from all the provided documents.
+
+From Document 1, we have:
+- American: 61,600 + 32,800 + 18,900 = 113,300
+- US Airways: 4400
+
+From Document 3, we have:
+- American: 101,500 + 20,800 = 122,300
+- US Airways: 4400
+
+From Document 5, we have:
+- American: Not specified in the document.
+- US Airways: Not specified in the document.
+
+However, in Document 5, we see that the table provided in Document 5 is not necessary to calculate the ratio as we already have the required numbers from Document 1 and Document 3.
+
+From the provided documents, we will use the numbers from Document 1 and Document 3. 
+
+To find the ratio, we will divide the total number of American personnel by the total number of US Airways personnel.
+
+Total American personnel: 113,300 + 122,300 = 235,600
+Total US Airways personnel: 4400 + 4400 = 8800
+
+Now, we can find"
+finqa_6634,what portion of total assets acquired of anios are intangible assets?,0.7083333333333334,0.075,0.10588235294117647,0.0,"To find the portion of total assets acquired of Anios that are intangible assets, we need to refer to Document 2. In Document 2, we see that the components of the cash paid for Anios are shown in the following table:
+
+However, the total assets acquired of Anios are not explicitly stated in Document 2. We need to refer to the table in Document 2 that shows the total consideration of $798.3 million for the Anios acquisition, but it does not mention the total assets acquired.
+
+However, we can refer to Document 4 which mentions the total assets acquired of Anios. Document 4 presents a table that includes the total assets acquired of Anios as ""$19427"" (in millions). 
+
+The table in Document 4 also includes the ""customer-related intangible assets"" as $4091 (in millions). 
+
+To find the portion of total assets acquired that are intangible assets, we can divide the ""customer-related intangible assets"" ($4091) by the total assets acquired ($19427) and multiply by 100. 
+
+The calculation would be: ($4091 ÷ $19427) x 100 = 21%.
+
+Therefore, the portion of total assets acquired of Anios that are intangible"
+finqa_6587,what is the five year total return on the goldman sachs group inc.?,0.9663865546218487,0.01680672268907563,0.017391304347826087,1.0,"Unfortunately, there is no specific information provided in the documents about the 5-year total return on the Goldman Sachs Group, Inc. These documents appear to be annual reports and notes to consolidated financial statements, which include various financial information, but not specifically the 5-year total return on the company's stock."
+finqa_7027,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,0.0,0.0,0.0,0.0,"However, I don't see any information on the total carrying amount of goodwill for 2016 and 2017 in the provided context documents."

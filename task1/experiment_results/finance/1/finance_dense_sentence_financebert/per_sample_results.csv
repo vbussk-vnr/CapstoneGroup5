@@ -1,0 +1,52 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+finqa_6345,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,0.08870967741935484,0.0,0.0,1.0,"Unfortunately, I do not have enough information in the documents to provide the rate of return in cadence design systems inc. of an investment from 2010 to 2011."
+finqa_7055,what is the ratio of the total american personnel to us airways personnel,0.018633540372670808,0.018633540372670808,1.0,0.0,"The information to answer this question is located in Document 2.
+
+However, the total personnel for American and US Airways is mentioned but there is no information to calculate the ratio between the two.
+
+The table in Document 2 reads: 
+""american us airways wholly-owned regional carriers total.""
+
+The numbers for each is as follows:
+ 
+- American: Not provided 
+- US Airways: Not provided 
+- Wholly-owned regional carriers: Not provided 
+- Total: Not provided"
+finqa_6634,what portion of total assets acquired of anios are intangible assets?,0.03067484662576687,0.018404907975460124,0.6,0.0,"Based on the context documents, we need to find the information related to the Anios acquisition in Document 1. 
+
+From Document 1, under the Anios Acquisition on February 1, 2017, it is mentioned that: ""the customer relationships and acquired technologies of both acquisitions were identified as valuable intangible assets by an independent valuation firm and assigned an estimated life of 20 years by the company based on the valuation firm's estimates.""
+
+However, it does not provide the exact portion of total assets acquired that are intangible assets. But from Document 2, it mentions that ""the customer relationships and acquired technologies of both acquisitions were identified as valuable intangible assets by an independent valuation firm and assigned an estimated life of 20 years by the company based on the valuation firm's estimates.""
+
+From Document 1, under the Components of the Cash Paid for Anios, it shows the cash paid for Anios and the components of such cash. However, it does not provide the portion of total assets acquired that are intangible assets.
+
+From Document 4, it is mentioned that ""the $ 123 million of acquired amortizable intangible assets includes..."". But this is related to a different acquisition.
+
+Unfortunately, we cannot find the exact portion of total assets acquired that are intangible assets for Anios from the provided context documents."
+finqa_6587,what is the five year total return on the goldman sachs group inc.?,0.29411764705882354,0.3333333333333333,1.0,0.0,"Unfortunately, the provided context documents do not contain enough information to provide a direct answer to the question of the five-year total return on the Goldman Sachs Group, Inc. However, we can infer some information from the documents.
+
+Document 1 mentions the cumulative total returns of Goldman Sachs' common stock from December 26, 2008 to December 31, 2013, but it does not explicitly state the five-year total return.
+
+Document 7 mentions the five-year cumulative total stockholder return on Goldman Sachs' common stock from December 26, 2008 to December 28, 2013, which is based on the market price of the common stock. However, it does not provide the actual total return value.
+
+Document 8 is not relevant to Goldman Sachs, as it discusses Snap-on Inc.'s performance.
+
+Document 9 is also not relevant, as it discusses Snap-on Inc.'s performance.
+
+Document 10 discusses CME Group Inc.'s performance, which is not relevant to Goldman Sachs.
+
+Document 6 mentions the five-year total return of Goldman Sachs' common stock for the period ended December 31, 2009, but it does not provide the five-year total return for the entire period.
+
+Document 4 mentions the total AUM inflows/outflows for Goldman Sachs for 2017, but it does not provide the five-year total return.
+
+Document 5 mentions a summary of Level 3 financial assets, but it does not provide the five-year total return.
+
+Document 3 mentions the cumulative total stockholder return for Goldman Sachs' common stock for the last five full fiscal years, but it does not provide the five-year total return.
+
+Document 2 mentions the total return of Goldman Sachs' common stock for the five years ended December 31, 2014, but it does not provide the five-year total return.
+
+Document 1 provides the cumulative total returns of Goldman Sachs' common stock from December 26, 2008 to December 31, 2013. Based on this information, it is possible to calculate the five-year total return, but it would require additional calculations and assumptions.
+
+Therefore, I cannot provide a direct answer to the question of the five-year total return on the Goldman Sachs Group, Inc."
+finqa_7027,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,0.017777777777777778,0.017777777777777778,1.0,1.0,The answer cannot be determined with the provided context.

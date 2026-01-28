@@ -1,0 +1,11 @@
+{
+  "name": "finance_dense_sentence_financebert",
+  "domain": "finance",
+  "subset": "finqa",
+  "chunking_strategy": "semantic",
+  "embedding_model": "FinLang/finance-embeddings-investopedia",
+  "retrieval_type": "sparse",
+  "top_k_final": 10,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.3
+}

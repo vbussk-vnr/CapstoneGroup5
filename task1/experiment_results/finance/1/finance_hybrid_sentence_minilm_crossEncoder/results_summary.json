@@ -1,0 +1,73 @@
+{
+  "config": {
+    "name": "finance_hybrid_sentence_minilm_crossEncoder",
+    "domain": "finance",
+    "subset": "finqa",
+    "chunking_strategy": "sentence_based",
+    "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "retrieval_type": "hybrid",
+    "top_k_final": 10,
+    "use_cross_encoder": true,
+    "hybrid_alpha": 0.3
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.21807418115467184,
+      "aucroc": null,
+      "mean_predicted": 0.10611435397896245,
+      "mean_ground_truth": 0.08437109118085245,
+      "std_predicted": 0.19405423046523265,
+      "std_ground_truth": 0.09803085289608306
+    },
+    "utilization_score": {
+      "rmse": 0.11167386118072709,
+      "aucroc": null,
+      "mean_predicted": 0.03085860720962984,
+      "mean_ground_truth": 0.061467588289800076,
+      "std_predicted": 0.0896794517155482,
+      "std_ground_truth": 0.05421133093201152
+    },
+    "completeness_score": {
+      "rmse": 0.6187766353422312,
+      "aucroc": null,
+      "mean_predicted": 0.5395334906501597,
+      "mean_ground_truth": 0.8694999999999999,
+      "std_predicted": 0.4154045779038444,
+      "std_ground_truth": 0.2763759014257373
+    },
+    "adherence_score": {
+      "rmse": null,
+      "aucroc": 0.5194075587334015,
+      "mean_predicted": 0.58,
+      "mean_ground_truth": 0.89,
+      "std_predicted": 0.49355850717012273,
+      "std_ground_truth": 0.31288975694324034
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.10611435397896245,
+      "std": 0.19405423046523265,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "utilization_score": {
+      "mean": 0.03085860720962984,
+      "std": 0.0896794517155482,
+      "min": 0.0,
+      "max": 0.7936507936507936
+    },
+    "completeness_score": {
+      "mean": 0.5395334906501597,
+      "std": 0.4154045779038444,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "adherence_score": {
+      "mean": 0.58,
+      "std": 0.49355850717012273,
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}

@@ -1,0 +1,62 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+finqa_6345,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,0.043010752688172046,0.0,0.0,1.0,"Unfortunately, the information to answer this question is not available in the provided documents."
+finqa_7055,what is the ratio of the total american personnel to us airways personnel,0.10344827586206896,0.017241379310344827,0.16666666666666666,1.0,"To find the ratio of the total American personnel to US Airways personnel, we need to find the total personnel for both companies.
+
+From Document 2:
+
+- Total American personnel: 61,600
+- Total US Airways personnel: 32,800
+
+Now, let's divide the total American personnel by the total US Airways personnel to find the ratio:
+
+61,600 / 32,800 ≈ 1.88
+
+So, the ratio of the total American personnel to US Airways personnel is approximately 1.88:1."
+finqa_6634,what portion of total assets acquired of anios are intangible assets?,0.4444444444444444,0.1111111111111111,0.25,0.0,"To determine the portion of total assets acquired that are intangible assets, we need to find the total amount of intangible assets and the total amount of assets acquired for Anios. 
+
+However, since Anios is not explicitly mentioned in the provided documents, we will consider the information available for other companies. 
+
+Document 1 does not contain information about Anios, but Document 2 mentions total assets acquired ($1706 million) and the specific intangible assets, which include goodwill ($247 million) and amortizable intangible assets ($123 million). 
+
+However, Document 2 does not provide the total intangible assets acquired. Therefore, we cannot calculate the portion of total assets acquired that are intangible assets using the information from Document 2.
+
+Document 4 mentions that the total assets acquired by News Corporation were $473.6 million, and the total identifiable intangible assets were $511.7 million (goodwill). However, the total intangible assets also include customer relationships ($252.0 million), trademarks ($65.7 million), and other technology ($16.1 million). 
+
+The total intangible assets can be calculated as $252.0 + $65.7 + $16.1 + $511.7 = $845.5 million.
+
+Now"
+finqa_6587,what is the five year total return on the goldman sachs group inc.?,0.23809523809523808,0.07142857142857142,0.3,0.0,"Based on the provided context, I will attempt to answer the question. 
+
+Document 5 provides the following data on the performance of Goldman Sachs' common stock compared to the S&P 500 index and the S&P 500 financials index:
+
+| Date | Goldman Sachs Group Inc. | S&P 500 Index | S&P 500 Financials Index |
+| --- | --- | --- | --- |
+| Dec-08 | $100.00 | $100.00 | $100.00 |
+| Dec-09 | $224.98 | $130.93 | $124.38 |
+| Dec-10 | $226.19 | $150.65 | $139.47 |
+| Dec-11 | $123.05 | $153.83 | $115.67 |
+| Dec-12 | $176.42 | $178.42 | $148.92 |
+| Dec-13 | $248.36 | $236.20 | $201.92 |
+
+To calculate the five-year total return, we can calculate the cumulative total returns for the period from December 26, 2008 to December 31, 2013.
+
+The initial investment is $100. The cumulative total return is calculated as follows:
+
+- December 26"
+finqa_7027,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,0.012345679012345678,0.012345679012345678,1.0,0.0,"To determine the percentage change in the total carrying amount of goodwill from 2016 to 2017, we need to first identify the total carrying amount of goodwill for both years.
+
+From Document 10, the balance at the beginning of 2016 is $46.7 million and the balance at the end of 2016 is $44.0 million.
+
+However, Document 10 only provides the balance at the beginning and end of each year, not the total carrying amount of goodwill. The total carrying amount of goodwill is also not explicitly stated in any other document.
+
+However, we can infer that the total carrying amount of goodwill for 2017 is $38.9 million because it is the balance at the end of 2016 and the balance at the end of 2017 ($34.3 million) is lower, indicating that some goodwill was impaired or written off.
+
+To calculate the percentage change in the total carrying amount of goodwill from 2016 to 2017, we can use the formula:
+
+((New Value - Old Value) / Old Value) x 100
+
+Plugging in the values, we get:
+
+((38.9 - 44.0) / 44.0) x 100 = -11.7%
+
+So,"

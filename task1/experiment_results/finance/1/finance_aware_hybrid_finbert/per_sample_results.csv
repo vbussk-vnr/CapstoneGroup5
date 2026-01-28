@@ -1,0 +1,57 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+finqa_6345,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,0.03225806451612903,0.03225806451612903,1.0,0.0,"I cannot locate the specific information to answer your question. 
+
+However, I can help you find the answer by looking at Document 5: 
+performance graph the table below compares the cumulative total shareholder return on our common stock with the cumulative total return of ( i ) the standard & poor's 500 composite stock index ( ""s&p 500 index"" ) , ( ii ) the standard & poor's industrials index ( ""s&p industrials index"" ) and ( iii ) the standard & poor's consumer durables & apparel index ( ""s&p consumer durables & apparel index"" ) , from december 31 , 2012 through december 31 , 2017 , when the closing price of our common stock was $ 43.94 . the graph assumes investments of $ 100 on december 31 , 2012 in our common stock and in each of the three indices and the reinvestment of dividends . the table below sets forth the value , as of december 31 for each of the years indicated , of a $ 100 investment made on december 31 , 2012 in each of our common stock , the s&p 500 index , the s&p industrials index and the s&p consumer durables & apparel index and includes the rein"
+finqa_7055,what is the ratio of the total american personnel to us airways personnel,0.29770992366412213,0.29770992366412213,1.0,0.0,"To find the ratio of total American personnel to US Airways personnel, we need to find the total number of American personnel and the number of US Airways personnel from the provided documents.
+
+From Document 5, we can find the total number of personnel for American Airlines:
+
+["""", ""mainline operations"", ""wholly-owned regional carriers"", ""total""], 
+[""pilots and flight crew training instructors"", ""13400"", ""3400"", ""16800""], 
+[""flight attendants"", ""24700"", ""2200"", ""26900""], 
+[""maintenance personnel"", ""14900"", ""2000"", ""16900""], 
+[""fleet service personnel"", ""16600"", ""3500"", ""20100""], 
+[""passenger service personnel"", ""15900"", ""7100"", ""23000""], 
+[""administrative and other"", ""16000"", ""2600"", ""18600""], 
+[""total"", ""101500"", ""20800"", ""122300""]
+
+The total number of American personnel is 122300.
+
+From Document 4, we can find the total number of personnel for US Airways:
+
+However, there is no direct information available about the number of US Airways personnel. 
+
+But we know that American Airlines acquired US Airways in 201"
+finqa_6634,what portion of total assets acquired of anios are intangible assets?,0.2777777777777778,0.2962962962962963,1.0,1.0,"To find the portion of total assets acquired of Anios that are intangible assets, we need to refer to Document 2. In this document, the total assets acquired of Anios are $473.6 million, and the identifiable intangible assets are $252.0 million (for customer relationships), $65.7 million (for trademarks), and $16.1 million (for other technology). 
+
+The total value of these intangible assets is $252.0 + $65.7 + $16.1 = $333.8 million.
+
+The portion of total assets acquired that are intangible assets is then calculated as:
+(intangible assets / total assets acquired) * 100%
+= ($333.8 / $473.6) * 100%
+= 70.5%
+
+So, approximately 70.5% of the total assets acquired of Anios are intangible assets."
+finqa_6587,what is the five year total return on the goldman sachs group inc.?,0.6666666666666666,0.6666666666666666,1.0,0.0,"Based on the provided context documents, I can find information about the total return on Goldman Sachs Group Inc. for a period of five years in Documents 2 and 4.
+
+Document 2 compares the annual total return of Goldman Sachs Group Inc.'s common stock, the S&P 500 index, and a peer group for the five years ended December 31, 2009. However, it does not provide the information for a period ending in 2014.
+
+Document 4 compares the total return to stockholders of Goldman Sachs Group Inc. with the returns of the S&P 500 index and a peer group for the five years ended December 31, 2014. 
+
+However, I can't find the exact five-year total return for Goldman Sachs Group Inc. in the provided context documents."
+finqa_7027,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,0.9294117647058824,0.0,0.0,0.0,"The information needed to answer the question can be found in Document 2, Document 9, and Document 8.
+
+Document 2 does not provide the total carrying amount of goodwill for 2016 or 2017.
+
+Document 8 does not provide the total carrying amount of goodwill for 2016 or 2017.
+
+Document 9 does not provide the total carrying amount of goodwill for 2016 but provides the carrying amount for 2017 as $511.7 million. However, without the total carrying amount for 2016, it is not possible to calculate the percentage change.
+
+Document 1 mentions that goodwill is tested for impairment at least annually, but it does not provide the total carrying amount for 2016 or 2017.
+
+Document 2 mentions that the company completed its scheduled annual assessment for goodwill impairment across its eleven reporting units through a quantitative analysis, but it does not provide the total carrying amount for 2016 or 2017.
+
+Document 9 states that goodwill of $511.7 million arising from the acquisition consists largely of the synergies and economies of scale expected through adding complementary geographies and innovative products to the company's healthcare portfolio. It does not provide the total carrying amount for 2016.
+
+Document 10 mentions that the"

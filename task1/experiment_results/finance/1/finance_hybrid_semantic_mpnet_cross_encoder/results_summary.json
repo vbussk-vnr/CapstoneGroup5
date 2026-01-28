@@ -1,0 +1,72 @@
+{
+  "config": {
+    "name": "finance_hybrid_semantic_mpnet_cross_encoder",
+    "domain": "finance",
+    "subset": "finqa",
+    "chunking_strategy": "semantic",
+    "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+    "retrieval_type": "hybrid",
+    "top_k_final": 10,
+    "use_cross_encoder": true
+  },
+  "comparison": {
+    "relevance_score": {
+      "rmse": 0.26016465972124897,
+      "aucroc": null,
+      "mean_predicted": 0.16464010837428944,
+      "mean_ground_truth": 0.08437109118085245,
+      "std_predicted": 0.23516583891076054,
+      "std_ground_truth": 0.09803085289608306
+    },
+    "utilization_score": {
+      "rmse": 0.08808218497502086,
+      "aucroc": null,
+      "mean_predicted": 0.044335526060985585,
+      "mean_ground_truth": 0.061467588289800076,
+      "std_predicted": 0.07151780875323227,
+      "std_ground_truth": 0.05421133093201152
+    },
+    "completeness_score": {
+      "rmse": 0.5480581861956995,
+      "aucroc": null,
+      "mean_predicted": 0.5657294956104699,
+      "mean_ground_truth": 0.8694999999999999,
+      "std_predicted": 0.411194935896701,
+      "std_ground_truth": 0.2763759014257373
+    },
+    "adherence_score": {
+      "rmse": null,
+      "aucroc": 0.5081716036772217,
+      "mean_predicted": 0.56,
+      "mean_ground_truth": 0.89,
+      "std_predicted": 0.4963869458396343,
+      "std_ground_truth": 0.31288975694324034
+    }
+  },
+  "predicted_metrics_summary": {
+    "relevance_score": {
+      "mean": 0.16464010837428944,
+      "std": 0.23516583891076054,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "utilization_score": {
+      "mean": 0.044335526060985585,
+      "std": 0.07151780875323227,
+      "min": 0.0,
+      "max": 0.6129032258064516
+    },
+    "completeness_score": {
+      "mean": 0.5657294956104699,
+      "std": 0.411194935896701,
+      "min": 0.0,
+      "max": 1.0
+    },
+    "adherence_score": {
+      "mean": 0.56,
+      "std": 0.4963869458396343,
+      "min": 0.0,
+      "max": 1.0
+    }
+  }
+}

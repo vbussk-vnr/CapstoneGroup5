@@ -1,0 +1,10 @@
+{
+  "name": "finance_hybrid_semantic_mpnet_cross_encoder",
+  "domain": "finance",
+  "subset": "finqa",
+  "chunking_strategy": "semantic",
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "retrieval_type": "hybrid",
+  "top_k_final": 10,
+  "use_cross_encoder": true
+}

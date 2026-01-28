@@ -1,0 +1,11 @@
+{
+  "name": "finance_hybrid_semantic_financebert",
+  "domain": "finance",
+  "subset": "finqa",
+  "chunking_strategy": "semantic",
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "retrieval_type": "hybrid",
+  "top_k_final": 10,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.3
+}

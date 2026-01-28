@@ -1,0 +1,11 @@
+{
+  "name": "finance_dense_sentence_minilm",
+  "domain": "finance",
+  "subset": "finqa",
+  "chunking_strategy": "sentence_based",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "retrieval_type": "dense",
+  "top_k_final": 10,
+  "use_cross_encoder": false,
+  "hybrid_alpha": 0.3
+}

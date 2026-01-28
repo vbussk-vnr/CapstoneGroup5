@@ -1,0 +1,11 @@
+{
+  "name": "finance_hybrid_sentence_minilm_crossEncoder",
+  "domain": "finance",
+  "subset": "finqa",
+  "chunking_strategy": "sentence_based",
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "retrieval_type": "hybrid",
+  "top_k_final": 10,
+  "use_cross_encoder": true,
+  "hybrid_alpha": 0.3
+}

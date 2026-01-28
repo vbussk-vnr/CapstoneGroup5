@@ -1,0 +1,40 @@
+id,question,relevance_score,utilization_score,completeness_score,adherence_score,response
+finqa_6345,what is the rate of return in cadence design systems inc . of an investment from 2010 to 2011?,0.9733333333333334,0.12,0.1232876712328767,0.0,"Unfortunately, the provided context documents do not explicitly state the rate of return in Cadence Design Systems Inc. of an investment from 2010 to 2011.
+
+However, we can use the data from Document 1 to estimate the cumulative total return of Cadence Design Systems Inc. from 2010 to 2011. The graph in Document 1 shows the cumulative 5-year total stockholder return on Cadence Design Systems Inc. relative to the cumulative total return of the NASDAQ Composite Index and the S&P 400 Information Technology Index.
+
+From the graph in Document 1, we can see that the value of the investment in Cadence Design Systems Inc. on January 3, 2011, is $134.11 (which is the value after 5 years from January 2, 2010).
+
+To estimate the rate of return, we need to know the value of the investment on December 31, 2010, and the value on January 3, 2011. However, this information is not provided in the graph.
+
+We can try to estimate the rate of return using the data from other documents. Document 4 describes the increase in net sales in 2011 compared to 2010, but it does not provide the"
+finqa_7055,what is the ratio of the total american personnel to us airways personnel,0.75,0.75,1.0,0.0,"To find the ratio of the total American personnel to US Airways personnel, we need to sum the total personnel for American and US Airways from Document 1.
+
+Total American personnel: 61600 (American) + 32800 (US Airways) = 94400
+Total US Airways personnel: 32800 (US Airways) + 18900 (US Airways regional carriers) = 51700
+
+The ratio of the total American personnel to US Airways personnel is 94400 / 51700 = 1.83 or approximately 2:1."
+finqa_6634,what portion of total assets acquired of anios are intangible assets?,0.3375,0.0625,0.18518518518518517,0.0,"To answer the question, we need to look at the table in Document 4 that shows the components of the total assets acquired of Anios.
+
+Total assets acquired = $19427
+Customer-related intangible assets = $4091
+
+To find the portion of intangible assets, we need to divide the customer-related intangible assets by the total assets acquired and multiply by 100.
+
+(Intangible assets / Total assets acquired) × 100
+= ($4091 / $19427) × 100
+= 21%
+
+So, approximately 21% of the total assets acquired of Anios are intangible assets."
+finqa_6587,what is the five year total return on the goldman sachs group inc.?,0.10810810810810811,0.0,0.0,0.0,I do not have enough information in the provided context documents to answer the question.
+finqa_7027,what is the percentage change in the total carrying amount of goodwill from 2016 to 2017?,1.055045871559633,0.944954128440367,0.8956521739130435,0.0,"Based on the information provided in the context documents ( particularly in Document 2 and the table in Document 10 is not relevant to the question so we will use the information in Document 2 and Document 8 ) we can calculate the percentage change in the total carrying amount of goodwill from 2016 to 2017.
+
+According to Document 2, the total goodwill as of December 2016 was $3.67 billion.
+
+According to Document 8, the total goodwill as of December 2017 is not directly provided but we can find the change in goodwill for each segment. However, the total goodwill for 2017 is not provided. We can only find the total goodwill for 2016 which is $3.67 billion.
+
+We can find the total goodwill for 2017 in Document 2 which states that goodwill of $3.67 billion as of both December 2017 and December 2016.
+
+However, if we go to Document 10, we can find the answer to the question. Document 10 is not useful to calculate the total goodwill for 2017, but we can use the information in Document 2 which states that goodwill of $3.67 billion as of both December 2017 and December 2016.
+
+However"

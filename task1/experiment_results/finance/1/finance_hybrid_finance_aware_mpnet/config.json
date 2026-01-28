@@ -1,0 +1,10 @@
+{
+  "name": "finance_hybrid_finance_aware_mpnet",
+  "domain": "finance",
+  "subset": "finqa",
+  "chunking_strategy": "finance_aware",
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "retrieval_type": "hybrid",
+  "top_k_final": 10,
+  "use_cross_encoder": false
+}

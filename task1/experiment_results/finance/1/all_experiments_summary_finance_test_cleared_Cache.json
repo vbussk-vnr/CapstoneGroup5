@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-01-22T22:36:52.614519",
+  "total_experiments": 1,
+  "experiments": [
+    {
+      "experiment": "finance_minilm",
+      "config": {
+        "name": "finance_minilm",
+        "domain": "finance",
+        "subset": "finqa",
+        "chunking_strategy": "sentence_based",
+        "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+        "retrieval_type": "dense",
+        "top_k_final": 10,
+        "use_cross_encoder": false,
+        "hybrid_alpha": 0.3
+      },
+      "comparison": {
+        "relevance_score": {
+          "rmse": 0.07466057230317706,
+          "aucroc": 0.6666666666666667,
+          "mean_predicted": 0.0848922867461985,
+          "mean_ground_truth": 0.08244444444444445,
+          "std_predicted": 0.08045730288967294,
+          "std_ground_truth": 0.031002986713947175
+        },
+        "utilization_score": {
+          "rmse": 0.05382060141284846,
+          "aucroc": 0.8333333333333334,
+          "mean_predicted": 0.06157537377411312,
+          "mean_ground_truth": 0.07244444444444445,
+          "std_predicted": 0.06618191488832206,
+          "std_ground_truth": 0.03178166254421052
+        },
+        "completeness_score": {
+          "rmse": 0.4312771730569565,
+          "aucroc": NaN,
+          "mean_predicted": 0.8,
+          "mean_ground_truth": 0.9,
+          "std_predicted": 0.30983866769659335,
+          "std_ground_truth": 0.2
+        },
+        "adherence_score": {
+          "rmse": 0.6324555320336759,
+          "aucroc": 0.75,
+          "mean_predicted": 0.4,
+          "mean_ground_truth": 0.8,
+          "std_predicted": 0.48989794855663565,
+          "std_ground_truth": 0.4
+        }
+      }
+    }
+  ]
+}
